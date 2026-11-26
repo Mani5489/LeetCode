@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:24:31.061Z",
+  "updatedAt": "2026-11-26T03:24:38.019Z",
   "problems": [
+    {
+      "frontendId": "1876",
+      "title": "Substrings of Size Three with Distinct Characters",
+      "slug": "substrings-of-size-three-with-distinct-characters",
+      "problemName": "1876-substrings-of-size-three-with-distinct-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/",
+      "folderPath": "leetcode/1876-substrings-of-size-three-with-distinct-characters/",
+      "readmePath": "leetcode/1876-substrings-of-size-three-with-distinct-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1876-substrings-of-size-three-with-distinct-characters.py",
+          "path": "leetcode/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.py",
+          "sha": "600a5f15cf5b3ad2296cfb7f4a156568ed066cc8",
+          "lastSyncedAt": "2026-11-26T03:24:38.019Z"
+        }
+      ]
+    },
     {
       "frontendId": "1897",
       "title": "Redistribute Characters to Make All Strings Equal",
