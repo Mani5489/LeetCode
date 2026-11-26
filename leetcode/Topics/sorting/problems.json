@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:29:38.038Z",
+  "updatedAt": "2026-11-26T03:29:47.996Z",
   "problems": [
+    {
+      "frontendId": "3774",
+      "title": "Absolute Difference Between Maximum and Minimum K Elements",
+      "slug": "absolute-difference-between-maximum-and-minimum-k-elements",
+      "problemName": "3774-absolute-difference-between-maximum-and-minimum-k-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/",
+      "folderPath": "leetcode/3774-absolute-difference-between-maximum-and-minimum-k-elements/",
+      "readmePath": "leetcode/3774-absolute-difference-between-maximum-and-minimum-k-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3774-absolute-difference-between-maximum-and-minimum-k-elements.py",
+          "path": "leetcode/3774-absolute-difference-between-maximum-and-minimum-k-elements/3774-absolute-difference-between-maximum-and-minimum-k-elements.py",
+          "sha": "bb1f02ac14182d9c4dc6453abbe6722a7dc4507e",
+          "lastSyncedAt": "2026-11-26T03:29:47.996Z"
+        }
+      ]
+    },
     {
       "frontendId": "3992",
       "title": "Rearrange String to Avoid Character Pair",
