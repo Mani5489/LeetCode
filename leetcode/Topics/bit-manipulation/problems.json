@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-26T03:25:30.657Z",
+  "updatedAt": "2026-11-26T03:35:19.168Z",
   "problems": [
+    {
+      "frontendId": "1356",
+      "title": "Sort Integers by The Number of 1 Bits",
+      "slug": "sort-integers-by-the-number-of-1-bits",
+      "problemName": "1356-sort-integers-by-the-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+      "folderPath": "leetcode/1356-sort-integers-by-the-number-of-1-bits/",
+      "readmePath": "leetcode/1356-sort-integers-by-the-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1356-sort-integers-by-the-number-of-1-bits.py",
+          "path": "leetcode/1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.py",
+          "sha": "3c67c4b642f71d56d1c456376a808369a7cefa50",
+          "lastSyncedAt": "2026-11-26T03:35:19.168Z"
+        }
+      ]
+    },
     {
       "frontendId": "1684",
       "title": "Count the Number of Consistent Strings",
