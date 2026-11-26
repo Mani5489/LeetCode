@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T05:23:59.773Z",
+  "updatedAt": "2026-11-26T05:24:14.044Z",
   "problems": [
     {
       "frontendId": "5",
@@ -24,6 +24,26 @@
           "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "39894014c4cc59e73de088ed243bd5dc2f80a3f4",
           "lastSyncedAt": "2026-11-26T05:22:14.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "leetcode/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "leetcode/0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0026-remove-duplicates-from-sorted-array.py",
+          "path": "leetcode/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
+          "sha": "43cefce92fd936812199c9ba1bb0332067a52a70",
+          "lastSyncedAt": "2026-11-26T05:24:14.044Z"
         }
       ]
     },
