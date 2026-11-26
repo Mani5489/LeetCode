@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T16:03:00.370Z",
+  "updatedAt": "2026-11-26T16:03:04.979Z",
   "problems": [
     {
       "frontendId": "9",
@@ -683,7 +683,7 @@
           "filename": "2591-distribute-money-to-maximum-children.py",
           "path": "leetcode/2591-distribute-money-to-maximum-children/2591-distribute-money-to-maximum-children.py",
           "sha": "a575f9527fd15eb88cc552da8bc818ff78d17bb1",
-          "lastSyncedAt": "2026-11-26T06:01:31.703Z"
+          "lastSyncedAt": "2026-11-26T16:03:04.979Z"
         }
       ]
     },
