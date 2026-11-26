@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T15:59:21.954Z",
+  "updatedAt": "2026-11-26T15:59:29.639Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1283,7 +1283,7 @@
           "filename": "1200-minimum-absolute-difference.py",
           "path": "leetcode/1200-minimum-absolute-difference/1200-minimum-absolute-difference.py",
           "sha": "11e5e10c6aab68b715297e8e8b5125378d9215cd",
-          "lastSyncedAt": "2026-11-26T05:57:56.648Z"
+          "lastSyncedAt": "2026-11-26T15:59:29.639Z"
         }
       ]
     },
