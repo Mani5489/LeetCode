@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T03:42:03.316Z",
+  "updatedAt": "2026-11-26T03:42:09.484Z",
   "problems": [
     {
       "frontendId": "1005",
@@ -24,6 +24,26 @@
           "path": "leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
           "sha": "2d9d6a343be066700db93d3b631b08cd2048173b",
           "lastSyncedAt": "2026-11-26T03:36:40.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "problemName": "1903-largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "folderPath": "leetcode/1903-largest-odd-number-in-string/",
+      "readmePath": "leetcode/1903-largest-odd-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1903-largest-odd-number-in-string.py",
+          "path": "leetcode/1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.py",
+          "sha": "3cfc72944f7757b9a8307c1ae2b5c6b5dbad089f",
+          "lastSyncedAt": "2026-11-26T03:42:09.484Z"
         }
       ]
     },
