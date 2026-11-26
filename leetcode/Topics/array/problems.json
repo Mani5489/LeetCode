@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:10:25.306Z",
+  "updatedAt": "2026-11-26T05:10:33.143Z",
   "problems": [
     {
       "frontendId": "56",
@@ -1864,6 +1864,26 @@
           "path": "leetcode/3024-type-of-triangle/3024-type-of-triangle.py",
           "sha": "9546a297199ee4063014848e1b9d3f3f536197dc",
           "lastSyncedAt": "2026-11-26T04:56:49.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3043",
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "problemName": "3043-find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+      "folderPath": "leetcode/3043-find-the-length-of-the-longest-common-prefix/",
+      "readmePath": "leetcode/3043-find-the-length-of-the-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3043-find-the-length-of-the-longest-common-prefix.py",
+          "path": "leetcode/3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.py",
+          "sha": "86095b65c44788f4c66c172913ab73a053a8938d",
+          "lastSyncedAt": "2026-11-26T05:10:33.143Z"
         }
       ]
     },
