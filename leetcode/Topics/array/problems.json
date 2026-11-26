@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:19:44.590Z",
+  "updatedAt": "2026-11-26T05:19:55.408Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "leetcode/0001-two-sum/",
+      "readmePath": "leetcode/0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0001-two-sum.py",
+          "path": "leetcode/0001-two-sum/0001-two-sum.py",
+          "sha": "dbea5de9ae971d4f048a9816e2ff5ea6043dea95",
+          "lastSyncedAt": "2026-11-26T05:19:55.408Z"
+        }
+      ]
+    },
     {
       "frontendId": "34",
       "title": "Find First and Last Position of Element in Sorted Array",
