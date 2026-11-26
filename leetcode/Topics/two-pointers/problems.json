@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T05:15:19.798Z",
+  "updatedAt": "2026-11-26T05:17:13.494Z",
   "problems": [
     {
       "frontendId": "202",
@@ -84,6 +84,26 @@
           "path": "leetcode/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.py",
           "sha": "7750bb31e462e240ffabf759eb0bbce3fb96e5ef",
           "lastSyncedAt": "2026-11-26T05:11:25.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "problemName": "0350-intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+      "folderPath": "leetcode/0350-intersection-of-two-arrays-ii/",
+      "readmePath": "leetcode/0350-intersection-of-two-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0350-intersection-of-two-arrays-ii.py",
+          "path": "leetcode/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py",
+          "sha": "50b0745d40d335e0bc161e945b9ecfc5b5f53554",
+          "lastSyncedAt": "2026-11-26T05:17:13.494Z"
         }
       ]
     },
