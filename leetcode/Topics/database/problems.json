@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:11:59.211Z",
+  "updatedAt": "2026-11-26T05:13:06.356Z",
   "problems": [
     {
       "frontendId": "3482",
@@ -104,6 +104,26 @@
           "path": "leetcode/3564-seasonal-sales-analysis/3564-seasonal-sales-analysis.sql",
           "sha": "12ee6a3cf0f2c1ee0fdbefcc30fd5d71dfbd3413",
           "lastSyncedAt": "2026-11-26T05:05:45.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3570",
+      "title": "Find Books with No Available Copies",
+      "slug": "find-books-with-no-available-copies",
+      "problemName": "3570-find-books-with-no-available-copies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-books-with-no-available-copies/",
+      "folderPath": "leetcode/3570-find-books-with-no-available-copies/",
+      "readmePath": "leetcode/3570-find-books-with-no-available-copies/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3570-find-books-with-no-available-copies.sql",
+          "path": "leetcode/3570-find-books-with-no-available-copies/3570-find-books-with-no-available-copies.sql",
+          "sha": "a110ed8402fd7a50e71b3632514d62e3d3eb30f2",
+          "lastSyncedAt": "2026-11-26T05:13:06.356Z"
         }
       ]
     },
