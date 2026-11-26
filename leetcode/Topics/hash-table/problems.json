@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T19:04:21.613Z",
+  "updatedAt": "2026-11-26T19:04:29.777Z",
   "problems": [
     {
       "frontendId": "1",
@@ -683,7 +683,7 @@
           "filename": "0953-verifying-an-alien-dictionary.py",
           "path": "leetcode/0953-verifying-an-alien-dictionary/0953-verifying-an-alien-dictionary.py",
           "sha": "34818130491c31a45d9eb65ae251c6f8d551a126",
-          "lastSyncedAt": "2026-11-26T15:52:41.221Z"
+          "lastSyncedAt": "2026-11-26T19:04:29.777Z"
         }
       ]
     },
