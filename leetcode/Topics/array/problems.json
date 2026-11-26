@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:58:59.622Z",
+  "updatedAt": "2026-11-26T05:59:06.269Z",
   "problems": [
     {
       "frontendId": "1",
@@ -803,7 +803,7 @@
           "filename": "0747-largest-number-at-least-twice-of-others.py",
           "path": "leetcode/0747-largest-number-at-least-twice-of-others/0747-largest-number-at-least-twice-of-others.py",
           "sha": "179706390cf9ba5dd82b201c69e50a9077dd1b4a",
-          "lastSyncedAt": "2026-11-26T05:01:49.714Z"
+          "lastSyncedAt": "2026-11-26T05:59:06.269Z"
         }
       ]
     },
