@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:26:34.888Z",
+  "updatedAt": "2026-11-26T05:26:40.151Z",
   "problems": [
     {
       "frontendId": "175",
@@ -584,6 +584,26 @@
           "path": "leetcode/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
           "sha": "d246d843224df7d61fd11e6a15a0133a82413c7a",
           "lastSyncedAt": "2026-11-26T05:25:27.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1873",
+      "title": "Calculate Special Bonus",
+      "slug": "calculate-special-bonus",
+      "problemName": "1873-calculate-special-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-special-bonus/",
+      "folderPath": "leetcode/1873-calculate-special-bonus/",
+      "readmePath": "leetcode/1873-calculate-special-bonus/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1873-calculate-special-bonus.sql",
+          "path": "leetcode/1873-calculate-special-bonus/1873-calculate-special-bonus.sql",
+          "sha": "9c2994a81a3811fa66087319c5bb7072d29fdc39",
+          "lastSyncedAt": "2026-11-26T05:26:40.151Z"
         }
       ]
     },
