@@ -5,7 +5,7 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-11-26T05:58:16.988Z",
+  "updatedAt": "2026-11-26T06:04:34.772Z",
   "problems": [
     {
       "frontendId": "56",
@@ -63,7 +63,7 @@
           "filename": "0976-largest-perimeter-triangle.py",
           "path": "leetcode/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
           "sha": "445171e107f1b762c7f8f31632f1a9262d9d670b",
-          "lastSyncedAt": "2026-11-26T05:06:29.782Z"
+          "lastSyncedAt": "2026-11-26T06:04:34.772Z"
         }
       ]
     },
