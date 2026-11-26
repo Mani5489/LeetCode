@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T06:09:55.686Z",
+  "updatedAt": "2026-11-26T06:10:14.243Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1483,7 +1483,7 @@
           "filename": "1385-find-the-distance-value-between-two-arrays.py",
           "path": "leetcode/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
           "sha": "c0c90cd3a5218ed169b4f48e8dee59f20ae056b3",
-          "lastSyncedAt": "2026-11-26T05:14:57.908Z"
+          "lastSyncedAt": "2026-11-26T06:10:14.243Z"
         }
       ]
     },
