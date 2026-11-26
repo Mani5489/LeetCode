@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T16:00:22.263Z",
+  "updatedAt": "2026-11-26T16:00:29.785Z",
   "problems": [
     {
       "frontendId": "56",
@@ -403,7 +403,7 @@
           "filename": "0922-sort-array-by-parity-ii.py",
           "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
           "sha": "b5895f1b7b25e8caad02f761fae04cf3c483d188",
-          "lastSyncedAt": "2026-11-26T05:58:52.370Z"
+          "lastSyncedAt": "2026-11-26T16:00:29.785Z"
         }
       ]
     },
