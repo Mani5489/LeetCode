@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T05:03:58.218Z",
+  "updatedAt": "2026-11-26T05:04:01.977Z",
   "problems": [
     {
       "frontendId": "976",
@@ -523,7 +523,7 @@
           "filename": "2591-distribute-money-to-maximum-children.py",
           "path": "leetcode/2591-distribute-money-to-maximum-children/2591-distribute-money-to-maximum-children.py",
           "sha": "a575f9527fd15eb88cc552da8bc818ff78d17bb1",
-          "lastSyncedAt": "2026-11-26T03:39:56.918Z"
+          "lastSyncedAt": "2026-11-26T05:04:01.977Z"
         }
       ]
     },
