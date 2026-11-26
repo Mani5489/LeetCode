@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-26T03:31:49.768Z",
+  "updatedAt": "2026-11-26T03:33:07.211Z",
   "problems": [
+    {
+      "frontendId": "2231",
+      "title": "Largest Number After Digit Swaps by Parity",
+      "slug": "largest-number-after-digit-swaps-by-parity",
+      "problemName": "2231-largest-number-after-digit-swaps-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/",
+      "folderPath": "leetcode/2231-largest-number-after-digit-swaps-by-parity/",
+      "readmePath": "leetcode/2231-largest-number-after-digit-swaps-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2231-largest-number-after-digit-swaps-by-parity.py",
+          "path": "leetcode/2231-largest-number-after-digit-swaps-by-parity/2231-largest-number-after-digit-swaps-by-parity.py",
+          "sha": "e3db1e68a6ff942e8d2a71425c73d52e63fad88f",
+          "lastSyncedAt": "2026-11-26T03:33:07.211Z"
+        }
+      ]
+    },
     {
       "frontendId": "2500",
       "title": "Delete Greatest Value in Each Row",
