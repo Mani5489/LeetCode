@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-26T03:35:19.168Z",
+  "updatedAt": "2026-11-26T03:37:19.744Z",
   "problems": [
+    {
+      "frontendId": "594",
+      "title": "Longest Harmonious Subsequence",
+      "slug": "longest-harmonious-subsequence",
+      "problemName": "0594-longest-harmonious-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-harmonious-subsequence/",
+      "folderPath": "leetcode/0594-longest-harmonious-subsequence/",
+      "readmePath": "leetcode/0594-longest-harmonious-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0594-longest-harmonious-subsequence.py",
+          "path": "leetcode/0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.py",
+          "sha": "d9afe7934da8f33086d28fc4ab3c5eae3669be56",
+          "lastSyncedAt": "2026-11-26T03:37:19.744Z"
+        }
+      ]
+    },
     {
       "frontendId": "819",
       "title": "Most Common Word",
