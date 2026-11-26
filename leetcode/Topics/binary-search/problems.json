@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T15:55:47.529Z",
+  "updatedAt": "2026-11-26T15:59:09.851Z",
   "problems": [
     {
       "frontendId": "34",
@@ -303,7 +303,7 @@
           "filename": "1337-the-k-weakest-rows-in-a-matrix.py",
           "path": "leetcode/1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.py",
           "sha": "9ea036a86c40f8c2ccdc329a502182a2b3d22de1",
-          "lastSyncedAt": "2026-11-26T05:57:37.130Z"
+          "lastSyncedAt": "2026-11-26T15:59:09.851Z"
         }
       ]
     },
