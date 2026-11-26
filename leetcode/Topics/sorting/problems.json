@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:33:43.696Z",
+  "updatedAt": "2026-11-26T03:33:53.121Z",
   "problems": [
+    {
+      "frontendId": "1984",
+      "title": "Minimum Difference Between Highest and Lowest of K Scores",
+      "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "problemName": "1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+      "folderPath": "leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores/",
+      "readmePath": "leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.py",
+          "path": "leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.py",
+          "sha": "62b71159e5af7d7e7e858e2d5175d15fada0d59b",
+          "lastSyncedAt": "2026-11-26T03:33:53.121Z"
+        }
+      ]
+    },
     {
       "frontendId": "2099",
       "title": "Find Subsequence of Length K With the Largest Sum",
