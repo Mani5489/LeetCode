@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:53:24.476Z",
+  "updatedAt": "2026-11-26T05:53:32.370Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2563,7 +2563,7 @@
           "filename": "3024-type-of-triangle.py",
           "path": "leetcode/3024-type-of-triangle/3024-type-of-triangle.py",
           "sha": "9546a297199ee4063014848e1b9d3f3f536197dc",
-          "lastSyncedAt": "2026-11-26T04:56:49.426Z"
+          "lastSyncedAt": "2026-11-26T05:53:32.370Z"
         }
       ]
     },
