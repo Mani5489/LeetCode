@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-26T05:04:30.163Z",
+  "updatedAt": "2026-11-26T05:10:25.306Z",
   "problems": [
+    {
+      "frontendId": "495",
+      "title": "Teemo Attacking",
+      "slug": "teemo-attacking",
+      "problemName": "0495-teemo-attacking",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/teemo-attacking/",
+      "folderPath": "leetcode/0495-teemo-attacking/",
+      "readmePath": "leetcode/0495-teemo-attacking/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0495-teemo-attacking.py",
+          "path": "leetcode/0495-teemo-attacking/0495-teemo-attacking.py",
+          "sha": "49a17de082d555ee711645bc71b4af36304dbc04",
+          "lastSyncedAt": "2026-11-26T05:10:25.306Z"
+        }
+      ]
+    },
     {
       "frontendId": "1275",
       "title": "Find Winner on a Tic Tac Toe Game",
