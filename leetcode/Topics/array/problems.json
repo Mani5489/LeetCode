@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T04:55:39.313Z",
+  "updatedAt": "2026-11-26T04:55:43.344Z",
   "problems": [
     {
       "frontendId": "500",
@@ -63,7 +63,7 @@
           "filename": "0575-distribute-candies.py",
           "path": "leetcode/0575-distribute-candies/0575-distribute-candies.py",
           "sha": "1069126b7a4d3014fd278a47538b714363a771de",
-          "lastSyncedAt": "2026-11-26T03:54:02.735Z"
+          "lastSyncedAt": "2026-11-26T04:55:43.344Z"
         }
       ]
     },
