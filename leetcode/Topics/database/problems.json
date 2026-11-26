@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T16:09:03.391Z",
+  "updatedAt": "2026-11-26T16:09:27.920Z",
   "problems": [
     {
       "frontendId": "175",
@@ -803,7 +803,7 @@
           "filename": "3497-analyze-subscription-conversion.sql",
           "path": "leetcode/3497-analyze-subscription-conversion/3497-analyze-subscription-conversion.sql",
           "sha": "6f9430cf3f285048a63946b7bcab6eb63443b81d",
-          "lastSyncedAt": "2026-11-26T06:08:33.174Z"
+          "lastSyncedAt": "2026-11-26T16:09:27.920Z"
         }
       ]
     },
