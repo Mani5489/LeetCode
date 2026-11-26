@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T05:21:52.062Z",
+  "updatedAt": "2026-11-26T05:22:46.704Z",
   "problems": [
     {
       "frontendId": "9",
@@ -24,6 +24,26 @@
           "path": "leetcode/0009-palindrome-number/0009-palindrome-number.py",
           "sha": "d80139c1cce364881fa925d220e8fefab9666951",
           "lastSyncedAt": "2026-11-26T05:21:52.062Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "leetcode/0013-roman-to-integer/",
+      "readmePath": "leetcode/0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0013-roman-to-integer.py",
+          "path": "leetcode/0013-roman-to-integer/0013-roman-to-integer.py",
+          "sha": "223a1c0aeb7b0038b3078c50f883322445a3da4c",
+          "lastSyncedAt": "2026-11-26T05:22:46.704Z"
         }
       ]
     },
