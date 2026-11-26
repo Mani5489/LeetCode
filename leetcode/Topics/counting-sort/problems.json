@@ -5,8 +5,28 @@
     "name": "Counting Sort",
     "tagId": "61072"
   },
-  "updatedAt": "2026-11-26T05:05:18.519Z",
+  "updatedAt": "2026-11-26T05:07:15.509Z",
   "problems": [
+    {
+      "frontendId": "561",
+      "title": "Array Partition",
+      "slug": "array-partition",
+      "problemName": "0561-array-partition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/array-partition/",
+      "folderPath": "leetcode/0561-array-partition/",
+      "readmePath": "leetcode/0561-array-partition/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0561-array-partition.py",
+          "path": "leetcode/0561-array-partition/0561-array-partition.py",
+          "sha": "e436873284ce6347b91b14464d3decac48255da6",
+          "lastSyncedAt": "2026-11-26T05:07:15.509Z"
+        }
+      ]
+    },
     {
       "frontendId": "1051",
       "title": "Height Checker",
