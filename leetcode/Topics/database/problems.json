@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:24:07.782Z",
+  "updatedAt": "2026-11-26T05:24:38.386Z",
   "problems": [
     {
       "frontendId": "175",
@@ -424,6 +424,26 @@
           "path": "leetcode/1484-group-sold-products-by-the-date/1484-group-sold-products-by-the-date.sql",
           "sha": "7585b9dc881cd76be7df22a0ab828593340c5d67",
           "lastSyncedAt": "2026-11-26T05:18:19.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1907",
+      "title": "Count Salary Categories",
+      "slug": "count-salary-categories",
+      "problemName": "1907-count-salary-categories",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-salary-categories/",
+      "folderPath": "leetcode/1907-count-salary-categories/",
+      "readmePath": "leetcode/1907-count-salary-categories/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1907-count-salary-categories.sql",
+          "path": "leetcode/1907-count-salary-categories/1907-count-salary-categories.sql",
+          "sha": "7f106a472566347ebcfeb2e42a6be7a33af3898d",
+          "lastSyncedAt": "2026-11-26T05:24:38.386Z"
         }
       ]
     },
