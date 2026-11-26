@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:08:38.971Z",
+  "updatedAt": "2026-11-26T05:09:12.170Z",
   "problems": [
     {
       "frontendId": "283",
@@ -1524,6 +1524,26 @@
           "path": "leetcode/2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.py",
           "sha": "7fa3c789683c36d28aa0cab95146212fdb28164f",
           "lastSyncedAt": "2026-11-26T04:57:13.076Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2496",
+      "title": "Maximum Value of a String in an Array",
+      "slug": "maximum-value-of-a-string-in-an-array",
+      "problemName": "2496-maximum-value-of-a-string-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/",
+      "folderPath": "leetcode/2496-maximum-value-of-a-string-in-an-array/",
+      "readmePath": "leetcode/2496-maximum-value-of-a-string-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2496-maximum-value-of-a-string-in-an-array.py",
+          "path": "leetcode/2496-maximum-value-of-a-string-in-an-array/2496-maximum-value-of-a-string-in-an-array.py",
+          "sha": "f2e851ecb98b161fb75611815315e07dcc5716d0",
+          "lastSyncedAt": "2026-11-26T05:09:12.170Z"
         }
       ]
     },
