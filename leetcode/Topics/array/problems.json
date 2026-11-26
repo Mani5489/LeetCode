@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T06:00:16.712Z",
+  "updatedAt": "2026-11-26T06:00:24.908Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2643,7 +2643,7 @@
           "filename": "3402-minimum-operations-to-make-columns-strictly-increasing.py",
           "path": "leetcode/3402-minimum-operations-to-make-columns-strictly-increasing/3402-minimum-operations-to-make-columns-strictly-increasing.py",
           "sha": "65bf650b593c066d754106f94f2a2d62e8c66ce4",
-          "lastSyncedAt": "2026-11-26T05:02:59.585Z"
+          "lastSyncedAt": "2026-11-26T06:00:24.908Z"
         }
       ]
     },
