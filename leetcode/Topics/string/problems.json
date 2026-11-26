@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T16:09:14.941Z",
+  "updatedAt": "2026-11-26T16:09:19.210Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1303,7 +1303,7 @@
           "filename": "2288-apply-discount-to-prices.py",
           "path": "leetcode/2288-apply-discount-to-prices/2288-apply-discount-to-prices.py",
           "sha": "c898aa884a638960b20f20abb789873f60b6f7be",
-          "lastSyncedAt": "2026-11-26T06:08:21.425Z"
+          "lastSyncedAt": "2026-11-26T16:09:19.210Z"
         }
       ]
     },
