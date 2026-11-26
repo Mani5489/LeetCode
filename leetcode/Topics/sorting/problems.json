@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:59:05.643Z",
+  "updatedAt": "2026-11-26T03:59:14.461Z",
   "problems": [
     {
       "frontendId": "506",
@@ -383,7 +383,7 @@
           "filename": "1502-can-make-arithmetic-progression-from-sequence.py",
           "path": "leetcode/1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.py",
           "sha": "ebe9aa832128a581c47f329daaba1420c6be4f92",
-          "lastSyncedAt": "2026-11-26T03:36:09.103Z"
+          "lastSyncedAt": "2026-11-26T03:59:14.461Z"
         }
       ]
     },
