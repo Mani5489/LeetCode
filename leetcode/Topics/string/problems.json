@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:07:49.186Z",
+  "updatedAt": "2026-11-26T05:08:11.455Z",
   "problems": [
     {
       "frontendId": "409",
@@ -24,6 +24,26 @@
           "path": "leetcode/0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "94551377a0d2cc895549f59db0dc411b52e64bcc",
           "lastSyncedAt": "2026-11-26T05:07:27.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "434",
+      "title": "Number of Segments in a String",
+      "slug": "number-of-segments-in-a-string",
+      "problemName": "0434-number-of-segments-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-segments-in-a-string/",
+      "folderPath": "leetcode/0434-number-of-segments-in-a-string/",
+      "readmePath": "leetcode/0434-number-of-segments-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0434-number-of-segments-in-a-string.py",
+          "path": "leetcode/0434-number-of-segments-in-a-string/0434-number-of-segments-in-a-string.py",
+          "sha": "8fdd939aaf7a0f6f6218052e51a369befa165fbd",
+          "lastSyncedAt": "2026-11-26T05:08:11.455Z"
         }
       ]
     },
