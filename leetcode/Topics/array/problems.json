@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:33:21.762Z",
+  "updatedAt": "2026-11-26T03:33:32.037Z",
   "problems": [
     {
       "frontendId": "500",
@@ -444,6 +444,26 @@
           "path": "leetcode/2099-find-subsequence-of-length-k-with-the-largest-sum/2099-find-subsequence-of-length-k-with-the-largest-sum.py",
           "sha": "09970125d0ffd38f31df8ac23c9ce360caba54ba",
           "lastSyncedAt": "2026-11-26T03:33:21.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "problemName": "2154-keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+      "folderPath": "leetcode/2154-keep-multiplying-found-values-by-two/",
+      "readmePath": "leetcode/2154-keep-multiplying-found-values-by-two/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2154-keep-multiplying-found-values-by-two.py",
+          "path": "leetcode/2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.py",
+          "sha": "be42da3a915f77763e9ac5e8142f6f77b3272b0d",
+          "lastSyncedAt": "2026-11-26T03:33:32.037Z"
         }
       ]
     },
