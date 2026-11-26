@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-26T05:18:58.404Z",
+  "updatedAt": "2026-11-26T05:19:10.822Z",
   "problems": [
     {
       "frontendId": "190",
@@ -64,6 +64,26 @@
           "path": "leetcode/0231-power-of-two/0231-power-of-two.py",
           "sha": "4c244e9b9d2b78dfc5f8c675fa21ad9e6a57012e",
           "lastSyncedAt": "2026-11-26T05:13:22.570Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "leetcode/0268-missing-number/",
+      "readmePath": "leetcode/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0268-missing-number.py",
+          "path": "leetcode/0268-missing-number/0268-missing-number.py",
+          "sha": "69aea737800ee6491a02a6c38d1a896b1a778e1b",
+          "lastSyncedAt": "2026-11-26T05:19:10.822Z"
         }
       ]
     },
