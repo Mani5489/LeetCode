@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:31:02.592Z",
+  "updatedAt": "2026-11-26T03:31:14.292Z",
   "problems": [
+    {
+      "frontendId": "2475",
+      "title": "Number of Unequal Triplets in Array",
+      "slug": "number-of-unequal-triplets-in-array",
+      "problemName": "2475-number-of-unequal-triplets-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unequal-triplets-in-array/",
+      "folderPath": "leetcode/2475-number-of-unequal-triplets-in-array/",
+      "readmePath": "leetcode/2475-number-of-unequal-triplets-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2475-number-of-unequal-triplets-in-array.py",
+          "path": "leetcode/2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.py",
+          "sha": "7fa3c789683c36d28aa0cab95146212fdb28164f",
+          "lastSyncedAt": "2026-11-26T03:31:14.292Z"
+        }
+      ]
+    },
     {
       "frontendId": "2974",
       "title": "Minimum Number Game",
