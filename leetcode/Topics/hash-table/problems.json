@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:25:00.453Z",
+  "updatedAt": "2026-11-26T03:25:06.037Z",
   "problems": [
+    {
+      "frontendId": "1790",
+      "title": "Check if One String Swap Can Make Strings Equal",
+      "slug": "check-if-one-string-swap-can-make-strings-equal",
+      "problemName": "1790-check-if-one-string-swap-can-make-strings-equal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/",
+      "folderPath": "leetcode/1790-check-if-one-string-swap-can-make-strings-equal/",
+      "readmePath": "leetcode/1790-check-if-one-string-swap-can-make-strings-equal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1790-check-if-one-string-swap-can-make-strings-equal.py",
+          "path": "leetcode/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.py",
+          "sha": "de8460690ee0dcd7115fdeecaf660956469facb7",
+          "lastSyncedAt": "2026-11-26T03:25:06.037Z"
+        }
+      ]
+    },
     {
       "frontendId": "1796",
       "title": "Second Largest Digit in a String",
