@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T16:16:37.307Z",
+  "updatedAt": "2026-11-26T16:17:11.014Z",
   "problems": [
     {
       "frontendId": "56",
@@ -43,7 +43,7 @@
           "filename": "0088-merge-sorted-array.py",
           "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "ce4cedc9caa35a9074e3520ec8b8b63e15e68fb0",
-          "lastSyncedAt": "2026-11-26T05:24:29.387Z"
+          "lastSyncedAt": "2026-11-26T16:17:11.014Z"
         }
       ]
     },
