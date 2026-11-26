@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T04:52:35.741Z",
+  "updatedAt": "2026-11-26T04:52:40.372Z",
   "problems": [
     {
       "frontendId": "202",
@@ -743,7 +743,7 @@
           "filename": "1790-check-if-one-string-swap-can-make-strings-equal.py",
           "path": "leetcode/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.py",
           "sha": "de8460690ee0dcd7115fdeecaf660956469facb7",
-          "lastSyncedAt": "2026-11-26T04:38:48.087Z"
+          "lastSyncedAt": "2026-11-26T04:52:40.372Z"
         }
       ]
     },
