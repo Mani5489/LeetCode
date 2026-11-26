@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T05:09:27.838Z",
+  "updatedAt": "2026-11-26T05:09:49.960Z",
   "problems": [
     {
       "frontendId": "202",
@@ -24,6 +24,26 @@
           "path": "leetcode/0202-happy-number/0202-happy-number.py",
           "sha": "d10a758e893c9008886bff01f31fb6002748c982",
           "lastSyncedAt": "2026-11-26T04:55:54.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "405",
+      "title": "Convert a Number to Hexadecimal",
+      "slug": "convert-a-number-to-hexadecimal",
+      "problemName": "0405-convert-a-number-to-hexadecimal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+      "folderPath": "leetcode/0405-convert-a-number-to-hexadecimal/",
+      "readmePath": "leetcode/0405-convert-a-number-to-hexadecimal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0405-convert-a-number-to-hexadecimal.py",
+          "path": "leetcode/0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.py",
+          "sha": "26434437c62ce8876a294e10b1e34fe2ddfa4616",
+          "lastSyncedAt": "2026-11-26T05:09:49.960Z"
         }
       ]
     },
