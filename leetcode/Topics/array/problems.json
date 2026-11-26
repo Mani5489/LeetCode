@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:13:53.806Z",
+  "updatedAt": "2026-11-26T05:14:05.767Z",
   "problems": [
     {
       "frontendId": "56",
@@ -1104,6 +1104,26 @@
           "path": "leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "57ed6ff9457d0fc00fc868d8587c73655c026c8d",
           "lastSyncedAt": "2026-11-26T04:53:18.429Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "leetcode/1539-kth-missing-positive-number/",
+      "readmePath": "leetcode/1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1539-kth-missing-positive-number.py",
+          "path": "leetcode/1539-kth-missing-positive-number/1539-kth-missing-positive-number.py",
+          "sha": "a18afb2a41daccd3a08ba14fef4a424f8b737ba2",
+          "lastSyncedAt": "2026-11-26T05:14:05.767Z"
         }
       ]
     },
