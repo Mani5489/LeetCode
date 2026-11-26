@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:35:52.014Z",
+  "updatedAt": "2026-11-26T03:35:58.310Z",
   "problems": [
     {
       "frontendId": "500",
@@ -1164,6 +1164,26 @@
           "path": "leetcode/3774-absolute-difference-between-maximum-and-minimum-k-elements/3774-absolute-difference-between-maximum-and-minimum-k-elements.py",
           "sha": "bb1f02ac14182d9c4dc6453abbe6722a7dc4507e",
           "lastSyncedAt": "2026-11-26T03:29:47.996Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3842",
+      "title": "Toggle Light Bulbs",
+      "slug": "toggle-light-bulbs",
+      "problemName": "3842-toggle-light-bulbs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/toggle-light-bulbs/",
+      "folderPath": "leetcode/3842-toggle-light-bulbs/",
+      "readmePath": "leetcode/3842-toggle-light-bulbs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3842-toggle-light-bulbs.py",
+          "path": "leetcode/3842-toggle-light-bulbs/3842-toggle-light-bulbs.py",
+          "sha": "c54c30afc58e0255ed395877c4c1a707a378a303",
+          "lastSyncedAt": "2026-11-26T03:35:58.310Z"
         }
       ]
     }
