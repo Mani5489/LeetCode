@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:32:34.229Z",
+  "updatedAt": "2026-11-26T03:32:45.745Z",
   "problems": [
     {
       "frontendId": "202",
@@ -784,6 +784,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2273",
+      "title": "Find Resultant Array After Removing Anagrams",
+      "slug": "find-resultant-array-after-removing-anagrams",
+      "problemName": "2273-find-resultant-array-after-removing-anagrams",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/",
+      "folderPath": "leetcode/2273-find-resultant-array-after-removing-anagrams/",
+      "readmePath": "leetcode/2273-find-resultant-array-after-removing-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2273-find-resultant-array-after-removing-anagrams.py",
+          "path": "leetcode/2273-find-resultant-array-after-removing-anagrams/2273-find-resultant-array-after-removing-anagrams.py",
+          "sha": "a04467825b94cce2f3176983dd559d37d0ac87b1",
+          "lastSyncedAt": "2026-11-26T03:32:45.745Z"
         }
       ]
     },
