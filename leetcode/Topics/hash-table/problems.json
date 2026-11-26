@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:30:00.814Z",
+  "updatedAt": "2026-11-26T03:30:08.321Z",
   "problems": [
     {
       "frontendId": "202",
@@ -784,6 +784,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3606",
+      "title": "Coupon Code Validator",
+      "slug": "coupon-code-validator",
+      "problemName": "3606-coupon-code-validator",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/coupon-code-validator/",
+      "folderPath": "leetcode/3606-coupon-code-validator/",
+      "readmePath": "leetcode/3606-coupon-code-validator/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3606-coupon-code-validator.py",
+          "path": "leetcode/3606-coupon-code-validator/3606-coupon-code-validator.py",
+          "sha": "c36b9e234980a8cb0784f13112dc04c021eba3f8",
+          "lastSyncedAt": "2026-11-26T03:30:08.321Z"
         }
       ]
     },
