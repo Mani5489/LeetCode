@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T15:56:44.460Z",
+  "updatedAt": "2026-11-26T15:56:54.517Z",
   "problems": [
     {
       "frontendId": "56",
@@ -1123,7 +1123,7 @@
           "filename": "2273-find-resultant-array-after-removing-anagrams.py",
           "path": "leetcode/2273-find-resultant-array-after-removing-anagrams/2273-find-resultant-array-after-removing-anagrams.py",
           "sha": "a04467825b94cce2f3176983dd559d37d0ac87b1",
-          "lastSyncedAt": "2026-11-26T05:55:19.662Z"
+          "lastSyncedAt": "2026-11-26T15:56:54.517Z"
         }
       ]
     },
