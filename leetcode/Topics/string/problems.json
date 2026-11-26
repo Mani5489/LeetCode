@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:20:23.896Z",
+  "updatedAt": "2026-11-26T05:20:33.726Z",
   "problems": [
     {
       "frontendId": "43",
@@ -564,6 +564,26 @@
           "path": "leetcode/1002-find-common-characters/1002-find-common-characters.py",
           "sha": "212142b2b7108fcee55d913d02105012269a1758",
           "lastSyncedAt": "2026-11-26T05:17:01.932Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1160",
+      "title": "Find Words That Can Be Formed by Characters",
+      "slug": "find-words-that-can-be-formed-by-characters",
+      "problemName": "1160-find-words-that-can-be-formed-by-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/",
+      "folderPath": "leetcode/1160-find-words-that-can-be-formed-by-characters/",
+      "readmePath": "leetcode/1160-find-words-that-can-be-formed-by-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1160-find-words-that-can-be-formed-by-characters.py",
+          "path": "leetcode/1160-find-words-that-can-be-formed-by-characters/1160-find-words-that-can-be-formed-by-characters.py",
+          "sha": "95be28683c4f47a3bc906b4dc4fa3a90e5f83baa",
+          "lastSyncedAt": "2026-11-26T05:20:33.726Z"
         }
       ]
     },
