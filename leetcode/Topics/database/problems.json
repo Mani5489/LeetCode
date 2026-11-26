@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:18:04.323Z",
+  "updatedAt": "2026-11-26T05:18:19.247Z",
   "problems": [
     {
       "frontendId": "197",
@@ -44,6 +44,26 @@
           "path": "leetcode/1084-sales-analysis-iii/1084-sales-analysis-iii.sql",
           "sha": "7c8dd8fe9734c504c0309a4150bb5e126771b9e1",
           "lastSyncedAt": "2026-11-26T05:18:04.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1484",
+      "title": "Group Sold Products By The Date",
+      "slug": "group-sold-products-by-the-date",
+      "problemName": "1484-group-sold-products-by-the-date",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/group-sold-products-by-the-date/",
+      "folderPath": "leetcode/1484-group-sold-products-by-the-date/",
+      "readmePath": "leetcode/1484-group-sold-products-by-the-date/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1484-group-sold-products-by-the-date.sql",
+          "path": "leetcode/1484-group-sold-products-by-the-date/1484-group-sold-products-by-the-date.sql",
+          "sha": "7585b9dc881cd76be7df22a0ab828593340c5d67",
+          "lastSyncedAt": "2026-11-26T05:18:19.247Z"
         }
       ]
     },
