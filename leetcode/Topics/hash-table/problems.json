@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T16:08:48.907Z",
+  "updatedAt": "2026-11-26T16:08:55.113Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,7 +363,7 @@
           "filename": "0496-next-greater-element-i.py",
           "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.py",
           "sha": "bb88fd87854aece2603b11a9d1d342bec562d87e",
-          "lastSyncedAt": "2026-11-26T06:07:54.820Z"
+          "lastSyncedAt": "2026-11-26T16:08:55.113Z"
         }
       ]
     },
