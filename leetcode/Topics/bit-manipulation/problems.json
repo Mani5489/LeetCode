@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-26T16:13:49.068Z",
+  "updatedAt": "2026-11-26T16:14:00.751Z",
   "problems": [
     {
       "frontendId": "67",
@@ -43,7 +43,7 @@
           "filename": "0136-single-number.py",
           "path": "leetcode/0136-single-number/0136-single-number.py",
           "sha": "89c0b07d6036dce315614120799ee174b599438b",
-          "lastSyncedAt": "2026-11-26T06:13:10.697Z"
+          "lastSyncedAt": "2026-11-26T16:14:00.751Z"
         }
       ]
     },
