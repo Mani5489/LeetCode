@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:04:15.405Z",
+  "updatedAt": "2026-11-26T05:04:25.950Z",
   "problems": [
     {
       "frontendId": "500",
@@ -1283,7 +1283,7 @@
           "filename": "2383-minimum-hours-of-training-to-win-a-competition.py",
           "path": "leetcode/2383-minimum-hours-of-training-to-win-a-competition/2383-minimum-hours-of-training-to-win-a-competition.py",
           "sha": "e32de61c98ffb62afff1689139652f5d83603b08",
-          "lastSyncedAt": "2026-11-26T03:40:31.544Z"
+          "lastSyncedAt": "2026-11-26T05:04:25.950Z"
         }
       ]
     },
