@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-26T05:10:25.306Z",
+  "updatedAt": "2026-11-26T05:11:18.216Z",
   "problems": [
     {
       "frontendId": "495",
@@ -104,6 +104,26 @@
           "path": "leetcode/2500-delete-greatest-value-in-each-row/2500-delete-greatest-value-in-each-row.py",
           "sha": "964ac8de66341cc0adcc668b64db5c5a83889024",
           "lastSyncedAt": "2026-11-26T04:57:39.359Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2810",
+      "title": "Faulty Keyboard",
+      "slug": "faulty-keyboard",
+      "problemName": "2810-faulty-keyboard",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/faulty-keyboard/",
+      "folderPath": "leetcode/2810-faulty-keyboard/",
+      "readmePath": "leetcode/2810-faulty-keyboard/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2810-faulty-keyboard.py",
+          "path": "leetcode/2810-faulty-keyboard/2810-faulty-keyboard.py",
+          "sha": "d3851b2d6c02fc03e0dfac895e9e8cd6ffacb8ca",
+          "lastSyncedAt": "2026-11-26T05:11:18.216Z"
         }
       ]
     },
