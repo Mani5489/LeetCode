@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:40:38.302Z",
+  "updatedAt": "2026-11-26T03:49:49.293Z",
   "problems": [
     {
       "frontendId": "202",
@@ -903,7 +903,7 @@
           "filename": "2006-count-number-of-pairs-with-absolute-difference-k.py",
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
-          "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+          "lastSyncedAt": "2026-11-26T03:49:49.293Z"
         }
       ]
     },
