@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T04:55:47.570Z",
+  "updatedAt": "2026-11-26T04:55:49.083Z",
   "problems": [
     {
       "frontendId": "202",
@@ -904,6 +904,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T04:51:56.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2032",
+      "title": "Two Out of Three",
+      "slug": "two-out-of-three",
+      "problemName": "2032-two-out-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-out-of-three/",
+      "folderPath": "leetcode/2032-two-out-of-three/",
+      "readmePath": "leetcode/2032-two-out-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2032-two-out-of-three.py",
+          "path": "leetcode/2032-two-out-of-three/2032-two-out-of-three.py",
+          "sha": "f8b861fca47c81c2aebaf67d6a051ebf61d5e53d",
+          "lastSyncedAt": "2026-11-26T04:55:49.083Z"
         }
       ]
     },
