@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:24:43.531Z",
+  "updatedAt": "2026-11-26T05:24:49.337Z",
   "problems": [
     {
       "frontendId": "175",
@@ -364,6 +364,26 @@
           "path": "leetcode/1050-actors-and-directors-who-cooperated-at-least-three-times/1050-actors-and-directors-who-cooperated-at-least-three-times.sql",
           "sha": "de5341d9b92ee9f4fb4a15d4a03eabe5dc279379",
           "lastSyncedAt": "2026-11-26T05:21:21.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1075",
+      "title": "Project Employees I",
+      "slug": "project-employees-i",
+      "problemName": "1075-project-employees-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/project-employees-i/",
+      "folderPath": "leetcode/1075-project-employees-i/",
+      "readmePath": "leetcode/1075-project-employees-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1075-project-employees-i.sql",
+          "path": "leetcode/1075-project-employees-i/1075-project-employees-i.sql",
+          "sha": "ba9e571f5b6bac4df34cbc6f6a3470788ab5db3f",
+          "lastSyncedAt": "2026-11-26T05:24:49.337Z"
         }
       ]
     },
