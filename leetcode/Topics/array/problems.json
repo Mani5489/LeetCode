@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:36:30.233Z",
+  "updatedAt": "2026-11-26T03:36:40.472Z",
   "problems": [
     {
       "frontendId": "500",
@@ -224,6 +224,26 @@
           "path": "leetcode/0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "749c824e1dcef084e23b498b2cfe4246a174483f",
           "lastSyncedAt": "2026-11-26T03:27:21.285Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1005",
+      "title": "Maximize Sum Of Array After K Negations",
+      "slug": "maximize-sum-of-array-after-k-negations",
+      "problemName": "1005-maximize-sum-of-array-after-k-negations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/",
+      "folderPath": "leetcode/1005-maximize-sum-of-array-after-k-negations/",
+      "readmePath": "leetcode/1005-maximize-sum-of-array-after-k-negations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1005-maximize-sum-of-array-after-k-negations.py",
+          "path": "leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
+          "sha": "2d9d6a343be066700db93d3b631b08cd2048173b",
+          "lastSyncedAt": "2026-11-26T03:36:40.472Z"
         }
       ]
     },
