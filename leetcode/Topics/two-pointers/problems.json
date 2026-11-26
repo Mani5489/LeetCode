@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T05:06:52.508Z",
+  "updatedAt": "2026-11-26T05:07:36.918Z",
   "problems": [
     {
       "frontendId": "202",
@@ -24,6 +24,26 @@
           "path": "leetcode/0202-happy-number/0202-happy-number.py",
           "sha": "d10a758e893c9008886bff01f31fb6002748c982",
           "lastSyncedAt": "2026-11-26T04:55:54.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "leetcode/0455-assign-cookies/",
+      "readmePath": "leetcode/0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0455-assign-cookies.py",
+          "path": "leetcode/0455-assign-cookies/0455-assign-cookies.py",
+          "sha": "dcc6845ec9265c8ec94602bd91f28bdebf1ab8f3",
+          "lastSyncedAt": "2026-11-26T05:07:36.918Z"
         }
       ]
     },
