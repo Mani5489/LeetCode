@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-11-26T03:42:25.605Z",
+  "problems": [
+    {
+      "frontendId": "3564",
+      "title": "Seasonal Sales Analysis",
+      "slug": "seasonal-sales-analysis",
+      "problemName": "3564-seasonal-sales-analysis",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/seasonal-sales-analysis/",
+      "folderPath": "leetcode/3564-seasonal-sales-analysis/",
+      "readmePath": "leetcode/3564-seasonal-sales-analysis/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3564-seasonal-sales-analysis.sql",
+          "path": "leetcode/3564-seasonal-sales-analysis/3564-seasonal-sales-analysis.sql",
+          "sha": "12ee6a3cf0f2c1ee0fdbefcc30fd5d71dfbd3413",
+          "lastSyncedAt": "2026-11-26T03:42:25.605Z"
+        }
+      ]
+    }
+  ]
+}
