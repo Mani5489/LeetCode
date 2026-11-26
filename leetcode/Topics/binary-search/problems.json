@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:16:47.393Z",
+  "updatedAt": "2026-11-26T05:16:55.040Z",
   "problems": [
     {
       "frontendId": "34",
@@ -124,6 +124,26 @@
           "path": "leetcode/0441-arranging-coins/0441-arranging-coins.py",
           "sha": "ab41a9e3a551295773781285a2fbb0976e6b706c",
           "lastSyncedAt": "2026-11-26T05:15:38.761Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "leetcode/0704-binary-search/",
+      "readmePath": "leetcode/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0704-binary-search.py",
+          "path": "leetcode/0704-binary-search/0704-binary-search.py",
+          "sha": "99b6f67891e822590034981cdd2f5fb48c1af74c",
+          "lastSyncedAt": "2026-11-26T05:16:55.040Z"
         }
       ]
     },
