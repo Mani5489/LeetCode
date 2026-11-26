@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:27:47.643Z",
+  "updatedAt": "2026-11-26T03:28:15.286Z",
   "problems": [
+    {
+      "frontendId": "884",
+      "title": "Uncommon Words from Two Sentences",
+      "slug": "uncommon-words-from-two-sentences",
+      "problemName": "0884-uncommon-words-from-two-sentences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+      "folderPath": "leetcode/0884-uncommon-words-from-two-sentences/",
+      "readmePath": "leetcode/0884-uncommon-words-from-two-sentences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0884-uncommon-words-from-two-sentences.py",
+          "path": "leetcode/0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
+          "sha": "5e55fa8afd803a131062bdcb28b5d024f1301590",
+          "lastSyncedAt": "2026-11-26T03:28:15.286Z"
+        }
+      ]
+    },
     {
       "frontendId": "929",
       "title": "Unique Email Addresses",
