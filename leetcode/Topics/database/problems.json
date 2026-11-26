@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:25:27.090Z",
+  "updatedAt": "2026-11-26T05:26:23.324Z",
   "problems": [
     {
       "frontendId": "175",
@@ -584,6 +584,26 @@
           "path": "leetcode/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql",
           "sha": "d246d843224df7d61fd11e6a15a0133a82413c7a",
           "lastSyncedAt": "2026-11-26T05:25:27.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1890",
+      "title": "The Latest Login in 2020",
+      "slug": "the-latest-login-in-2020",
+      "problemName": "1890-the-latest-login-in-2020",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-latest-login-in-2020/",
+      "folderPath": "leetcode/1890-the-latest-login-in-2020/",
+      "readmePath": "leetcode/1890-the-latest-login-in-2020/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1890-the-latest-login-in-2020.sql",
+          "path": "leetcode/1890-the-latest-login-in-2020/1890-the-latest-login-in-2020.sql",
+          "sha": "2c757b80f2d48bb06f1e10ea92576d21aa43b42b",
+          "lastSyncedAt": "2026-11-26T05:26:23.324Z"
         }
       ]
     },
