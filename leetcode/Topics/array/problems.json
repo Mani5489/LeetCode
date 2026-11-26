@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:29:03.628Z",
+  "updatedAt": "2026-11-26T03:29:10.183Z",
   "problems": [
+    {
+      "frontendId": "575",
+      "title": "Distribute Candies",
+      "slug": "distribute-candies",
+      "problemName": "0575-distribute-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-candies/",
+      "folderPath": "leetcode/0575-distribute-candies/",
+      "readmePath": "leetcode/0575-distribute-candies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0575-distribute-candies.py",
+          "path": "leetcode/0575-distribute-candies/0575-distribute-candies.py",
+          "sha": "1069126b7a4d3014fd278a47538b714363a771de",
+          "lastSyncedAt": "2026-11-26T03:29:10.183Z"
+        }
+      ]
+    },
     {
       "frontendId": "697",
       "title": "Degree of an Array",
