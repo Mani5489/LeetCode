@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-26T03:25:13.303Z",
+  "updatedAt": "2026-11-26T03:25:22.126Z",
   "problems": [
+    {
+      "frontendId": "1742",
+      "title": "Maximum Number of Balls in a Box",
+      "slug": "maximum-number-of-balls-in-a-box",
+      "problemName": "1742-maximum-number-of-balls-in-a-box",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/",
+      "folderPath": "leetcode/1742-maximum-number-of-balls-in-a-box/",
+      "readmePath": "leetcode/1742-maximum-number-of-balls-in-a-box/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1742-maximum-number-of-balls-in-a-box.py",
+          "path": "leetcode/1742-maximum-number-of-balls-in-a-box/1742-maximum-number-of-balls-in-a-box.py",
+          "sha": "c1406eafb5817f00cbd43534a573753d9e88036e",
+          "lastSyncedAt": "2026-11-26T03:25:22.126Z"
+        }
+      ]
+    },
     {
       "frontendId": "1748",
       "title": "Sum of Unique Elements",
