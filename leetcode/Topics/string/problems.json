@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:10:33.143Z",
+  "updatedAt": "2026-11-26T05:11:18.216Z",
   "problems": [
     {
       "frontendId": "387",
@@ -864,6 +864,26 @@
           "path": "leetcode/2697-lexicographically-smallest-palindrome/2697-lexicographically-smallest-palindrome.py",
           "sha": "8e57ac41c45638a5b0999229cb7090b22b03f25f",
           "lastSyncedAt": "2026-11-26T05:03:47.191Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2810",
+      "title": "Faulty Keyboard",
+      "slug": "faulty-keyboard",
+      "problemName": "2810-faulty-keyboard",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/faulty-keyboard/",
+      "folderPath": "leetcode/2810-faulty-keyboard/",
+      "readmePath": "leetcode/2810-faulty-keyboard/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2810-faulty-keyboard.py",
+          "path": "leetcode/2810-faulty-keyboard/2810-faulty-keyboard.py",
+          "sha": "d3851b2d6c02fc03e0dfac895e9e8cd6ffacb8ca",
+          "lastSyncedAt": "2026-11-26T05:11:18.216Z"
         }
       ]
     },
