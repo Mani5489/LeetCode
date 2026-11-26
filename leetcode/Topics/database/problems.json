@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:24:38.386Z",
+  "updatedAt": "2026-11-26T05:24:43.531Z",
   "problems": [
     {
       "frontendId": "175",
@@ -444,6 +444,26 @@
           "path": "leetcode/1907-count-salary-categories/1907-count-salary-categories.sql",
           "sha": "7f106a472566347ebcfeb2e42a6be7a33af3898d",
           "lastSyncedAt": "2026-11-26T05:24:38.386Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2356",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "slug": "number-of-unique-subjects-taught-by-each-teacher",
+      "problemName": "2356-number-of-unique-subjects-taught-by-each-teacher",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/",
+      "folderPath": "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher/",
+      "readmePath": "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "2356-number-of-unique-subjects-taught-by-each-teacher.sql",
+          "path": "leetcode/2356-number-of-unique-subjects-taught-by-each-teacher/2356-number-of-unique-subjects-taught-by-each-teacher.sql",
+          "sha": "7d4ad6aad1a37c2543960c899287a8be6f817476",
+          "lastSyncedAt": "2026-11-26T05:24:43.531Z"
         }
       ]
     },
