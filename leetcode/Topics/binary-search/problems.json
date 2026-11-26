@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:13:53.806Z",
+  "updatedAt": "2026-11-26T05:14:05.767Z",
   "problems": [
     {
       "frontendId": "1337",
@@ -24,6 +24,26 @@
           "path": "leetcode/1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.py",
           "sha": "9ea036a86c40f8c2ccdc329a502182a2b3d22de1",
           "lastSyncedAt": "2026-11-26T05:00:26.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1539",
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "problemName": "1539-kth-missing-positive-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "folderPath": "leetcode/1539-kth-missing-positive-number/",
+      "readmePath": "leetcode/1539-kth-missing-positive-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1539-kth-missing-positive-number.py",
+          "path": "leetcode/1539-kth-missing-positive-number/1539-kth-missing-positive-number.py",
+          "sha": "a18afb2a41daccd3a08ba14fef4a424f8b737ba2",
+          "lastSyncedAt": "2026-11-26T05:14:05.767Z"
         }
       ]
     },
