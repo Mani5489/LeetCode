@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T06:04:26.247Z",
+  "updatedAt": "2026-11-26T06:05:11.303Z",
   "problems": [
     {
       "frontendId": "175",
@@ -843,7 +843,7 @@
           "filename": "3554-find-category-recommendation-pairs.sql",
           "path": "leetcode/3554-find-category-recommendation-pairs/3554-find-category-recommendation-pairs.sql",
           "sha": "da581b7b79bb7a612ad89c7ee53955575c9f797f",
-          "lastSyncedAt": "2026-11-26T05:07:10.425Z"
+          "lastSyncedAt": "2026-11-26T06:05:11.303Z"
         }
       ]
     },
