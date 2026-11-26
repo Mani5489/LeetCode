@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-26T03:24:15.020Z",
+  "updatedAt": "2026-11-26T03:24:31.061Z",
   "problems": [
+    {
+      "frontendId": "1897",
+      "title": "Redistribute Characters to Make All Strings Equal",
+      "slug": "redistribute-characters-to-make-all-strings-equal",
+      "problemName": "1897-redistribute-characters-to-make-all-strings-equal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/",
+      "folderPath": "leetcode/1897-redistribute-characters-to-make-all-strings-equal/",
+      "readmePath": "leetcode/1897-redistribute-characters-to-make-all-strings-equal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1897-redistribute-characters-to-make-all-strings-equal.py",
+          "path": "leetcode/1897-redistribute-characters-to-make-all-strings-equal/1897-redistribute-characters-to-make-all-strings-equal.py",
+          "sha": "9711a256db7778f1e383d1bf52afe331ce82663d",
+          "lastSyncedAt": "2026-11-26T03:24:31.061Z"
+        }
+      ]
+    },
     {
       "frontendId": "1941",
       "title": "Check if All Characters Have Equal Number of Occurrences",
