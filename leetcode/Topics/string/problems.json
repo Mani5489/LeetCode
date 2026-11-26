@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:41:29.646Z",
+  "updatedAt": "2026-11-26T03:41:55.333Z",
   "problems": [
     {
       "frontendId": "500",
@@ -484,6 +484,26 @@
           "path": "leetcode/1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.py",
           "sha": "29e7442f70dc813e4df417341dc70d266c768698",
           "lastSyncedAt": "2026-11-26T03:24:15.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2027",
+      "title": "Minimum Moves to Convert String",
+      "slug": "minimum-moves-to-convert-string",
+      "problemName": "2027-minimum-moves-to-convert-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-convert-string/",
+      "folderPath": "leetcode/2027-minimum-moves-to-convert-string/",
+      "readmePath": "leetcode/2027-minimum-moves-to-convert-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2027-minimum-moves-to-convert-string.py",
+          "path": "leetcode/2027-minimum-moves-to-convert-string/2027-minimum-moves-to-convert-string.py",
+          "sha": "58b4234e1e6c984bdafb229558fc2b91358fb7d0",
+          "lastSyncedAt": "2026-11-26T03:41:55.333Z"
         }
       ]
     },
