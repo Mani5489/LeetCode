@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T03:42:25.605Z",
+  "updatedAt": "2026-11-26T03:43:20.275Z",
   "problems": [
+    {
+      "frontendId": "3482",
+      "title": "Analyze Organization Hierarchy",
+      "slug": "analyze-organization-hierarchy",
+      "problemName": "3482-analyze-organization-hierarchy",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/analyze-organization-hierarchy/",
+      "folderPath": "leetcode/3482-analyze-organization-hierarchy/",
+      "readmePath": "leetcode/3482-analyze-organization-hierarchy/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3482-analyze-organization-hierarchy.sql",
+          "path": "leetcode/3482-analyze-organization-hierarchy/3482-analyze-organization-hierarchy.sql",
+          "sha": "e0ca2f8d56b50844222c1e69fd67cf57dd1c2ded",
+          "lastSyncedAt": "2026-11-26T03:43:20.275Z"
+        }
+      ]
+    },
     {
       "frontendId": "3564",
       "title": "Seasonal Sales Analysis",
