@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T05:13:43.100Z",
+  "updatedAt": "2026-11-26T05:15:38.761Z",
   "problems": [
     {
       "frontendId": "43",
@@ -184,6 +184,26 @@
           "path": "leetcode/0415-add-strings/0415-add-strings.py",
           "sha": "361c8b8c223ada427523326c637ad44e8824e130",
           "lastSyncedAt": "2026-11-26T05:12:04.630Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "441",
+      "title": "Arranging Coins",
+      "slug": "arranging-coins",
+      "problemName": "0441-arranging-coins",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
+      "folderPath": "leetcode/0441-arranging-coins/",
+      "readmePath": "leetcode/0441-arranging-coins/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0441-arranging-coins.py",
+          "path": "leetcode/0441-arranging-coins/0441-arranging-coins.py",
+          "sha": "ab41a9e3a551295773781285a2fbb0976e6b706c",
+          "lastSyncedAt": "2026-11-26T05:15:38.761Z"
         }
       ]
     },
