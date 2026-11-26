@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T16:15:44.450Z",
+  "updatedAt": "2026-11-26T16:15:47.279Z",
   "problems": [
     {
       "frontendId": "175",
@@ -143,7 +143,7 @@
           "filename": "0183-customers-who-never-order.sql",
           "path": "leetcode/0183-customers-who-never-order/0183-customers-who-never-order.sql",
           "sha": "92040805be0b59962108bfd493d3308af6ad0278",
-          "lastSyncedAt": "2026-11-26T06:14:51.481Z"
+          "lastSyncedAt": "2026-11-26T16:15:47.279Z"
         }
       ]
     },
