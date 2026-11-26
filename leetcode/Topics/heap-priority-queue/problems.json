@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-26T03:58:10.836Z",
+  "updatedAt": "2026-11-26T03:58:41.276Z",
   "problems": [
     {
       "frontendId": "506",
@@ -43,7 +43,7 @@
           "filename": "1337-the-k-weakest-rows-in-a-matrix.py",
           "path": "leetcode/1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.py",
           "sha": "9ea036a86c40f8c2ccdc329a502182a2b3d22de1",
-          "lastSyncedAt": "2026-11-26T03:35:30.071Z"
+          "lastSyncedAt": "2026-11-26T03:58:41.276Z"
         }
       ]
     },
