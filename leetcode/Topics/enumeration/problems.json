@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-26T03:30:52.567Z",
+  "updatedAt": "2026-11-26T03:37:43.695Z",
   "problems": [
     {
       "frontendId": "3010",
@@ -24,6 +24,26 @@
           "path": "leetcode/3010-divide-an-array-into-subarrays-with-minimum-cost-i/3010-divide-an-array-into-subarrays-with-minimum-cost-i.py",
           "sha": "32812b5bca52899c774e9ecbe6c01afe864b3b2d",
           "lastSyncedAt": "2026-11-26T03:30:52.567Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3745",
+      "title": "Maximize Expression of Three Elements",
+      "slug": "maximize-expression-of-three-elements",
+      "problemName": "3745-maximize-expression-of-three-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-expression-of-three-elements/",
+      "folderPath": "leetcode/3745-maximize-expression-of-three-elements/",
+      "readmePath": "leetcode/3745-maximize-expression-of-three-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3745-maximize-expression-of-three-elements.py",
+          "path": "leetcode/3745-maximize-expression-of-three-elements/3745-maximize-expression-of-three-elements.py",
+          "sha": "b633957cf545e32bc57c5f2bf3275daded1d560f",
+          "lastSyncedAt": "2026-11-26T03:37:43.695Z"
         }
       ]
     }
