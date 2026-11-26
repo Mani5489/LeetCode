@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:25:06.037Z",
+  "updatedAt": "2026-11-26T03:25:13.303Z",
   "problems": [
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "leetcode/1748-sum-of-unique-elements/",
+      "readmePath": "leetcode/1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1748-sum-of-unique-elements.py",
+          "path": "leetcode/1748-sum-of-unique-elements/1748-sum-of-unique-elements.py",
+          "sha": "1ec07af4d43ad2cfa129ce83c3a93ba01f1b69bd",
+          "lastSyncedAt": "2026-11-26T03:25:13.303Z"
+        }
+      ]
+    },
     {
       "frontendId": "1790",
       "title": "Check if One String Swap Can Make Strings Equal",
