@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:25:56.156Z",
+  "updatedAt": "2026-11-26T03:26:04.886Z",
   "problems": [
+    {
+      "frontendId": "1496",
+      "title": "Path Crossing",
+      "slug": "path-crossing",
+      "problemName": "1496-path-crossing",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/path-crossing/",
+      "folderPath": "leetcode/1496-path-crossing/",
+      "readmePath": "leetcode/1496-path-crossing/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1496-path-crossing.py",
+          "path": "leetcode/1496-path-crossing/1496-path-crossing.py",
+          "sha": "43ad997734b5bd9a3bbd9f233185d10adfcfc7ea",
+          "lastSyncedAt": "2026-11-26T03:26:04.886Z"
+        }
+      ]
+    },
     {
       "frontendId": "1512",
       "title": "Number of Good Pairs",
