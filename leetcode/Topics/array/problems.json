@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:07:36.918Z",
+  "updatedAt": "2026-11-26T05:08:03.782Z",
   "problems": [
+    {
+      "frontendId": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "problemName": "0448-find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+      "folderPath": "leetcode/0448-find-all-numbers-disappeared-in-an-array/",
+      "readmePath": "leetcode/0448-find-all-numbers-disappeared-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0448-find-all-numbers-disappeared-in-an-array.py",
+          "path": "leetcode/0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.py",
+          "sha": "d65ef2f2f9fb271e86b2fdd9b95cdd65901d2a03",
+          "lastSyncedAt": "2026-11-26T05:08:03.782Z"
+        }
+      ]
+    },
     {
       "frontendId": "455",
       "title": "Assign Cookies",
