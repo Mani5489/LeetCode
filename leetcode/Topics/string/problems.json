@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:41:04.222Z",
+  "updatedAt": "2026-11-26T03:41:29.646Z",
   "problems": [
     {
       "frontendId": "500",
@@ -504,6 +504,26 @@
           "path": "leetcode/2224-minimum-number-of-operations-to-convert-time/2224-minimum-number-of-operations-to-convert-time.py",
           "sha": "5e37e58d5898e7c99d31bfd6e0a460cfbf4d16f7",
           "lastSyncedAt": "2026-11-26T03:41:04.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2259",
+      "title": "Remove Digit From Number to Maximize Result",
+      "slug": "remove-digit-from-number-to-maximize-result",
+      "problemName": "2259-remove-digit-from-number-to-maximize-result",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/",
+      "folderPath": "leetcode/2259-remove-digit-from-number-to-maximize-result/",
+      "readmePath": "leetcode/2259-remove-digit-from-number-to-maximize-result/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2259-remove-digit-from-number-to-maximize-result.py",
+          "path": "leetcode/2259-remove-digit-from-number-to-maximize-result/2259-remove-digit-from-number-to-maximize-result.py",
+          "sha": "eed587134c2ad10584564c012df64847a8db1d7c",
+          "lastSyncedAt": "2026-11-26T03:41:29.646Z"
         }
       ]
     },
