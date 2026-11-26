@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T05:17:29.010Z",
+  "updatedAt": "2026-11-26T05:18:25.116Z",
   "problems": [
     {
       "frontendId": "202",
@@ -244,6 +244,26 @@
           "path": "leetcode/0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "12d76afa11c781a12b35a59d2d1afc58e65a7b48",
           "lastSyncedAt": "2026-11-26T05:09:38.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "leetcode/0645-set-mismatch/",
+      "readmePath": "leetcode/0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0645-set-mismatch.py",
+          "path": "leetcode/0645-set-mismatch/0645-set-mismatch.py",
+          "sha": "a70c8841e726c71eadb27d164dbc66a70d0b19b8",
+          "lastSyncedAt": "2026-11-26T05:18:25.116Z"
         }
       ]
     },
