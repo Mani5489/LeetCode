@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:41:20.529Z",
+  "updatedAt": "2026-11-26T03:41:38.326Z",
   "problems": [
     {
       "frontendId": "500",
@@ -884,6 +884,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2078",
+      "title": "Two Furthest Houses With Different Colors",
+      "slug": "two-furthest-houses-with-different-colors",
+      "problemName": "2078-two-furthest-houses-with-different-colors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/",
+      "folderPath": "leetcode/2078-two-furthest-houses-with-different-colors/",
+      "readmePath": "leetcode/2078-two-furthest-houses-with-different-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2078-two-furthest-houses-with-different-colors.py",
+          "path": "leetcode/2078-two-furthest-houses-with-different-colors/2078-two-furthest-houses-with-different-colors.py",
+          "sha": "5262b2652698dec4483a82d8d96df1acc899ef23",
+          "lastSyncedAt": "2026-11-26T03:41:38.326Z"
         }
       ]
     },
