@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-26T16:07:38.614Z",
+  "updatedAt": "2026-11-26T16:16:37.307Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,7 +23,7 @@
           "filename": "0169-majority-element.py",
           "path": "leetcode/0169-majority-element/0169-majority-element.py",
           "sha": "02a6c6cb58d48a4309f709b282c2bf74a54bb0e4",
-          "lastSyncedAt": "2026-11-26T05:23:40.287Z"
+          "lastSyncedAt": "2026-11-26T16:16:37.307Z"
         }
       ]
     },
