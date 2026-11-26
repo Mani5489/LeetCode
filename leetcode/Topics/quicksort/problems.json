@@ -5,7 +5,7 @@
     "name": "Quicksort",
     "tagId": "68362"
   },
-  "updatedAt": "2026-11-26T15:57:57.489Z",
+  "updatedAt": "2026-11-26T15:59:49.619Z",
   "problems": [
     {
       "frontendId": "56",
@@ -83,7 +83,7 @@
           "filename": "1122-relative-sort-array.py",
           "path": "leetcode/1122-relative-sort-array/1122-relative-sort-array.py",
           "sha": "8a08f02e6bcf8ccc660b04bd6ddda585a7a2a3c6",
-          "lastSyncedAt": "2026-11-26T05:58:16.988Z"
+          "lastSyncedAt": "2026-11-26T15:59:49.619Z"
         }
       ]
     },
