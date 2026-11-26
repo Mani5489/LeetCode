@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:35:19.168Z",
+  "updatedAt": "2026-11-26T03:35:30.071Z",
   "problems": [
     {
       "frontendId": "500",
@@ -284,6 +284,26 @@
           "path": "leetcode/1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.py",
           "sha": "e2f14cb79983004cf7250f6cdd6ef3dd837b9011",
           "lastSyncedAt": "2026-11-26T03:26:19.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1337",
+      "title": "The K Weakest Rows in a Matrix",
+      "slug": "the-k-weakest-rows-in-a-matrix",
+      "problemName": "1337-the-k-weakest-rows-in-a-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/",
+      "folderPath": "leetcode/1337-the-k-weakest-rows-in-a-matrix/",
+      "readmePath": "leetcode/1337-the-k-weakest-rows-in-a-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1337-the-k-weakest-rows-in-a-matrix.py",
+          "path": "leetcode/1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.py",
+          "sha": "9ea036a86c40f8c2ccdc329a502182a2b3d22de1",
+          "lastSyncedAt": "2026-11-26T03:35:30.071Z"
         }
       ]
     },
