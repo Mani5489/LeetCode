@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:10:15.568Z",
+  "updatedAt": "2026-11-26T05:10:25.306Z",
   "problems": [
     {
       "frontendId": "56",
@@ -104,6 +104,26 @@
           "path": "leetcode/0455-assign-cookies/0455-assign-cookies.py",
           "sha": "dcc6845ec9265c8ec94602bd91f28bdebf1ab8f3",
           "lastSyncedAt": "2026-11-26T05:07:36.918Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "495",
+      "title": "Teemo Attacking",
+      "slug": "teemo-attacking",
+      "problemName": "0495-teemo-attacking",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/teemo-attacking/",
+      "folderPath": "leetcode/0495-teemo-attacking/",
+      "readmePath": "leetcode/0495-teemo-attacking/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0495-teemo-attacking.py",
+          "path": "leetcode/0495-teemo-attacking/0495-teemo-attacking.py",
+          "sha": "49a17de082d555ee711645bc71b4af36304dbc04",
+          "lastSyncedAt": "2026-11-26T05:10:25.306Z"
         }
       ]
     },
