@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:42:09.484Z",
+  "updatedAt": "2026-11-26T03:42:31.879Z",
   "problems": [
     {
       "frontendId": "500",
@@ -304,6 +304,26 @@
           "path": "leetcode/1684-count-the-number-of-consistent-strings/1684-count-the-number-of-consistent-strings.py",
           "sha": "7911e44e6db9c2164dc1c9231c6bbf4ae74bbd59",
           "lastSyncedAt": "2026-11-26T03:25:30.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1736",
+      "title": "Latest Time by Replacing Hidden Digits",
+      "slug": "latest-time-by-replacing-hidden-digits",
+      "problemName": "1736-latest-time-by-replacing-hidden-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/",
+      "folderPath": "leetcode/1736-latest-time-by-replacing-hidden-digits/",
+      "readmePath": "leetcode/1736-latest-time-by-replacing-hidden-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1736-latest-time-by-replacing-hidden-digits.py",
+          "path": "leetcode/1736-latest-time-by-replacing-hidden-digits/1736-latest-time-by-replacing-hidden-digits.py",
+          "sha": "7a6ea8f4a557500cae84565bb81991e843432723",
+          "lastSyncedAt": "2026-11-26T03:42:31.879Z"
         }
       ]
     },
