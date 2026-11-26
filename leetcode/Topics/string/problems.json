@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T19:01:59.891Z",
+  "updatedAt": "2026-11-26T19:02:04.417Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1003,7 +1003,7 @@
           "filename": "1796-second-largest-digit-in-a-string.py",
           "path": "leetcode/1796-second-largest-digit-in-a-string/1796-second-largest-digit-in-a-string.py",
           "sha": "32720ff3c957ac7b2067411a48e85fc1f91c4c78",
-          "lastSyncedAt": "2026-11-26T15:50:27.468Z"
+          "lastSyncedAt": "2026-11-26T19:02:04.417Z"
         }
       ]
     },
