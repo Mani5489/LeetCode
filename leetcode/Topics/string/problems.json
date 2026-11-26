@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:39:09.128Z",
+  "updatedAt": "2026-11-26T03:39:20.185Z",
   "problems": [
     {
       "frontendId": "500",
@@ -524,6 +524,26 @@
           "path": "leetcode/2418-sort-the-people/2418-sort-the-people.py",
           "sha": "0680c263b805a2630c548bec0125e29820593471",
           "lastSyncedAt": "2026-11-26T03:32:23.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2864",
+      "title": "Maximum Odd Binary Number",
+      "slug": "maximum-odd-binary-number",
+      "problemName": "2864-maximum-odd-binary-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-odd-binary-number/",
+      "folderPath": "leetcode/2864-maximum-odd-binary-number/",
+      "readmePath": "leetcode/2864-maximum-odd-binary-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2864-maximum-odd-binary-number.py",
+          "path": "leetcode/2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.py",
+          "sha": "db5fe35e217b874aacb6a3fd9987f4fe12cd1681",
+          "lastSyncedAt": "2026-11-26T03:39:20.185Z"
         }
       ]
     },
