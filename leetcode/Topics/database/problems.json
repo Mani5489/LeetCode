@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T16:14:57.921Z",
+  "updatedAt": "2026-11-26T16:15:00.514Z",
   "problems": [
     {
       "frontendId": "175",
@@ -103,7 +103,7 @@
           "filename": "0181-employees-earning-more-than-their-managers.sql",
           "path": "leetcode/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
           "sha": "117f24f3568be340d0f758dbaab97b1ee2660f6f",
-          "lastSyncedAt": "2026-11-26T06:14:07.087Z"
+          "lastSyncedAt": "2026-11-26T16:15:00.514Z"
         }
       ]
     },
