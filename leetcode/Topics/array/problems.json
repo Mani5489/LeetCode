@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T06:01:09.147Z",
+  "updatedAt": "2026-11-26T06:01:23.237Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2383,7 +2383,7 @@
           "filename": "2656-maximum-sum-with-exactly-k-elements.py",
           "path": "leetcode/2656-maximum-sum-with-exactly-k-elements/2656-maximum-sum-with-exactly-k-elements.py",
           "sha": "d58c652ecddbf5e876c6cd55fa5a7e174cb2c17f",
-          "lastSyncedAt": "2026-11-26T05:03:53.434Z"
+          "lastSyncedAt": "2026-11-26T06:01:23.237Z"
         }
       ]
     },
