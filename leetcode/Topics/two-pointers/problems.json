@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T05:24:22.098Z",
+  "updatedAt": "2026-11-26T05:24:29.387Z",
   "problems": [
     {
       "frontendId": "5",
@@ -104,6 +104,26 @@
           "path": "leetcode/0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.py",
           "sha": "4cd6965973958c107d388a3dcb9c06be9a08c3bb",
           "lastSyncedAt": "2026-11-26T05:23:59.773Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "leetcode/0088-merge-sorted-array/",
+      "readmePath": "leetcode/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0088-merge-sorted-array.py",
+          "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "sha": "ce4cedc9caa35a9074e3520ec8b8b63e15e68fb0",
+          "lastSyncedAt": "2026-11-26T05:24:29.387Z"
         }
       ]
     },
