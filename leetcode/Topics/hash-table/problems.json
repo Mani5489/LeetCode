@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T04:52:19.694Z",
+  "updatedAt": "2026-11-26T04:52:26.524Z",
   "problems": [
     {
       "frontendId": "202",
@@ -803,7 +803,7 @@
           "filename": "1832-check-if-the-sentence-is-pangram.py",
           "path": "leetcode/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.py",
           "sha": "33f9e2b9443da12f57a728baaf7cda034329dde2",
-          "lastSyncedAt": "2026-11-26T04:38:35.659Z"
+          "lastSyncedAt": "2026-11-26T04:52:26.524Z"
         }
       ]
     },
