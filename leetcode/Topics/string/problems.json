@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:11:45.129Z",
+  "updatedAt": "2026-11-26T05:12:04.630Z",
   "problems": [
     {
       "frontendId": "43",
@@ -124,6 +124,26 @@
           "path": "leetcode/0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "94551377a0d2cc895549f59db0dc411b52e64bcc",
           "lastSyncedAt": "2026-11-26T05:07:27.325Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "415",
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "problemName": "0415-add-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
+      "folderPath": "leetcode/0415-add-strings/",
+      "readmePath": "leetcode/0415-add-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0415-add-strings.py",
+          "path": "leetcode/0415-add-strings/0415-add-strings.py",
+          "sha": "361c8b8c223ada427523326c637ad44e8824e130",
+          "lastSyncedAt": "2026-11-26T05:12:04.630Z"
         }
       ]
     },
