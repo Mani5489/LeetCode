@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T05:20:33.726Z",
+  "updatedAt": "2026-11-26T05:21:05.403Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "leetcode/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py",
           "sha": "50b0745d40d335e0bc161e945b9ecfc5b5f53554",
           "lastSyncedAt": "2026-11-26T05:17:13.494Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "leetcode/0383-ransom-note/",
+      "readmePath": "leetcode/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0383-ransom-note.py",
+          "path": "leetcode/0383-ransom-note/0383-ransom-note.py",
+          "sha": "f0a3457b9ca627d11c899bd7f7abf105b2e19c89",
+          "lastSyncedAt": "2026-11-26T05:21:05.403Z"
         }
       ]
     },
