@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:19:55.408Z",
+  "updatedAt": "2026-11-26T05:20:33.726Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1084,6 +1084,26 @@
           "path": "leetcode/1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.py",
           "sha": "25b80e8119664684958d22447410e8ce7c6a00b8",
           "lastSyncedAt": "2026-11-26T04:54:13.563Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1160",
+      "title": "Find Words That Can Be Formed by Characters",
+      "slug": "find-words-that-can-be-formed-by-characters",
+      "problemName": "1160-find-words-that-can-be-formed-by-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/",
+      "folderPath": "leetcode/1160-find-words-that-can-be-formed-by-characters/",
+      "readmePath": "leetcode/1160-find-words-that-can-be-formed-by-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1160-find-words-that-can-be-formed-by-characters.py",
+          "path": "leetcode/1160-find-words-that-can-be-formed-by-characters/1160-find-words-that-can-be-formed-by-characters.py",
+          "sha": "95be28683c4f47a3bc906b4dc4fa3a90e5f83baa",
+          "lastSyncedAt": "2026-11-26T05:20:33.726Z"
         }
       ]
     },
