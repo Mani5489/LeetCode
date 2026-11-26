@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:27:12.166Z",
+  "updatedAt": "2026-11-26T03:27:21.285Z",
   "problems": [
+    {
+      "frontendId": "997",
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "problemName": "0997-find-the-town-judge",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-town-judge/",
+      "folderPath": "leetcode/0997-find-the-town-judge/",
+      "readmePath": "leetcode/0997-find-the-town-judge/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0997-find-the-town-judge.py",
+          "path": "leetcode/0997-find-the-town-judge/0997-find-the-town-judge.py",
+          "sha": "749c824e1dcef084e23b498b2cfe4246a174483f",
+          "lastSyncedAt": "2026-11-26T03:27:21.285Z"
+        }
+      ]
+    },
     {
       "frontendId": "1128",
       "title": "Number of Equivalent Domino Pairs",
