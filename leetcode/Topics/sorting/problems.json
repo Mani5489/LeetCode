@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:10:04.997Z",
+  "updatedAt": "2026-11-26T05:10:47.023Z",
   "problems": [
     {
       "frontendId": "56",
@@ -1144,6 +1144,26 @@
           "path": "leetcode/2974-minimum-number-game/2974-minimum-number-game.py",
           "sha": "2be005d49d03a9e5f47dce826665d3ca78ae09cd",
           "lastSyncedAt": "2026-11-26T04:57:04.645Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2996",
+      "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "problemName": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
+      "folderPath": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/",
+      "readmePath": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
+          "path": "leetcode/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
+          "sha": "d6c34b247c533113af345a7536d78bb427afd183",
+          "lastSyncedAt": "2026-11-26T05:10:47.023Z"
         }
       ]
     },
