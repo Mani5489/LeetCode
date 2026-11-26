@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:38:29.387Z",
+  "updatedAt": "2026-11-26T03:38:38.552Z",
   "problems": [
     {
       "frontendId": "500",
@@ -1264,6 +1264,26 @@
           "path": "leetcode/3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.py",
           "sha": "5da3ed546afeaa4232940b7435ef58241c6f9787",
           "lastSyncedAt": "2026-11-26T03:30:33.157Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3402",
+      "title": "Minimum Operations to Make Columns Strictly Increasing",
+      "slug": "minimum-operations-to-make-columns-strictly-increasing",
+      "problemName": "3402-minimum-operations-to-make-columns-strictly-increasing",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/",
+      "folderPath": "leetcode/3402-minimum-operations-to-make-columns-strictly-increasing/",
+      "readmePath": "leetcode/3402-minimum-operations-to-make-columns-strictly-increasing/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3402-minimum-operations-to-make-columns-strictly-increasing.py",
+          "path": "leetcode/3402-minimum-operations-to-make-columns-strictly-increasing/3402-minimum-operations-to-make-columns-strictly-increasing.py",
+          "sha": "65bf650b593c066d754106f94f2a2d62e8c66ce4",
+          "lastSyncedAt": "2026-11-26T03:38:38.552Z"
         }
       ]
     },
