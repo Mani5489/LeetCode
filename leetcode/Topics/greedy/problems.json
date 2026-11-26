@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T16:04:43.595Z",
+  "updatedAt": "2026-11-26T16:04:47.735Z",
   "problems": [
     {
       "frontendId": "409",
@@ -383,7 +383,7 @@
           "filename": "1974-minimum-time-to-type-word-using-special-typewriter.py",
           "path": "leetcode/1974-minimum-time-to-type-word-using-special-typewriter/1974-minimum-time-to-type-word-using-special-typewriter.py",
           "sha": "92f37848451b680d59671b774859f85430759b2b",
-          "lastSyncedAt": "2026-11-26T06:03:23.584Z"
+          "lastSyncedAt": "2026-11-26T16:04:47.735Z"
         }
       ]
     },
