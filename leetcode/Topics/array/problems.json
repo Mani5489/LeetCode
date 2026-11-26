@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:28:54.924Z",
+  "updatedAt": "2026-11-26T03:29:03.628Z",
   "problems": [
+    {
+      "frontendId": "697",
+      "title": "Degree of an Array",
+      "slug": "degree-of-an-array",
+      "problemName": "0697-degree-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/degree-of-an-array/",
+      "folderPath": "leetcode/0697-degree-of-an-array/",
+      "readmePath": "leetcode/0697-degree-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0697-degree-of-an-array.py",
+          "path": "leetcode/0697-degree-of-an-array/0697-degree-of-an-array.py",
+          "sha": "70b00e14d9ea822d5373c65570270bd5ffd23b92",
+          "lastSyncedAt": "2026-11-26T03:29:03.628Z"
+        }
+      ]
+    },
     {
       "frontendId": "748",
       "title": "Shortest Completing Word",
