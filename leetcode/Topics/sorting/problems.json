@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:56:16.228Z",
+  "updatedAt": "2026-11-26T05:56:24.201Z",
   "problems": [
     {
       "frontendId": "56",
@@ -883,7 +883,7 @@
           "filename": "1913-maximum-product-difference-between-two-pairs.py",
           "path": "leetcode/1913-maximum-product-difference-between-two-pairs/1913-maximum-product-difference-between-two-pairs.py",
           "sha": "60df9c745eab3c521046abce7dcdd2b0914bc131",
-          "lastSyncedAt": "2026-11-26T04:59:18.247Z"
+          "lastSyncedAt": "2026-11-26T05:56:24.201Z"
         }
       ]
     },
