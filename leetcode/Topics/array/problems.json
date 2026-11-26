@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:05:14.612Z",
+  "updatedAt": "2026-11-26T05:05:18.519Z",
   "problems": [
     {
       "frontendId": "500",
@@ -1043,7 +1043,7 @@
           "filename": "2037-minimum-number-of-moves-to-seat-everyone.py",
           "path": "leetcode/2037-minimum-number-of-moves-to-seat-everyone/2037-minimum-number-of-moves-to-seat-everyone.py",
           "sha": "e08002780ac6f290bc02fe5fcab47591805839cc",
-          "lastSyncedAt": "2026-11-26T03:41:44.454Z"
+          "lastSyncedAt": "2026-11-26T05:05:18.519Z"
         }
       ]
     },
