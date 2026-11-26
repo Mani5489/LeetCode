@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:42:37.832Z",
+  "updatedAt": "2026-11-26T03:42:47.527Z",
   "problems": [
     {
       "frontendId": "500",
@@ -584,6 +584,26 @@
           "path": "leetcode/1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.py",
           "sha": "9c67fec4d1fb9d34724704a52fcb1a1b6a4c40ff",
           "lastSyncedAt": "2026-11-26T03:26:47.991Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1403",
+      "title": "Minimum Subsequence in Non-Increasing Order",
+      "slug": "minimum-subsequence-in-non-increasing-order",
+      "problemName": "1403-minimum-subsequence-in-non-increasing-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/",
+      "folderPath": "leetcode/1403-minimum-subsequence-in-non-increasing-order/",
+      "readmePath": "leetcode/1403-minimum-subsequence-in-non-increasing-order/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1403-minimum-subsequence-in-non-increasing-order.py",
+          "path": "leetcode/1403-minimum-subsequence-in-non-increasing-order/1403-minimum-subsequence-in-non-increasing-order.py",
+          "sha": "72043c241645b496c98e1237983032dd6e17e6d5",
+          "lastSyncedAt": "2026-11-26T03:42:47.527Z"
         }
       ]
     },
