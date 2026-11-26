@@ -5,8 +5,28 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-26T04:54:46.394Z",
+  "updatedAt": "2026-11-26T05:13:43.100Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "leetcode/0258-add-digits/",
+      "readmePath": "leetcode/0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0258-add-digits.py",
+          "path": "leetcode/0258-add-digits/0258-add-digits.py",
+          "sha": "3cebc902e58e2a1075c857b782a6e74141650cdc",
+          "lastSyncedAt": "2026-11-26T05:13:43.100Z"
+        }
+      ]
+    },
     {
       "frontendId": "914",
       "title": "X of a Kind in a Deck of Cards",
