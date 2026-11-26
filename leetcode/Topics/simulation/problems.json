@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-26T03:51:52.852Z",
+  "updatedAt": "2026-11-26T03:55:22.737Z",
   "problems": [
     {
       "frontendId": "1275",
@@ -103,7 +103,7 @@
           "filename": "2974-minimum-number-game.py",
           "path": "leetcode/2974-minimum-number-game/2974-minimum-number-game.py",
           "sha": "2be005d49d03a9e5f47dce826665d3ca78ae09cd",
-          "lastSyncedAt": "2026-11-26T03:31:02.592Z"
+          "lastSyncedAt": "2026-11-26T03:55:22.737Z"
         }
       ]
     },
