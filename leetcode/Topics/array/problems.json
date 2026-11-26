@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:57:23.737Z",
+  "updatedAt": "2026-11-26T03:57:29.470Z",
   "problems": [
     {
       "frontendId": "500",
@@ -983,7 +983,7 @@
           "filename": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.py",
           "path": "leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.py",
           "sha": "62b71159e5af7d7e7e858e2d5175d15fada0d59b",
-          "lastSyncedAt": "2026-11-26T03:33:53.121Z"
+          "lastSyncedAt": "2026-11-26T03:57:29.470Z"
         }
       ]
     },
