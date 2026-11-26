@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:30:08.321Z",
+  "updatedAt": "2026-11-26T03:32:23.014Z",
   "problems": [
     {
       "frontendId": "500",
@@ -464,6 +464,26 @@
           "path": "leetcode/1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.py",
           "sha": "29e7442f70dc813e4df417341dc70d266c768698",
           "lastSyncedAt": "2026-11-26T03:24:15.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "leetcode/2418-sort-the-people/",
+      "readmePath": "leetcode/2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2418-sort-the-people.py",
+          "path": "leetcode/2418-sort-the-people/2418-sort-the-people.py",
+          "sha": "0680c263b805a2630c548bec0125e29820593471",
+          "lastSyncedAt": "2026-11-26T03:32:23.014Z"
         }
       ]
     },
