@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:34:22.513Z",
+  "updatedAt": "2026-11-26T03:34:29.288Z",
   "problems": [
     {
       "frontendId": "500",
@@ -344,6 +344,26 @@
           "path": "leetcode/1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "57ed6ff9457d0fc00fc868d8587c73655c026c8d",
           "lastSyncedAt": "2026-11-26T03:25:56.156Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1636",
+      "title": "Sort Array by Increasing Frequency",
+      "slug": "sort-array-by-increasing-frequency",
+      "problemName": "1636-sort-array-by-increasing-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+      "folderPath": "leetcode/1636-sort-array-by-increasing-frequency/",
+      "readmePath": "leetcode/1636-sort-array-by-increasing-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1636-sort-array-by-increasing-frequency.py",
+          "path": "leetcode/1636-sort-array-by-increasing-frequency/1636-sort-array-by-increasing-frequency.py",
+          "sha": "762067f525dfb4ae7ba3e18490588f04f2697968",
+          "lastSyncedAt": "2026-11-26T03:34:29.288Z"
         }
       ]
     },
