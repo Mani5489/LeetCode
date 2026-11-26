@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T06:00:43.965Z",
+  "updatedAt": "2026-11-26T06:00:50.851Z",
   "problems": [
     {
       "frontendId": "409",
@@ -783,7 +783,7 @@
           "filename": "2900-longest-unequal-adjacent-groups-subsequence-i.py",
           "path": "leetcode/2900-longest-unequal-adjacent-groups-subsequence-i/2900-longest-unequal-adjacent-groups-subsequence-i.py",
           "sha": "0984bcfbb31a3a973c05de78df5003383574278c",
-          "lastSyncedAt": "2026-11-26T05:03:26.044Z"
+          "lastSyncedAt": "2026-11-26T06:00:50.851Z"
         }
       ]
     },
