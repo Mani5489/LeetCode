@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:25:10.567Z",
+  "updatedAt": "2026-11-26T05:25:16.100Z",
   "problems": [
     {
       "frontendId": "175",
@@ -524,6 +524,26 @@
           "path": "leetcode/1484-group-sold-products-by-the-date/1484-group-sold-products-by-the-date.sql",
           "sha": "7585b9dc881cd76be7df22a0ab828593340c5d67",
           "lastSyncedAt": "2026-11-26T05:18:19.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1683",
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "problemName": "1683-invalid-tweets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/invalid-tweets/",
+      "folderPath": "leetcode/1683-invalid-tweets/",
+      "readmePath": "leetcode/1683-invalid-tweets/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1683-invalid-tweets.sql",
+          "path": "leetcode/1683-invalid-tweets/1683-invalid-tweets.sql",
+          "sha": "1325d41a4cd8ce01f236e58f59ef703118096076",
+          "lastSyncedAt": "2026-11-26T05:25:16.100Z"
         }
       ]
     },
