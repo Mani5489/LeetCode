@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:27:39.674Z",
+  "updatedAt": "2026-11-26T03:27:47.643Z",
   "problems": [
+    {
+      "frontendId": "929",
+      "title": "Unique Email Addresses",
+      "slug": "unique-email-addresses",
+      "problemName": "0929-unique-email-addresses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-email-addresses/",
+      "folderPath": "leetcode/0929-unique-email-addresses/",
+      "readmePath": "leetcode/0929-unique-email-addresses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0929-unique-email-addresses.py",
+          "path": "leetcode/0929-unique-email-addresses/0929-unique-email-addresses.py",
+          "sha": "095da4c1dabb1459f022aa5b59be24c3bf5ad35e",
+          "lastSyncedAt": "2026-11-26T03:27:47.643Z"
+        }
+      ]
+    },
     {
       "frontendId": "953",
       "title": "Verifying an Alien Dictionary",
