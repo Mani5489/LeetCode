@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T03:43:11.546Z",
+  "updatedAt": "2026-11-26T03:43:25.517Z",
   "problems": [
     {
       "frontendId": "1005",
@@ -24,6 +24,26 @@
           "path": "leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
           "sha": "2d9d6a343be066700db93d3b631b08cd2048173b",
           "lastSyncedAt": "2026-11-26T03:36:40.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1013",
+      "title": "Partition Array Into Three Parts With Equal Sum",
+      "slug": "partition-array-into-three-parts-with-equal-sum",
+      "problemName": "1013-partition-array-into-three-parts-with-equal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/",
+      "folderPath": "leetcode/1013-partition-array-into-three-parts-with-equal-sum/",
+      "readmePath": "leetcode/1013-partition-array-into-three-parts-with-equal-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1013-partition-array-into-three-parts-with-equal-sum.py",
+          "path": "leetcode/1013-partition-array-into-three-parts-with-equal-sum/1013-partition-array-into-three-parts-with-equal-sum.py",
+          "sha": "87b19f9f3dff4724f5c313a9b6307856936db6b7",
+          "lastSyncedAt": "2026-11-26T03:43:25.517Z"
         }
       ]
     },
