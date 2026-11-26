@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:17:13.494Z",
+  "updatedAt": "2026-11-26T05:17:29.010Z",
   "problems": [
     {
       "frontendId": "34",
@@ -64,6 +64,26 @@
           "path": "leetcode/0278-first-bad-version/0278-first-bad-version.py",
           "sha": "215cbdf42994974f332e5ed80b06ce20125021bf",
           "lastSyncedAt": "2026-11-26T05:16:21.869Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "leetcode/0349-intersection-of-two-arrays/",
+      "readmePath": "leetcode/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0349-intersection-of-two-arrays.py",
+          "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
+          "sha": "bf298127139d23e2279bb7753573f5452bbd1a07",
+          "lastSyncedAt": "2026-11-26T05:17:29.010Z"
         }
       ]
     },
