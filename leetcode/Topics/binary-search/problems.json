@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:04:15.405Z",
+  "updatedAt": "2026-11-26T05:13:53.806Z",
   "problems": [
     {
       "frontendId": "1337",
@@ -24,6 +24,26 @@
           "path": "leetcode/1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.py",
           "sha": "9ea036a86c40f8c2ccdc329a502182a2b3d22de1",
           "lastSyncedAt": "2026-11-26T05:00:26.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1608",
+      "title": "Special Array With X Elements Greater Than or Equal X",
+      "slug": "special-array-with-x-elements-greater-than-or-equal-x",
+      "problemName": "1608-special-array-with-x-elements-greater-than-or-equal-x",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/",
+      "folderPath": "leetcode/1608-special-array-with-x-elements-greater-than-or-equal-x/",
+      "readmePath": "leetcode/1608-special-array-with-x-elements-greater-than-or-equal-x/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1608-special-array-with-x-elements-greater-than-or-equal-x.py",
+          "path": "leetcode/1608-special-array-with-x-elements-greater-than-or-equal-x/1608-special-array-with-x-elements-greater-than-or-equal-x.py",
+          "sha": "720dd7469baca9a87e2fcefa04b2ddb76b7f0965",
+          "lastSyncedAt": "2026-11-26T05:13:53.806Z"
         }
       ]
     },
