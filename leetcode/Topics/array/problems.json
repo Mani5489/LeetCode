@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T04:56:36.932Z",
+  "updatedAt": "2026-11-26T04:56:43.418Z",
   "problems": [
     {
       "frontendId": "500",
@@ -1623,7 +1623,7 @@
           "filename": "3194-minimum-average-of-smallest-and-largest-elements.py",
           "path": "leetcode/3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.py",
           "sha": "5da3ed546afeaa4232940b7435ef58241c6f9787",
-          "lastSyncedAt": "2026-11-26T03:55:01.823Z"
+          "lastSyncedAt": "2026-11-26T04:56:43.418Z"
         }
       ]
     },
