@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:29:47.996Z",
+  "updatedAt": "2026-11-26T03:29:54.732Z",
   "problems": [
+    {
+      "frontendId": "3769",
+      "title": "Sort Integers by Binary Reflection",
+      "slug": "sort-integers-by-binary-reflection",
+      "problemName": "3769-sort-integers-by-binary-reflection",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-integers-by-binary-reflection/",
+      "folderPath": "leetcode/3769-sort-integers-by-binary-reflection/",
+      "readmePath": "leetcode/3769-sort-integers-by-binary-reflection/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3769-sort-integers-by-binary-reflection.py",
+          "path": "leetcode/3769-sort-integers-by-binary-reflection/3769-sort-integers-by-binary-reflection.py",
+          "sha": "a806d416845133994a3304e8cb9c98dcd5ac9b47",
+          "lastSyncedAt": "2026-11-26T03:29:54.732Z"
+        }
+      ]
+    },
     {
       "frontendId": "3774",
       "title": "Absolute Difference Between Maximum and Minimum K Elements",
