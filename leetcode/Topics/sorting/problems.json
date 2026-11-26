@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:32:13.391Z",
+  "updatedAt": "2026-11-26T03:32:23.014Z",
   "problems": [
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "leetcode/2418-sort-the-people/",
+      "readmePath": "leetcode/2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2418-sort-the-people.py",
+          "path": "leetcode/2418-sort-the-people/2418-sort-the-people.py",
+          "sha": "0680c263b805a2630c548bec0125e29820593471",
+          "lastSyncedAt": "2026-11-26T03:32:23.014Z"
+        }
+      ]
+    },
     {
       "frontendId": "2441",
       "title": "Largest Positive Integer That Exists With Its Negative",
