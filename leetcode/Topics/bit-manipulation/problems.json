@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-26T05:18:25.116Z",
+  "updatedAt": "2026-11-26T05:18:42.238Z",
   "problems": [
     {
       "frontendId": "190",
@@ -64,6 +64,26 @@
           "path": "leetcode/0231-power-of-two/0231-power-of-two.py",
           "sha": "4c244e9b9d2b78dfc5f8c675fa21ad9e6a57012e",
           "lastSyncedAt": "2026-11-26T05:13:22.570Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "leetcode/0287-find-the-duplicate-number/",
+      "readmePath": "leetcode/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0287-find-the-duplicate-number.py",
+          "path": "leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
+          "sha": "e25f602e4b7cc779f34e8b56921338588c1faec7",
+          "lastSyncedAt": "2026-11-26T05:18:42.238Z"
         }
       ]
     },
