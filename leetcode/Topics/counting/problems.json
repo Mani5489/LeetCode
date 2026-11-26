@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-26T05:08:25.375Z",
+  "updatedAt": "2026-11-26T05:20:23.896Z",
   "problems": [
     {
       "frontendId": "387",
@@ -464,6 +464,26 @@
           "path": "leetcode/2248-intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.py",
           "sha": "69744df7b8f01699aff484c779985e3480a427f4",
           "lastSyncedAt": "2026-11-26T04:58:31.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2287",
+      "title": "Rearrange Characters to Make Target String",
+      "slug": "rearrange-characters-to-make-target-string",
+      "problemName": "2287-rearrange-characters-to-make-target-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-characters-to-make-target-string/",
+      "folderPath": "leetcode/2287-rearrange-characters-to-make-target-string/",
+      "readmePath": "leetcode/2287-rearrange-characters-to-make-target-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2287-rearrange-characters-to-make-target-string.py",
+          "path": "leetcode/2287-rearrange-characters-to-make-target-string/2287-rearrange-characters-to-make-target-string.py",
+          "sha": "ac20eed1b4c9a0bbc868c927adf3d96f551feb71",
+          "lastSyncedAt": "2026-11-26T05:20:23.896Z"
         }
       ]
     },
