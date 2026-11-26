@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:41:55.333Z",
+  "updatedAt": "2026-11-26T03:42:03.316Z",
   "problems": [
     {
       "frontendId": "500",
@@ -484,6 +484,26 @@
           "path": "leetcode/1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.py",
           "sha": "29e7442f70dc813e4df417341dc70d266c768698",
           "lastSyncedAt": "2026-11-26T03:24:15.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1974",
+      "title": "Minimum Time to Type Word Using Special Typewriter",
+      "slug": "minimum-time-to-type-word-using-special-typewriter",
+      "problemName": "1974-minimum-time-to-type-word-using-special-typewriter",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/",
+      "folderPath": "leetcode/1974-minimum-time-to-type-word-using-special-typewriter/",
+      "readmePath": "leetcode/1974-minimum-time-to-type-word-using-special-typewriter/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1974-minimum-time-to-type-word-using-special-typewriter.py",
+          "path": "leetcode/1974-minimum-time-to-type-word-using-special-typewriter/1974-minimum-time-to-type-word-using-special-typewriter.py",
+          "sha": "92f37848451b680d59671b774859f85430759b2b",
+          "lastSyncedAt": "2026-11-26T03:42:03.316Z"
         }
       ]
     },
