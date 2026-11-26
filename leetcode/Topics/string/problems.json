@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:17:53.391Z",
+  "updatedAt": "2026-11-26T05:18:10.527Z",
   "problems": [
     {
       "frontendId": "43",
@@ -24,6 +24,26 @@
           "path": "leetcode/0043-multiply-strings/0043-multiply-strings.py",
           "sha": "87571e92e6eb22486dc2297db9e014556ebc2fc1",
           "lastSyncedAt": "2026-11-26T05:11:45.129Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "168",
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "problemName": "0168-excel-sheet-column-title",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+      "folderPath": "leetcode/0168-excel-sheet-column-title/",
+      "readmePath": "leetcode/0168-excel-sheet-column-title/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0168-excel-sheet-column-title.py",
+          "path": "leetcode/0168-excel-sheet-column-title/0168-excel-sheet-column-title.py",
+          "sha": "971b74c5c43f7c5b149ce34eec978e6a8a38584d",
+          "lastSyncedAt": "2026-11-26T05:18:10.527Z"
         }
       ]
     },
