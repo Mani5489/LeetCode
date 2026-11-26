@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:05:53.167Z",
+  "updatedAt": "2026-11-26T05:05:59.881Z",
   "problems": [
     {
       "frontendId": "500",
@@ -663,7 +663,7 @@
           "filename": "1403-minimum-subsequence-in-non-increasing-order.py",
           "path": "leetcode/1403-minimum-subsequence-in-non-increasing-order/1403-minimum-subsequence-in-non-increasing-order.py",
           "sha": "72043c241645b496c98e1237983032dd6e17e6d5",
-          "lastSyncedAt": "2026-11-26T03:42:47.527Z"
+          "lastSyncedAt": "2026-11-26T05:05:59.881Z"
         }
       ]
     },
