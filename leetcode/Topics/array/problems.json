@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:08:03.782Z",
+  "updatedAt": "2026-11-26T05:08:16.962Z",
   "problems": [
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "leetcode/0414-third-maximum-number/",
+      "readmePath": "leetcode/0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0414-third-maximum-number.py",
+          "path": "leetcode/0414-third-maximum-number/0414-third-maximum-number.py",
+          "sha": "2e5106aee9b7f282f2d2d5c33c6c8b60b7a519f3",
+          "lastSyncedAt": "2026-11-26T05:08:16.962Z"
+        }
+      ]
+    },
     {
       "frontendId": "448",
       "title": "Find All Numbers Disappeared in an Array",
