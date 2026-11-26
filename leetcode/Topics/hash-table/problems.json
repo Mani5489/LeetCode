@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T05:19:55.408Z",
+  "updatedAt": "2026-11-26T05:20:02.615Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "leetcode/0268-missing-number/0268-missing-number.py",
           "sha": "69aea737800ee6491a02a6c38d1a896b1a778e1b",
           "lastSyncedAt": "2026-11-26T05:19:10.822Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "leetcode/0290-word-pattern/",
+      "readmePath": "leetcode/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0290-word-pattern.py",
+          "path": "leetcode/0290-word-pattern/0290-word-pattern.py",
+          "sha": "197108a8edf495cc37a55c589a83fd048a9e21f8",
+          "lastSyncedAt": "2026-11-26T05:20:02.615Z"
         }
       ]
     },
