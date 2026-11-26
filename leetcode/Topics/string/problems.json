@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:18:58.404Z",
+  "updatedAt": "2026-11-26T05:20:02.615Z",
   "problems": [
     {
       "frontendId": "43",
@@ -84,6 +84,26 @@
           "path": "leetcode/0242-valid-anagram/0242-valid-anagram.py",
           "sha": "4b907bc5b5d9a54c5e544e336509df57c32e23fd",
           "lastSyncedAt": "2026-11-26T05:12:36.055Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "leetcode/0290-word-pattern/",
+      "readmePath": "leetcode/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0290-word-pattern.py",
+          "path": "leetcode/0290-word-pattern/0290-word-pattern.py",
+          "sha": "197108a8edf495cc37a55c589a83fd048a9e21f8",
+          "lastSyncedAt": "2026-11-26T05:20:02.615Z"
         }
       ]
     },
