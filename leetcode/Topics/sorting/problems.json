@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:59:23.000Z",
+  "updatedAt": "2026-11-26T05:59:29.921Z",
   "problems": [
     {
       "frontendId": "56",
@@ -1683,7 +1683,7 @@
           "filename": "3745-maximize-expression-of-three-elements.py",
           "path": "leetcode/3745-maximize-expression-of-three-elements/3745-maximize-expression-of-three-elements.py",
           "sha": "b633957cf545e32bc57c5f2bf3275daded1d560f",
-          "lastSyncedAt": "2026-11-26T05:02:12.418Z"
+          "lastSyncedAt": "2026-11-26T05:59:29.921Z"
         }
       ]
     },
