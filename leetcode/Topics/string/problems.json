@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:34:12.271Z",
+  "updatedAt": "2026-11-26T03:38:17.371Z",
   "problems": [
     {
       "frontendId": "500",
@@ -524,6 +524,26 @@
           "path": "leetcode/2418-sort-the-people/2418-sort-the-people.py",
           "sha": "0680c263b805a2630c548bec0125e29820593471",
           "lastSyncedAt": "2026-11-26T03:32:23.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3545",
+      "title": "Minimum Deletions for At Most K Distinct Characters",
+      "slug": "minimum-deletions-for-at-most-k-distinct-characters",
+      "problemName": "3545-minimum-deletions-for-at-most-k-distinct-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/",
+      "folderPath": "leetcode/3545-minimum-deletions-for-at-most-k-distinct-characters/",
+      "readmePath": "leetcode/3545-minimum-deletions-for-at-most-k-distinct-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3545-minimum-deletions-for-at-most-k-distinct-characters.py",
+          "path": "leetcode/3545-minimum-deletions-for-at-most-k-distinct-characters/3545-minimum-deletions-for-at-most-k-distinct-characters.py",
+          "sha": "18e952402bf381bd4b6137ab01fef42d47b8f9da",
+          "lastSyncedAt": "2026-11-26T03:38:17.371Z"
         }
       ]
     },
