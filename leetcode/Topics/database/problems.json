@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:20:10.335Z",
+  "updatedAt": "2026-11-26T05:20:45.806Z",
   "problems": [
     {
       "frontendId": "197",
@@ -24,6 +24,26 @@
           "path": "leetcode/0197-rising-temperature/0197-rising-temperature.sql",
           "sha": "8cadb1dc35c48af46e32d5961f8e6da5b11b896e",
           "lastSyncedAt": "2026-11-26T05:17:42.166Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "problemName": "0584-find-customer-referee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-customer-referee/",
+      "folderPath": "leetcode/0584-find-customer-referee/",
+      "readmePath": "leetcode/0584-find-customer-referee/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0584-find-customer-referee.sql",
+          "path": "leetcode/0584-find-customer-referee/0584-find-customer-referee.sql",
+          "sha": "b46318c7657f7b2b26c1839886fa8dfd542d4ad0",
+          "lastSyncedAt": "2026-11-26T05:20:45.806Z"
         }
       ]
     },
