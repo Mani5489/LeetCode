@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:06:23.226Z",
+  "updatedAt": "2026-11-26T05:07:10.425Z",
   "problems": [
     {
       "frontendId": "3482",
@@ -24,6 +24,26 @@
           "path": "leetcode/3482-analyze-organization-hierarchy/3482-analyze-organization-hierarchy.sql",
           "sha": "e0ca2f8d56b50844222c1e69fd67cf57dd1c2ded",
           "lastSyncedAt": "2026-11-26T05:06:23.226Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3554",
+      "title": "Find Category Recommendation Pairs",
+      "slug": "find-category-recommendation-pairs",
+      "problemName": "3554-find-category-recommendation-pairs",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-category-recommendation-pairs/",
+      "folderPath": "leetcode/3554-find-category-recommendation-pairs/",
+      "readmePath": "leetcode/3554-find-category-recommendation-pairs/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3554-find-category-recommendation-pairs.sql",
+          "path": "leetcode/3554-find-category-recommendation-pairs/3554-find-category-recommendation-pairs.sql",
+          "sha": "da581b7b79bb7a612ad89c7ee53955575c9f797f",
+          "lastSyncedAt": "2026-11-26T05:07:10.425Z"
         }
       ]
     },
