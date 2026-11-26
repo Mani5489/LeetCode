@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bubble-sort",
+    "name": "Bubble Sort",
+    "tagId": "79848"
+  },
+  "updatedAt": "2026-11-26T03:34:12.271Z",
+  "problems": [
+    {
+      "frontendId": "1859",
+      "title": "Sorting the Sentence",
+      "slug": "sorting-the-sentence",
+      "problemName": "1859-sorting-the-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sorting-the-sentence/",
+      "folderPath": "leetcode/1859-sorting-the-sentence/",
+      "readmePath": "leetcode/1859-sorting-the-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1859-sorting-the-sentence.py",
+          "path": "leetcode/1859-sorting-the-sentence/1859-sorting-the-sentence.py",
+          "sha": "bc543295a5baadd3787cce0cdda9988e6c6bbcd6",
+          "lastSyncedAt": "2026-11-26T03:34:12.271Z"
+        }
+      ]
+    }
+  ]
+}
