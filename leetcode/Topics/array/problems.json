@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T15:58:24.191Z",
+  "updatedAt": "2026-11-26T15:58:29.795Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1603,7 +1603,7 @@
           "filename": "1491-average-salary-excluding-the-minimum-and-maximum-salary.py",
           "path": "leetcode/1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.py",
           "sha": "0b0858ffbc6a58af6b5fd4e33decc383597af01b",
-          "lastSyncedAt": "2026-11-26T05:56:57.604Z"
+          "lastSyncedAt": "2026-11-26T15:58:29.795Z"
         }
       ]
     },
