@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:15:54.862Z",
+  "updatedAt": "2026-11-26T05:16:13.996Z",
   "problems": [
     {
       "frontendId": "34",
@@ -384,6 +384,26 @@
           "path": "leetcode/0697-degree-of-an-array/0697-degree-of-an-array.py",
           "sha": "70b00e14d9ea822d5373c65570270bd5ffd23b92",
           "lastSyncedAt": "2026-11-26T04:55:39.313Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "slug": "find-smallest-letter-greater-than-target",
+      "problemName": "0744-find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+      "folderPath": "leetcode/0744-find-smallest-letter-greater-than-target/",
+      "readmePath": "leetcode/0744-find-smallest-letter-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0744-find-smallest-letter-greater-than-target.py",
+          "path": "leetcode/0744-find-smallest-letter-greater-than-target/0744-find-smallest-letter-greater-than-target.py",
+          "sha": "816c45a5b7e19a1a6d7f2563b0d2a61e07270cc0",
+          "lastSyncedAt": "2026-11-26T05:16:13.996Z"
         }
       ]
     },
