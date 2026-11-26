@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T05:14:57.908Z",
+  "updatedAt": "2026-11-26T05:15:19.798Z",
   "problems": [
     {
       "frontendId": "202",
@@ -204,6 +204,26 @@
           "path": "leetcode/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
           "sha": "7bb899678289a765c3fb2cf5f92864a6c7a7ed5b",
           "lastSyncedAt": "2026-11-26T05:01:30.564Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1346",
+      "title": "Check If N and Its Double Exist",
+      "slug": "check-if-n-and-its-double-exist",
+      "problemName": "1346-check-if-n-and-its-double-exist",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+      "folderPath": "leetcode/1346-check-if-n-and-its-double-exist/",
+      "readmePath": "leetcode/1346-check-if-n-and-its-double-exist/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1346-check-if-n-and-its-double-exist.py",
+          "path": "leetcode/1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.py",
+          "sha": "38a4934245e9ef536a8c05f26b41783d7624886f",
+          "lastSyncedAt": "2026-11-26T05:15:19.798Z"
         }
       ]
     },
