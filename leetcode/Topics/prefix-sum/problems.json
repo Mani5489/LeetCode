@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-11-26T03:40:17.605Z",
+  "problems": [
+    {
+      "frontendId": "2389",
+      "title": "Longest Subsequence With Limited Sum",
+      "slug": "longest-subsequence-with-limited-sum",
+      "problemName": "2389-longest-subsequence-with-limited-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
+      "folderPath": "leetcode/2389-longest-subsequence-with-limited-sum/",
+      "readmePath": "leetcode/2389-longest-subsequence-with-limited-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2389-longest-subsequence-with-limited-sum.py",
+          "path": "leetcode/2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
+          "sha": "de3d9b1ed4443ea49125ddf2ac9cf44b374a802a",
+          "lastSyncedAt": "2026-11-26T03:40:17.605Z"
+        }
+      ]
+    }
+  ]
+}
