@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T03:54:13.348Z",
+  "updatedAt": "2026-11-26T03:54:21.879Z",
   "problems": [
     {
       "frontendId": "202",
@@ -223,7 +223,7 @@
           "filename": "3992-rearrange-string-to-avoid-character-pair.py",
           "path": "leetcode/3992-rearrange-string-to-avoid-character-pair/3992-rearrange-string-to-avoid-character-pair.py",
           "sha": "bff89c3e2b2b1ec463cbc184e270740997362d22",
-          "lastSyncedAt": "2026-11-26T03:29:38.038Z"
+          "lastSyncedAt": "2026-11-26T03:54:21.879Z"
         }
       ]
     }
