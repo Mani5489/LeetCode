@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:41:44.454Z",
+  "updatedAt": "2026-11-26T03:42:37.832Z",
   "problems": [
     {
       "frontendId": "506",
@@ -424,6 +424,26 @@
           "path": "leetcode/1637-widest-vertical-area-between-two-points-containing-no-points/1637-widest-vertical-area-between-two-points-containing-no-points.py",
           "sha": "33c8b05f418064b69dc98f791a6d254b89408fb7",
           "lastSyncedAt": "2026-11-26T03:34:22.513Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1710",
+      "title": "Maximum Units on a Truck",
+      "slug": "maximum-units-on-a-truck",
+      "problemName": "1710-maximum-units-on-a-truck",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-units-on-a-truck/",
+      "folderPath": "leetcode/1710-maximum-units-on-a-truck/",
+      "readmePath": "leetcode/1710-maximum-units-on-a-truck/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1710-maximum-units-on-a-truck.py",
+          "path": "leetcode/1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.py",
+          "sha": "8469baee9597597d80d7955b82f6d5234a0b9caf",
+          "lastSyncedAt": "2026-11-26T03:42:37.832Z"
         }
       ]
     },
