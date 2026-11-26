@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T03:40:02.954Z",
+  "updatedAt": "2026-11-26T03:40:11.916Z",
   "problems": [
     {
       "frontendId": "1005",
@@ -24,6 +24,26 @@
           "path": "leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
           "sha": "2d9d6a343be066700db93d3b631b08cd2048173b",
           "lastSyncedAt": "2026-11-26T03:36:40.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2566",
+      "title": "Maximum Difference by Remapping a Digit",
+      "slug": "maximum-difference-by-remapping-a-digit",
+      "problemName": "2566-maximum-difference-by-remapping-a-digit",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/",
+      "folderPath": "leetcode/2566-maximum-difference-by-remapping-a-digit/",
+      "readmePath": "leetcode/2566-maximum-difference-by-remapping-a-digit/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2566-maximum-difference-by-remapping-a-digit.py",
+          "path": "leetcode/2566-maximum-difference-by-remapping-a-digit/2566-maximum-difference-by-remapping-a-digit.py",
+          "sha": "1a7117ec40ecaf38ce252a5aefe88e8fa95a6298",
+          "lastSyncedAt": "2026-11-26T03:40:11.916Z"
         }
       ]
     },
