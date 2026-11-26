@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T05:15:38.761Z",
+  "updatedAt": "2026-11-26T05:16:30.024Z",
   "problems": [
     {
       "frontendId": "43",
@@ -24,6 +24,26 @@
           "path": "leetcode/0043-multiply-strings/0043-multiply-strings.py",
           "sha": "87571e92e6eb22486dc2297db9e014556ebc2fc1",
           "lastSyncedAt": "2026-11-26T05:11:45.129Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "leetcode/0069-sqrtx/",
+      "readmePath": "leetcode/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0069-sqrtx.py",
+          "path": "leetcode/0069-sqrtx/0069-sqrtx.py",
+          "sha": "0d4346dbd9aa7c372b674eb66244b6e9326550e2",
+          "lastSyncedAt": "2026-11-26T05:16:30.024Z"
         }
       ]
     },
