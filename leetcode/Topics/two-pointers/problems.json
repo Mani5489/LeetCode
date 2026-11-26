@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T03:29:25.091Z",
+  "updatedAt": "2026-11-26T03:29:38.038Z",
   "problems": [
     {
       "frontendId": "202",
@@ -24,6 +24,26 @@
           "path": "leetcode/0202-happy-number/0202-happy-number.py",
           "sha": "d10a758e893c9008886bff01f31fb6002748c982",
           "lastSyncedAt": "2026-11-26T03:29:25.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3992",
+      "title": "Rearrange String to Avoid Character Pair",
+      "slug": "rearrange-string-to-avoid-character-pair",
+      "problemName": "3992-rearrange-string-to-avoid-character-pair",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/",
+      "folderPath": "leetcode/3992-rearrange-string-to-avoid-character-pair/",
+      "readmePath": "leetcode/3992-rearrange-string-to-avoid-character-pair/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3992-rearrange-string-to-avoid-character-pair.py",
+          "path": "leetcode/3992-rearrange-string-to-avoid-character-pair/3992-rearrange-string-to-avoid-character-pair.py",
+          "sha": "bff89c3e2b2b1ec463cbc184e270740997362d22",
+          "lastSyncedAt": "2026-11-26T03:29:38.038Z"
         }
       ]
     }
