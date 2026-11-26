@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T16:09:27.920Z",
+  "updatedAt": "2026-11-26T16:10:03.144Z",
   "problems": [
     {
       "frontendId": "175",
@@ -883,7 +883,7 @@
           "filename": "3570-find-books-with-no-available-copies.sql",
           "path": "leetcode/3570-find-books-with-no-available-copies/3570-find-books-with-no-available-copies.sql",
           "sha": "a110ed8402fd7a50e71b3632514d62e3d3eb30f2",
-          "lastSyncedAt": "2026-11-26T06:09:11.266Z"
+          "lastSyncedAt": "2026-11-26T16:10:03.144Z"
         }
       ]
     },
