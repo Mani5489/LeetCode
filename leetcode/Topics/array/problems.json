@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:51:31.023Z",
+  "updatedAt": "2026-11-26T03:51:45.832Z",
   "problems": [
     {
       "frontendId": "500",
@@ -683,7 +683,7 @@
           "filename": "1436-destination-city.py",
           "path": "leetcode/1436-destination-city/1436-destination-city.py",
           "sha": "791a37472935dc5a90bb4fb05d5b4463adf6a6e6",
-          "lastSyncedAt": "2026-11-26T03:26:11.459Z"
+          "lastSyncedAt": "2026-11-26T03:51:45.832Z"
         }
       ]
     },
