@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:10:57.969Z",
+  "updatedAt": "2026-11-26T05:12:50.246Z",
   "problems": [
     {
       "frontendId": "56",
@@ -1284,6 +1284,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T04:51:56.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2016",
+      "title": "Maximum Difference Between Increasing Elements",
+      "slug": "maximum-difference-between-increasing-elements",
+      "problemName": "2016-maximum-difference-between-increasing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-increasing-elements/",
+      "folderPath": "leetcode/2016-maximum-difference-between-increasing-elements/",
+      "readmePath": "leetcode/2016-maximum-difference-between-increasing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2016-maximum-difference-between-increasing-elements.py",
+          "path": "leetcode/2016-maximum-difference-between-increasing-elements/2016-maximum-difference-between-increasing-elements.py",
+          "sha": "408537520e8171930e9fd829b5054f15474a9532",
+          "lastSyncedAt": "2026-11-26T05:12:50.246Z"
         }
       ]
     },
