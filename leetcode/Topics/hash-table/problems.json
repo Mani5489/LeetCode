@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:32:55.049Z",
+  "updatedAt": "2026-11-26T03:33:21.762Z",
   "problems": [
     {
       "frontendId": "202",
@@ -784,6 +784,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2099",
+      "title": "Find Subsequence of Length K With the Largest Sum",
+      "slug": "find-subsequence-of-length-k-with-the-largest-sum",
+      "problemName": "2099-find-subsequence-of-length-k-with-the-largest-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/",
+      "folderPath": "leetcode/2099-find-subsequence-of-length-k-with-the-largest-sum/",
+      "readmePath": "leetcode/2099-find-subsequence-of-length-k-with-the-largest-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2099-find-subsequence-of-length-k-with-the-largest-sum.py",
+          "path": "leetcode/2099-find-subsequence-of-length-k-with-the-largest-sum/2099-find-subsequence-of-length-k-with-the-largest-sum.py",
+          "sha": "09970125d0ffd38f31df8ac23c9ce360caba54ba",
+          "lastSyncedAt": "2026-11-26T03:33:21.762Z"
         }
       ]
     },
