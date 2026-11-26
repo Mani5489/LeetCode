@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:14:57.908Z",
+  "updatedAt": "2026-11-26T05:15:09.827Z",
   "problems": [
     {
       "frontendId": "888",
@@ -44,6 +44,26 @@
           "path": "leetcode/1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.py",
           "sha": "9ea036a86c40f8c2ccdc329a502182a2b3d22de1",
           "lastSyncedAt": "2026-11-26T05:00:26.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1351",
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "problemName": "1351-count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+      "folderPath": "leetcode/1351-count-negative-numbers-in-a-sorted-matrix/",
+      "readmePath": "leetcode/1351-count-negative-numbers-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1351-count-negative-numbers-in-a-sorted-matrix.py",
+          "path": "leetcode/1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.py",
+          "sha": "5430d0b897492ced5816d16368502640d71ccf72",
+          "lastSyncedAt": "2026-11-26T05:15:09.827Z"
         }
       ]
     },
