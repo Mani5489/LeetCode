@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-26T03:51:07.719Z",
+  "updatedAt": "2026-11-26T03:58:32.325Z",
   "problems": [
     {
       "frontendId": "1356",
@@ -23,7 +23,7 @@
           "filename": "1356-sort-integers-by-the-number-of-1-bits.py",
           "path": "leetcode/1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.py",
           "sha": "3c67c4b642f71d56d1c456376a808369a7cefa50",
-          "lastSyncedAt": "2026-11-26T03:35:19.168Z"
+          "lastSyncedAt": "2026-11-26T03:58:32.325Z"
         }
       ]
     },
