@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:28:24.976Z",
+  "updatedAt": "2026-11-26T03:28:40.110Z",
   "problems": [
+    {
+      "frontendId": "804",
+      "title": "Unique Morse Code Words",
+      "slug": "unique-morse-code-words",
+      "problemName": "0804-unique-morse-code-words",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-morse-code-words/",
+      "folderPath": "leetcode/0804-unique-morse-code-words/",
+      "readmePath": "leetcode/0804-unique-morse-code-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0804-unique-morse-code-words.py",
+          "path": "leetcode/0804-unique-morse-code-words/0804-unique-morse-code-words.py",
+          "sha": "a7779eb5aa9af30ae610e91dea99de8e0fe49366",
+          "lastSyncedAt": "2026-11-26T03:28:40.110Z"
+        }
+      ]
+    },
     {
       "frontendId": "819",
       "title": "Most Common Word",
