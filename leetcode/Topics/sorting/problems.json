@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:34:50.318Z",
+  "updatedAt": "2026-11-26T03:34:59.525Z",
   "problems": [
+    {
+      "frontendId": "1460",
+      "title": "Make Two Arrays Equal by Reversing Subarrays",
+      "slug": "make-two-arrays-equal-by-reversing-subarrays",
+      "problemName": "1460-make-two-arrays-equal-by-reversing-subarrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/",
+      "folderPath": "leetcode/1460-make-two-arrays-equal-by-reversing-subarrays/",
+      "readmePath": "leetcode/1460-make-two-arrays-equal-by-reversing-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1460-make-two-arrays-equal-by-reversing-subarrays.py",
+          "path": "leetcode/1460-make-two-arrays-equal-by-reversing-subarrays/1460-make-two-arrays-equal-by-reversing-subarrays.py",
+          "sha": "41cf5cc3b8b3169e5ed1654250d4fb30331ab489",
+          "lastSyncedAt": "2026-11-26T03:34:59.525Z"
+        }
+      ]
+    },
     {
       "frontendId": "1464",
       "title": "Maximum Product of Two Elements in an Array",
