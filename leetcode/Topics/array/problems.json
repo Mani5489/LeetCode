@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:27:47.643Z",
+  "updatedAt": "2026-11-26T03:27:55.944Z",
   "problems": [
+    {
+      "frontendId": "914",
+      "title": "X of a Kind in a Deck of Cards",
+      "slug": "x-of-a-kind-in-a-deck-of-cards",
+      "problemName": "0914-x-of-a-kind-in-a-deck-of-cards",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/",
+      "folderPath": "leetcode/0914-x-of-a-kind-in-a-deck-of-cards/",
+      "readmePath": "leetcode/0914-x-of-a-kind-in-a-deck-of-cards/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0914-x-of-a-kind-in-a-deck-of-cards.py",
+          "path": "leetcode/0914-x-of-a-kind-in-a-deck-of-cards/0914-x-of-a-kind-in-a-deck-of-cards.py",
+          "sha": "eed790f6d5d456ae716782e09255964375ba6ee6",
+          "lastSyncedAt": "2026-11-26T03:27:55.944Z"
+        }
+      ]
+    },
     {
       "frontendId": "929",
       "title": "Unique Email Addresses",
