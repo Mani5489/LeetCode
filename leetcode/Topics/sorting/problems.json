@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T16:03:39.644Z",
+  "updatedAt": "2026-11-26T16:03:53.536Z",
   "problems": [
     {
       "frontendId": "56",
@@ -1143,7 +1143,7 @@
           "filename": "2335-minimum-amount-of-time-to-fill-cups.py",
           "path": "leetcode/2335-minimum-amount-of-time-to-fill-cups/2335-minimum-amount-of-time-to-fill-cups.py",
           "sha": "9845d6c421c92274203244c033063583a6011ca1",
-          "lastSyncedAt": "2026-11-26T06:02:21.603Z"
+          "lastSyncedAt": "2026-11-26T16:03:53.536Z"
         }
       ]
     },
