@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T06:01:49.009Z",
+  "updatedAt": "2026-11-26T06:02:00.914Z",
   "problems": [
     {
       "frontendId": "409",
@@ -583,7 +583,7 @@
           "filename": "2383-minimum-hours-of-training-to-win-a-competition.py",
           "path": "leetcode/2383-minimum-hours-of-training-to-win-a-competition/2383-minimum-hours-of-training-to-win-a-competition.py",
           "sha": "e32de61c98ffb62afff1689139652f5d83603b08",
-          "lastSyncedAt": "2026-11-26T05:04:25.950Z"
+          "lastSyncedAt": "2026-11-26T06:02:00.914Z"
         }
       ]
     },
