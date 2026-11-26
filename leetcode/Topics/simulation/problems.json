@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-26T03:31:02.592Z",
+  "updatedAt": "2026-11-26T03:31:49.768Z",
   "problems": [
     {
       "frontendId": "1275",
@@ -24,6 +24,26 @@
           "path": "leetcode/1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.py",
           "sha": "e2f14cb79983004cf7250f6cdd6ef3dd837b9011",
           "lastSyncedAt": "2026-11-26T03:26:19.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2500",
+      "title": "Delete Greatest Value in Each Row",
+      "slug": "delete-greatest-value-in-each-row",
+      "problemName": "2500-delete-greatest-value-in-each-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-greatest-value-in-each-row/",
+      "folderPath": "leetcode/2500-delete-greatest-value-in-each-row/",
+      "readmePath": "leetcode/2500-delete-greatest-value-in-each-row/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2500-delete-greatest-value-in-each-row.py",
+          "path": "leetcode/2500-delete-greatest-value-in-each-row/2500-delete-greatest-value-in-each-row.py",
+          "sha": "964ac8de66341cc0adcc668b64db5c5a83889024",
+          "lastSyncedAt": "2026-11-26T03:31:49.768Z"
         }
       ]
     },
