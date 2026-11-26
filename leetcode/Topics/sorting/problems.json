@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:36:58.330Z",
+  "updatedAt": "2026-11-26T03:37:05.465Z",
   "problems": [
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "leetcode/0905-sort-array-by-parity/",
+      "readmePath": "leetcode/0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0905-sort-array-by-parity.py",
+          "path": "leetcode/0905-sort-array-by-parity/0905-sort-array-by-parity.py",
+          "sha": "ae136eece49fd873acddff53ab4c059af8a95d5c",
+          "lastSyncedAt": "2026-11-26T03:37:05.465Z"
+        }
+      ]
+    },
     {
       "frontendId": "922",
       "title": "Sort Array By Parity II",
