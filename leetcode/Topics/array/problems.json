@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:17:13.494Z",
+  "updatedAt": "2026-11-26T05:17:29.010Z",
   "problems": [
     {
       "frontendId": "34",
@@ -84,6 +84,26 @@
           "path": "leetcode/0283-move-zeroes/0283-move-zeroes.py",
           "sha": "356d4de6d3f34d7ad820c3dec9c96df0beb5b139",
           "lastSyncedAt": "2026-11-26T05:08:38.971Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "leetcode/0349-intersection-of-two-arrays/",
+      "readmePath": "leetcode/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0349-intersection-of-two-arrays.py",
+          "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
+          "sha": "bf298127139d23e2279bb7753573f5452bbd1a07",
+          "lastSyncedAt": "2026-11-26T05:17:29.010Z"
         }
       ]
     },
