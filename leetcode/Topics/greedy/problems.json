@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T03:40:38.302Z",
+  "updatedAt": "2026-11-26T03:40:52.973Z",
   "problems": [
     {
       "frontendId": "1005",
@@ -24,6 +24,26 @@
           "path": "leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
           "sha": "2d9d6a343be066700db93d3b631b08cd2048173b",
           "lastSyncedAt": "2026-11-26T03:36:40.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2335",
+      "title": "Minimum Amount of Time to Fill Cups",
+      "slug": "minimum-amount-of-time-to-fill-cups",
+      "problemName": "2335-minimum-amount-of-time-to-fill-cups",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/",
+      "folderPath": "leetcode/2335-minimum-amount-of-time-to-fill-cups/",
+      "readmePath": "leetcode/2335-minimum-amount-of-time-to-fill-cups/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2335-minimum-amount-of-time-to-fill-cups.py",
+          "path": "leetcode/2335-minimum-amount-of-time-to-fill-cups/2335-minimum-amount-of-time-to-fill-cups.py",
+          "sha": "9845d6c421c92274203244c033063583a6011ca1",
+          "lastSyncedAt": "2026-11-26T03:40:52.973Z"
         }
       ]
     },
