@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T06:11:40.737Z",
+  "updatedAt": "2026-11-26T06:11:51.224Z",
   "problems": [
     {
       "frontendId": "5",
@@ -263,7 +263,7 @@
           "filename": "0349-intersection-of-two-arrays.py",
           "path": "leetcode/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
           "sha": "bf298127139d23e2279bb7753573f5452bbd1a07",
-          "lastSyncedAt": "2026-11-26T05:17:29.010Z"
+          "lastSyncedAt": "2026-11-26T06:11:51.224Z"
         }
       ]
     },
