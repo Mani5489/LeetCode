@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T05:05:35.111Z",
+  "updatedAt": "2026-11-26T05:05:40.916Z",
   "problems": [
     {
       "frontendId": "976",
@@ -203,7 +203,7 @@
           "filename": "1827-minimum-operations-to-make-the-array-increasing.py",
           "path": "leetcode/1827-minimum-operations-to-make-the-array-increasing/1827-minimum-operations-to-make-the-array-increasing.py",
           "sha": "887a489260d34c2590e0217b5d3fb3ee0d3ce5ab",
-          "lastSyncedAt": "2026-11-26T03:42:17.429Z"
+          "lastSyncedAt": "2026-11-26T05:05:40.916Z"
         }
       ]
     },
