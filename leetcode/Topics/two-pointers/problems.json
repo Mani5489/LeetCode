@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T05:11:32.218Z",
+  "updatedAt": "2026-11-26T05:14:57.908Z",
   "problems": [
     {
       "frontendId": "202",
@@ -204,6 +204,26 @@
           "path": "leetcode/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
           "sha": "7bb899678289a765c3fb2cf5f92864a6c7a7ed5b",
           "lastSyncedAt": "2026-11-26T05:01:30.564Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "leetcode/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "leetcode/1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1385-find-the-distance-value-between-two-arrays.py",
+          "path": "leetcode/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
+          "sha": "c0c90cd3a5218ed169b4f48e8dee59f20ae056b3",
+          "lastSyncedAt": "2026-11-26T05:14:57.908Z"
         }
       ]
     },
