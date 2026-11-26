@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:29:54.732Z",
+  "updatedAt": "2026-11-26T03:30:00.814Z",
   "problems": [
     {
       "frontendId": "500",
@@ -424,6 +424,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "leetcode/3731-find-missing-elements/",
+      "readmePath": "leetcode/3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3731-find-missing-elements.py",
+          "path": "leetcode/3731-find-missing-elements/3731-find-missing-elements.py",
+          "sha": "75dd20b14740c69de5cf0baa568213279af312f8",
+          "lastSyncedAt": "2026-11-26T03:30:00.814Z"
         }
       ]
     },
