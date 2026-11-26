@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:28:40.110Z",
+  "updatedAt": "2026-11-26T03:28:48.170Z",
   "problems": [
+    {
+      "frontendId": "771",
+      "title": "Jewels and Stones",
+      "slug": "jewels-and-stones",
+      "problemName": "0771-jewels-and-stones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+      "folderPath": "leetcode/0771-jewels-and-stones/",
+      "readmePath": "leetcode/0771-jewels-and-stones/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0771-jewels-and-stones.py",
+          "path": "leetcode/0771-jewels-and-stones/0771-jewels-and-stones.py",
+          "sha": "3abf89254fde011a63bef6a48be90d8d8cd0ce02",
+          "lastSyncedAt": "2026-11-26T03:28:48.170Z"
+        }
+      ]
+    },
     {
       "frontendId": "804",
       "title": "Unique Morse Code Words",
