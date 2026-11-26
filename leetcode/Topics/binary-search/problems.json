@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:00:26.595Z",
+  "updatedAt": "2026-11-26T05:02:30.596Z",
   "problems": [
     {
       "frontendId": "1337",
@@ -83,7 +83,7 @@
           "filename": "3633-earliest-finish-time-for-land-and-water-rides-i.py",
           "path": "leetcode/3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.py",
           "sha": "37031b84687cc6ab8137732c8e4ae33fcbf979bf",
-          "lastSyncedAt": "2026-11-26T03:38:05.651Z"
+          "lastSyncedAt": "2026-11-26T05:02:30.596Z"
         }
       ]
     }
