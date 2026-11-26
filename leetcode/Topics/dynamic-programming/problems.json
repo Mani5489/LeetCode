@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming",
+    "tagId": "13"
+  },
+  "updatedAt": "2026-11-26T03:39:09.128Z",
+  "problems": [
+    {
+      "frontendId": "2900",
+      "title": "Longest Unequal Adjacent Groups Subsequence I",
+      "slug": "longest-unequal-adjacent-groups-subsequence-i",
+      "problemName": "2900-longest-unequal-adjacent-groups-subsequence-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/",
+      "folderPath": "leetcode/2900-longest-unequal-adjacent-groups-subsequence-i/",
+      "readmePath": "leetcode/2900-longest-unequal-adjacent-groups-subsequence-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2900-longest-unequal-adjacent-groups-subsequence-i.py",
+          "path": "leetcode/2900-longest-unequal-adjacent-groups-subsequence-i/2900-longest-unequal-adjacent-groups-subsequence-i.py",
+          "sha": "0984bcfbb31a3a973c05de78df5003383574278c",
+          "lastSyncedAt": "2026-11-26T03:39:09.128Z"
+        }
+      ]
+    }
+  ]
+}
