@@ -5,7 +5,7 @@
     "name": "Manacher",
     "tagId": "80991"
   },
-  "updatedAt": "2026-11-26T05:22:14.927Z",
+  "updatedAt": "2026-11-26T06:14:57.498Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,7 +23,7 @@
           "filename": "0005-longest-palindromic-substring.py",
           "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "39894014c4cc59e73de088ed243bd5dc2f80a3f4",
-          "lastSyncedAt": "2026-11-26T05:22:14.927Z"
+          "lastSyncedAt": "2026-11-26T06:14:57.498Z"
         }
       ]
     }
