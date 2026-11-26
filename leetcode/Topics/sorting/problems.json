@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:19:10.822Z",
+  "updatedAt": "2026-11-26T05:19:34.762Z",
   "problems": [
     {
       "frontendId": "56",
@@ -24,6 +24,26 @@
           "path": "leetcode/0056-merge-intervals/0056-merge-intervals.py",
           "sha": "1a123935f492e0fbadbadbd3d4557e8094fdbd1e",
           "lastSyncedAt": "2026-11-26T05:10:04.997Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "leetcode/0217-contains-duplicate/",
+      "readmePath": "leetcode/0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0217-contains-duplicate.py",
+          "path": "leetcode/0217-contains-duplicate/0217-contains-duplicate.py",
+          "sha": "1c6bf70f5ea4805ca131b94178c956673a877ac0",
+          "lastSyncedAt": "2026-11-26T05:19:34.762Z"
         }
       ]
     },
