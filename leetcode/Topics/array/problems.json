@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T15:55:15.640Z",
+  "updatedAt": "2026-11-26T15:55:24.592Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2543,7 +2543,7 @@
           "filename": "3010-divide-an-array-into-subarrays-with-minimum-cost-i.py",
           "path": "leetcode/3010-divide-an-array-into-subarrays-with-minimum-cost-i/3010-divide-an-array-into-subarrays-with-minimum-cost-i.py",
           "sha": "32812b5bca52899c774e9ecbe6c01afe864b3b2d",
-          "lastSyncedAt": "2026-11-26T05:53:42.221Z"
+          "lastSyncedAt": "2026-11-26T15:55:24.592Z"
         }
       ]
     },
