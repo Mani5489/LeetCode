@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:11:39.261Z",
+  "updatedAt": "2026-11-26T05:11:45.129Z",
   "problems": [
+    {
+      "frontendId": "43",
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "problemName": "0043-multiply-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/multiply-strings/",
+      "folderPath": "leetcode/0043-multiply-strings/",
+      "readmePath": "leetcode/0043-multiply-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0043-multiply-strings.py",
+          "path": "leetcode/0043-multiply-strings/0043-multiply-strings.py",
+          "sha": "87571e92e6eb22486dc2297db9e014556ebc2fc1",
+          "lastSyncedAt": "2026-11-26T05:11:45.129Z"
+        }
+      ]
+    },
     {
       "frontendId": "344",
       "title": "Reverse String",
