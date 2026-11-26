@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:30:24.271Z",
+  "updatedAt": "2026-11-26T03:30:33.157Z",
   "problems": [
+    {
+      "frontendId": "3194",
+      "title": "Minimum Average of Smallest and Largest Elements",
+      "slug": "minimum-average-of-smallest-and-largest-elements",
+      "problemName": "3194-minimum-average-of-smallest-and-largest-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/",
+      "folderPath": "leetcode/3194-minimum-average-of-smallest-and-largest-elements/",
+      "readmePath": "leetcode/3194-minimum-average-of-smallest-and-largest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3194-minimum-average-of-smallest-and-largest-elements.py",
+          "path": "leetcode/3194-minimum-average-of-smallest-and-largest-elements/3194-minimum-average-of-smallest-and-largest-elements.py",
+          "sha": "5da3ed546afeaa4232940b7435ef58241c6f9787",
+          "lastSyncedAt": "2026-11-26T03:30:33.157Z"
+        }
+      ]
+    },
     {
       "frontendId": "3467",
       "title": "Transform Array by Parity",
