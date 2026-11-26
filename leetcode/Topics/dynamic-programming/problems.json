@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-26T05:22:14.927Z",
+  "updatedAt": "2026-11-26T05:25:32.347Z",
   "problems": [
     {
       "frontendId": "5",
@@ -24,6 +24,26 @@
           "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "39894014c4cc59e73de088ed243bd5dc2f80a3f4",
           "lastSyncedAt": "2026-11-26T05:22:14.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "leetcode/0070-climbing-stairs/",
+      "readmePath": "leetcode/0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0070-climbing-stairs.py",
+          "path": "leetcode/0070-climbing-stairs/0070-climbing-stairs.py",
+          "sha": "7289cac92817f5852fab699b11282536bd7f3136",
+          "lastSyncedAt": "2026-11-26T05:25:32.347Z"
         }
       ]
     },
