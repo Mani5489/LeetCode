@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T16:12:07.541Z",
+  "updatedAt": "2026-11-26T16:12:13.549Z",
   "problems": [
     {
       "frontendId": "9",
@@ -343,7 +343,7 @@
           "filename": "0367-valid-perfect-square.py",
           "path": "leetcode/0367-valid-perfect-square/0367-valid-perfect-square.py",
           "sha": "5fcbfe4a465117877e21afefacb6587708e154e9",
-          "lastSyncedAt": "2026-11-26T06:11:19.063Z"
+          "lastSyncedAt": "2026-11-26T16:12:13.549Z"
         }
       ]
     },
