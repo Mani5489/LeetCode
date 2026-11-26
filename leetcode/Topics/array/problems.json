@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:26:32.629Z",
+  "updatedAt": "2026-11-26T03:26:47.991Z",
   "problems": [
     {
       "frontendId": "1207",
@@ -44,6 +44,26 @@
           "path": "leetcode/1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.py",
           "sha": "e2f14cb79983004cf7250f6cdd6ef3dd837b9011",
           "lastSyncedAt": "2026-11-26T03:26:19.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "slug": "find-lucky-integer-in-an-array",
+      "problemName": "1394-find-lucky-integer-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+      "folderPath": "leetcode/1394-find-lucky-integer-in-an-array/",
+      "readmePath": "leetcode/1394-find-lucky-integer-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1394-find-lucky-integer-in-an-array.py",
+          "path": "leetcode/1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.py",
+          "sha": "9c67fec4d1fb9d34724704a52fcb1a1b6a4c40ff",
+          "lastSyncedAt": "2026-11-26T03:26:47.991Z"
         }
       ]
     },
