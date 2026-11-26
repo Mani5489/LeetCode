@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T03:39:56.918Z",
+  "updatedAt": "2026-11-26T03:40:02.954Z",
   "problems": [
     {
       "frontendId": "202",
@@ -104,6 +104,26 @@
           "path": "leetcode/1742-maximum-number-of-balls-in-a-box/1742-maximum-number-of-balls-in-a-box.py",
           "sha": "c1406eafb5817f00cbd43534a573753d9e88036e",
           "lastSyncedAt": "2026-11-26T03:25:22.126Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2578",
+      "title": "Split With Minimum Sum",
+      "slug": "split-with-minimum-sum",
+      "problemName": "2578-split-with-minimum-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/split-with-minimum-sum/",
+      "folderPath": "leetcode/2578-split-with-minimum-sum/",
+      "readmePath": "leetcode/2578-split-with-minimum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2578-split-with-minimum-sum.py",
+          "path": "leetcode/2578-split-with-minimum-sum/2578-split-with-minimum-sum.py",
+          "sha": "b9a890fc6530d238f03ad86a00fe4c0e40cbd5fc",
+          "lastSyncedAt": "2026-11-26T03:40:02.954Z"
         }
       ]
     },
