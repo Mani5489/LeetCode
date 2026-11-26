@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T16:17:21.064Z",
+  "updatedAt": "2026-11-26T16:17:23.501Z",
   "problems": [
     {
       "frontendId": "175",
@@ -443,7 +443,7 @@
           "filename": "1075-project-employees-i.sql",
           "path": "leetcode/1075-project-employees-i/1075-project-employees-i.sql",
           "sha": "ba9e571f5b6bac4df34cbc6f6a3470788ab5db3f",
-          "lastSyncedAt": "2026-11-26T05:24:49.337Z"
+          "lastSyncedAt": "2026-11-26T16:17:23.501Z"
         }
       ]
     },
