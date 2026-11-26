@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T06:09:33.971Z",
+  "updatedAt": "2026-11-26T06:09:47.507Z",
   "problems": [
     {
       "frontendId": "56",
@@ -363,7 +363,7 @@
           "filename": "0888-fair-candy-swap.py",
           "path": "leetcode/0888-fair-candy-swap/0888-fair-candy-swap.py",
           "sha": "5a93747628135d17471cb8a942e3ce9958690d28",
-          "lastSyncedAt": "2026-11-26T05:14:12.890Z"
+          "lastSyncedAt": "2026-11-26T06:09:47.507Z"
         }
       ]
     },
