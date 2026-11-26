@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:50:14.580Z",
+  "updatedAt": "2026-11-26T05:50:21.952Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1123,7 +1123,7 @@
           "filename": "0997-find-the-town-judge.py",
           "path": "leetcode/0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "749c824e1dcef084e23b498b2cfe4246a174483f",
-          "lastSyncedAt": "2026-11-26T04:54:19.782Z"
+          "lastSyncedAt": "2026-11-26T05:50:21.952Z"
         }
       ]
     },
