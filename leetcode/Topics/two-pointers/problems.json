@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T05:21:36.147Z",
+  "updatedAt": "2026-11-26T05:22:14.927Z",
   "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "leetcode/0005-longest-palindromic-substring/",
+      "readmePath": "leetcode/0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0005-longest-palindromic-substring.py",
+          "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
+          "sha": "39894014c4cc59e73de088ed243bd5dc2f80a3f4",
+          "lastSyncedAt": "2026-11-26T05:22:14.927Z"
+        }
+      ]
+    },
     {
       "frontendId": "28",
       "title": "Find the Index of the First Occurrence in a String",
