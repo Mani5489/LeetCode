@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:20:33.726Z",
+  "updatedAt": "2026-11-26T05:21:05.403Z",
   "problems": [
     {
       "frontendId": "43",
@@ -164,6 +164,26 @@
           "path": "leetcode/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.py",
           "sha": "7750bb31e462e240ffabf759eb0bbce3fb96e5ef",
           "lastSyncedAt": "2026-11-26T05:11:25.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "leetcode/0383-ransom-note/",
+      "readmePath": "leetcode/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0383-ransom-note.py",
+          "path": "leetcode/0383-ransom-note/0383-ransom-note.py",
+          "sha": "f0a3457b9ca627d11c899bd7f7abf105b2e19c89",
+          "lastSyncedAt": "2026-11-26T05:21:05.403Z"
         }
       ]
     },
