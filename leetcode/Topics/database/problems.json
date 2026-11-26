@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:13:06.356Z",
+  "updatedAt": "2026-11-26T05:14:42.897Z",
   "problems": [
+    {
+      "frontendId": "3465",
+      "title": "Find Products with Valid Serial Numbers",
+      "slug": "find-products-with-valid-serial-numbers",
+      "problemName": "3465-find-products-with-valid-serial-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-products-with-valid-serial-numbers/",
+      "folderPath": "leetcode/3465-find-products-with-valid-serial-numbers/",
+      "readmePath": "leetcode/3465-find-products-with-valid-serial-numbers/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3465-find-products-with-valid-serial-numbers.sql",
+          "path": "leetcode/3465-find-products-with-valid-serial-numbers/3465-find-products-with-valid-serial-numbers.sql",
+          "sha": "80de8dc51d17df140f5edcc557176029e2d1353b",
+          "lastSyncedAt": "2026-11-26T05:14:42.897Z"
+        }
+      ]
+    },
     {
       "frontendId": "3482",
       "title": "Analyze Organization Hierarchy",
