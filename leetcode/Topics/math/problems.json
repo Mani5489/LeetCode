@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T03:40:11.916Z",
+  "updatedAt": "2026-11-26T03:41:11.708Z",
   "problems": [
     {
       "frontendId": "202",
@@ -104,6 +104,26 @@
           "path": "leetcode/1742-maximum-number-of-balls-in-a-box/1742-maximum-number-of-balls-in-a-box.py",
           "sha": "c1406eafb5817f00cbd43534a573753d9e88036e",
           "lastSyncedAt": "2026-11-26T03:25:22.126Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2160",
+      "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+      "slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "problemName": "2160-minimum-sum-of-four-digit-number-after-splitting-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "folderPath": "leetcode/2160-minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "readmePath": "leetcode/2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2160-minimum-sum-of-four-digit-number-after-splitting-digits.py",
+          "path": "leetcode/2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py",
+          "sha": "8b0c455e8734867ff6e2f4473d93317d6ee8c0ef",
+          "lastSyncedAt": "2026-11-26T03:41:11.708Z"
         }
       ]
     },
