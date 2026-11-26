@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:52:15.043Z",
+  "updatedAt": "2026-11-26T05:52:41.227Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2843,7 +2843,7 @@
           "filename": "3774-absolute-difference-between-maximum-and-minimum-k-elements.py",
           "path": "leetcode/3774-absolute-difference-between-maximum-and-minimum-k-elements/3774-absolute-difference-between-maximum-and-minimum-k-elements.py",
           "sha": "bb1f02ac14182d9c4dc6453abbe6722a7dc4507e",
-          "lastSyncedAt": "2026-11-26T04:56:10.082Z"
+          "lastSyncedAt": "2026-11-26T05:52:41.227Z"
         }
       ]
     },
