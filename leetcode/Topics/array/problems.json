@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:29:10.183Z",
+  "updatedAt": "2026-11-26T03:29:16.708Z",
   "problems": [
+    {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "problemName": "0500-keyboard-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+      "folderPath": "leetcode/0500-keyboard-row/",
+      "readmePath": "leetcode/0500-keyboard-row/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0500-keyboard-row.py",
+          "path": "leetcode/0500-keyboard-row/0500-keyboard-row.py",
+          "sha": "1624a12757dc5b8fc7801b928ff7347d78b1eee3",
+          "lastSyncedAt": "2026-11-26T03:29:16.708Z"
+        }
+      ]
+    },
     {
       "frontendId": "575",
       "title": "Distribute Candies",
