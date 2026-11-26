@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-26T03:26:19.512Z",
+  "updatedAt": "2026-11-26T03:31:02.592Z",
   "problems": [
     {
       "frontendId": "1275",
@@ -24,6 +24,26 @@
           "path": "leetcode/1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.py",
           "sha": "e2f14cb79983004cf7250f6cdd6ef3dd837b9011",
           "lastSyncedAt": "2026-11-26T03:26:19.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "leetcode/2974-minimum-number-game/",
+      "readmePath": "leetcode/2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2974-minimum-number-game.py",
+          "path": "leetcode/2974-minimum-number-game/2974-minimum-number-game.py",
+          "sha": "2be005d49d03a9e5f47dce826665d3ca78ae09cd",
+          "lastSyncedAt": "2026-11-26T03:31:02.592Z"
         }
       ]
     }
