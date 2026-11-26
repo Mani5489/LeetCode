@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-26T16:14:11.558Z",
+  "updatedAt": "2026-11-26T19:01:46.414Z",
   "problems": [
     {
       "frontendId": "219",
@@ -83,7 +83,7 @@
           "filename": "1876-substrings-of-size-three-with-distinct-characters.py",
           "path": "leetcode/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.py",
           "sha": "600a5f15cf5b3ad2296cfb7f4a156568ed066cc8",
-          "lastSyncedAt": "2026-11-26T15:50:09.840Z"
+          "lastSyncedAt": "2026-11-26T19:01:46.414Z"
         }
       ]
     },
