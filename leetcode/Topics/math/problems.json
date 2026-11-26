@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T03:39:20.185Z",
+  "updatedAt": "2026-11-26T03:39:51.076Z",
   "problems": [
     {
       "frontendId": "202",
@@ -104,6 +104,26 @@
           "path": "leetcode/1742-maximum-number-of-balls-in-a-box/1742-maximum-number-of-balls-in-a-box.py",
           "sha": "c1406eafb5817f00cbd43534a573753d9e88036e",
           "lastSyncedAt": "2026-11-26T03:25:22.126Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2600",
+      "title": "K Items With the Maximum Sum",
+      "slug": "k-items-with-the-maximum-sum",
+      "problemName": "2600-k-items-with-the-maximum-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/k-items-with-the-maximum-sum/",
+      "folderPath": "leetcode/2600-k-items-with-the-maximum-sum/",
+      "readmePath": "leetcode/2600-k-items-with-the-maximum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2600-k-items-with-the-maximum-sum.py",
+          "path": "leetcode/2600-k-items-with-the-maximum-sum/2600-k-items-with-the-maximum-sum.py",
+          "sha": "38ff3e6a5e2b86cfb1f089114dbdbbc45fdf90bb",
+          "lastSyncedAt": "2026-11-26T03:39:51.076Z"
         }
       ]
     },
