@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:38:46.901Z",
+  "updatedAt": "2026-11-26T03:39:00.922Z",
   "problems": [
     {
       "frontendId": "500",
@@ -524,6 +524,26 @@
           "path": "leetcode/2418-sort-the-people/2418-sort-the-people.py",
           "sha": "0680c263b805a2630c548bec0125e29820593471",
           "lastSyncedAt": "2026-11-26T03:32:23.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "leetcode/3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "leetcode/3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.py",
+          "path": "leetcode/3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.py",
+          "sha": "b315b025c4e389b2c3a32b5d080b571601385b20",
+          "lastSyncedAt": "2026-11-26T03:39:00.922Z"
         }
       ]
     },
