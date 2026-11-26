@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T15:56:02.740Z",
+  "updatedAt": "2026-11-26T15:56:06.486Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2363,7 +2363,7 @@
           "filename": "2500-delete-greatest-value-in-each-row.py",
           "path": "leetcode/2500-delete-greatest-value-in-each-row/2500-delete-greatest-value-in-each-row.py",
           "sha": "964ac8de66341cc0adcc668b64db5c5a83889024",
-          "lastSyncedAt": "2026-11-26T05:54:30.181Z"
+          "lastSyncedAt": "2026-11-26T15:56:06.486Z"
         }
       ]
     },
