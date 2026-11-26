@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T04:57:28.348Z",
+  "updatedAt": "2026-11-26T04:57:35.308Z",
   "problems": [
     {
       "frontendId": "500",
@@ -1463,7 +1463,7 @@
           "filename": "2733-neither-minimum-nor-maximum.py",
           "path": "leetcode/2733-neither-minimum-nor-maximum/2733-neither-minimum-nor-maximum.py",
           "sha": "b79a2709b986ef81f8e18cb394d3da5622c0b0b3",
-          "lastSyncedAt": "2026-11-26T03:55:53.041Z"
+          "lastSyncedAt": "2026-11-26T04:57:35.308Z"
         }
       ]
     },
