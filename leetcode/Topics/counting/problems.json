@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-26T03:30:24.271Z",
+  "updatedAt": "2026-11-26T03:32:55.049Z",
   "problems": [
     {
       "frontendId": "819",
@@ -344,6 +344,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2248",
+      "title": "Intersection of Multiple Arrays",
+      "slug": "intersection-of-multiple-arrays",
+      "problemName": "2248-intersection-of-multiple-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-multiple-arrays/",
+      "folderPath": "leetcode/2248-intersection-of-multiple-arrays/",
+      "readmePath": "leetcode/2248-intersection-of-multiple-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2248-intersection-of-multiple-arrays.py",
+          "path": "leetcode/2248-intersection-of-multiple-arrays/2248-intersection-of-multiple-arrays.py",
+          "sha": "69744df7b8f01699aff484c779985e3480a427f4",
+          "lastSyncedAt": "2026-11-26T03:32:55.049Z"
         }
       ]
     },
