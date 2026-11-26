@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:05:08.439Z",
+  "updatedAt": "2026-11-26T05:05:26.779Z",
   "problems": [
     {
       "frontendId": "500",
@@ -583,7 +583,7 @@
           "filename": "2027-minimum-moves-to-convert-string.py",
           "path": "leetcode/2027-minimum-moves-to-convert-string/2027-minimum-moves-to-convert-string.py",
           "sha": "58b4234e1e6c984bdafb229558fc2b91358fb7d0",
-          "lastSyncedAt": "2026-11-26T03:41:55.333Z"
+          "lastSyncedAt": "2026-11-26T05:05:26.779Z"
         }
       ]
     },
