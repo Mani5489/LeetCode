@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:01:22.747Z",
+  "updatedAt": "2026-11-26T05:01:30.564Z",
   "problems": [
     {
       "frontendId": "506",
@@ -123,7 +123,7 @@
           "filename": "0977-squares-of-a-sorted-array.py",
           "path": "leetcode/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
           "sha": "7bb899678289a765c3fb2cf5f92864a6c7a7ed5b",
-          "lastSyncedAt": "2026-11-26T03:36:50.302Z"
+          "lastSyncedAt": "2026-11-26T05:01:30.564Z"
         }
       ]
     },
