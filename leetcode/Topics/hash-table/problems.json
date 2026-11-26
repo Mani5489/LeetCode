@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T05:22:46.704Z",
+  "updatedAt": "2026-11-26T05:23:40.287Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "leetcode/0013-roman-to-integer/0013-roman-to-integer.py",
           "sha": "223a1c0aeb7b0038b3078c50f883322445a3da4c",
           "lastSyncedAt": "2026-11-26T05:22:46.704Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "leetcode/0169-majority-element/",
+      "readmePath": "leetcode/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "leetcode/0169-majority-element/0169-majority-element.py",
+          "sha": "02a6c6cb58d48a4309f709b282c2bf74a54bb0e4",
+          "lastSyncedAt": "2026-11-26T05:23:40.287Z"
         }
       ]
     },
