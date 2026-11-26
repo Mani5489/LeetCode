@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:21:21.925Z",
+  "updatedAt": "2026-11-26T05:21:58.689Z",
   "problems": [
     {
       "frontendId": "175",
@@ -104,6 +104,26 @@
           "path": "leetcode/0620-not-boring-movies/0620-not-boring-movies.sql",
           "sha": "ddef1a7e581f6a06c10503604464e96d2b299105",
           "lastSyncedAt": "2026-11-26T05:20:50.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1045",
+      "title": "Customers Who Bought All Products",
+      "slug": "customers-who-bought-all-products",
+      "problemName": "1045-customers-who-bought-all-products",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/customers-who-bought-all-products/",
+      "folderPath": "leetcode/1045-customers-who-bought-all-products/",
+      "readmePath": "leetcode/1045-customers-who-bought-all-products/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1045-customers-who-bought-all-products.sql",
+          "path": "leetcode/1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql",
+          "sha": "a9e4c39c6dbb28235fd32ddfcabce7c036cf6622",
+          "lastSyncedAt": "2026-11-26T05:21:58.689Z"
         }
       ]
     },
