@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:38:17.371Z",
+  "updatedAt": "2026-11-26T03:38:46.901Z",
   "problems": [
     {
       "frontendId": "500",
@@ -524,6 +524,26 @@
           "path": "leetcode/2418-sort-the-people/2418-sort-the-people.py",
           "sha": "0680c263b805a2630c548bec0125e29820593471",
           "lastSyncedAt": "2026-11-26T03:32:23.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3216",
+      "title": "Lexicographically Smallest String After a Swap",
+      "slug": "lexicographically-smallest-string-after-a-swap",
+      "problemName": "3216-lexicographically-smallest-string-after-a-swap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/",
+      "folderPath": "leetcode/3216-lexicographically-smallest-string-after-a-swap/",
+      "readmePath": "leetcode/3216-lexicographically-smallest-string-after-a-swap/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3216-lexicographically-smallest-string-after-a-swap.py",
+          "path": "leetcode/3216-lexicographically-smallest-string-after-a-swap/3216-lexicographically-smallest-string-after-a-swap.py",
+          "sha": "e1a02812061af2446d53484f0745c9a7a0a7dea4",
+          "lastSyncedAt": "2026-11-26T03:38:46.901Z"
         }
       ]
     },
