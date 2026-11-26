@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T03:41:04.222Z",
+  "updatedAt": "2026-11-26T03:41:11.708Z",
   "problems": [
     {
       "frontendId": "1005",
@@ -24,6 +24,26 @@
           "path": "leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
           "sha": "2d9d6a343be066700db93d3b631b08cd2048173b",
           "lastSyncedAt": "2026-11-26T03:36:40.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2160",
+      "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+      "slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "problemName": "2160-minimum-sum-of-four-digit-number-after-splitting-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "folderPath": "leetcode/2160-minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "readmePath": "leetcode/2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2160-minimum-sum-of-four-digit-number-after-splitting-digits.py",
+          "path": "leetcode/2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.py",
+          "sha": "8b0c455e8734867ff6e2f4473d93317d6ee8c0ef",
+          "lastSyncedAt": "2026-11-26T03:41:11.708Z"
         }
       ]
     },
