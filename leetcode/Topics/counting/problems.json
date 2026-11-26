@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-26T03:32:55.049Z",
+  "updatedAt": "2026-11-26T03:33:43.696Z",
   "problems": [
     {
       "frontendId": "819",
@@ -344,6 +344,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2148",
+      "title": "Count Elements With Strictly Smaller and Greater Elements ",
+      "slug": "count-elements-with-strictly-smaller-and-greater-elements",
+      "problemName": "2148-count-elements-with-strictly-smaller-and-greater-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
+      "folderPath": "leetcode/2148-count-elements-with-strictly-smaller-and-greater-elements/",
+      "readmePath": "leetcode/2148-count-elements-with-strictly-smaller-and-greater-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2148-count-elements-with-strictly-smaller-and-greater-elements.py",
+          "path": "leetcode/2148-count-elements-with-strictly-smaller-and-greater-elements/2148-count-elements-with-strictly-smaller-and-greater-elements.py",
+          "sha": "46842148b54a14eb84bc09a3d663b18eafe6331e",
+          "lastSyncedAt": "2026-11-26T03:33:43.696Z"
         }
       ]
     },
