@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:05:59.881Z",
+  "updatedAt": "2026-11-26T05:06:29.782Z",
   "problems": [
     {
       "frontendId": "506",
@@ -104,6 +104,26 @@
           "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
           "sha": "b5895f1b7b25e8caad02f761fae04cf3c483d188",
           "lastSyncedAt": "2026-11-26T05:01:36.771Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "problemName": "0976-largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-perimeter-triangle/",
+      "folderPath": "leetcode/0976-largest-perimeter-triangle/",
+      "readmePath": "leetcode/0976-largest-perimeter-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0976-largest-perimeter-triangle.py",
+          "path": "leetcode/0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
+          "sha": "445171e107f1b762c7f8f31632f1a9262d9d670b",
+          "lastSyncedAt": "2026-11-26T05:06:29.782Z"
         }
       ]
     },
