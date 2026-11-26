@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:25:30.657Z",
+  "updatedAt": "2026-11-26T03:25:50.273Z",
   "problems": [
+    {
+      "frontendId": "1624",
+      "title": "Largest Substring Between Two Equal Characters",
+      "slug": "largest-substring-between-two-equal-characters",
+      "problemName": "1624-largest-substring-between-two-equal-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-substring-between-two-equal-characters/",
+      "folderPath": "leetcode/1624-largest-substring-between-two-equal-characters/",
+      "readmePath": "leetcode/1624-largest-substring-between-two-equal-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1624-largest-substring-between-two-equal-characters.py",
+          "path": "leetcode/1624-largest-substring-between-two-equal-characters/1624-largest-substring-between-two-equal-characters.py",
+          "sha": "9c2d14ba0d49b3c598c86b8c58430b60476bca34",
+          "lastSyncedAt": "2026-11-26T03:25:50.273Z"
+        }
+      ]
+    },
     {
       "frontendId": "1684",
       "title": "Count the Number of Consistent Strings",
