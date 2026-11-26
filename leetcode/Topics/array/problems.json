@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:30:33.157Z",
+  "updatedAt": "2026-11-26T03:30:41.901Z",
   "problems": [
     {
       "frontendId": "500",
@@ -424,6 +424,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "leetcode/3024-type-of-triangle/",
+      "readmePath": "leetcode/3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3024-type-of-triangle.py",
+          "path": "leetcode/3024-type-of-triangle/3024-type-of-triangle.py",
+          "sha": "9546a297199ee4063014848e1b9d3f3f536197dc",
+          "lastSyncedAt": "2026-11-26T03:30:41.901Z"
         }
       ]
     },
