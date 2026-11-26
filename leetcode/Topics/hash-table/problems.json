@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T05:15:19.798Z",
+  "updatedAt": "2026-11-26T05:17:01.932Z",
   "problems": [
     {
       "frontendId": "202",
@@ -464,6 +464,26 @@
           "path": "leetcode/0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "749c824e1dcef084e23b498b2cfe4246a174483f",
           "lastSyncedAt": "2026-11-26T04:54:19.782Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1002",
+      "title": "Find Common Characters",
+      "slug": "find-common-characters",
+      "problemName": "1002-find-common-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-characters/",
+      "folderPath": "leetcode/1002-find-common-characters/",
+      "readmePath": "leetcode/1002-find-common-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1002-find-common-characters.py",
+          "path": "leetcode/1002-find-common-characters/1002-find-common-characters.py",
+          "sha": "212142b2b7108fcee55d913d02105012269a1758",
+          "lastSyncedAt": "2026-11-26T05:17:01.932Z"
         }
       ]
     },
