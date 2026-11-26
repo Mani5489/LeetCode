@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T03:30:17.677Z",
+  "updatedAt": "2026-11-26T03:30:41.901Z",
   "problems": [
     {
       "frontendId": "202",
@@ -104,6 +104,26 @@
           "path": "leetcode/1742-maximum-number-of-balls-in-a-box/1742-maximum-number-of-balls-in-a-box.py",
           "sha": "c1406eafb5817f00cbd43534a573753d9e88036e",
           "lastSyncedAt": "2026-11-26T03:25:22.126Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "leetcode/3024-type-of-triangle/",
+      "readmePath": "leetcode/3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3024-type-of-triangle.py",
+          "path": "leetcode/3024-type-of-triangle/3024-type-of-triangle.py",
+          "sha": "9546a297199ee4063014848e1b9d3f3f536197dc",
+          "lastSyncedAt": "2026-11-26T03:30:41.901Z"
         }
       ]
     },
