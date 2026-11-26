@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:21:58.689Z",
+  "updatedAt": "2026-11-26T05:22:04.277Z",
   "problems": [
     {
       "frontendId": "175",
@@ -44,6 +44,26 @@
           "path": "leetcode/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
           "sha": "117f24f3568be340d0f758dbaab97b1ee2660f6f",
           "lastSyncedAt": "2026-11-26T05:20:55.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "183",
+      "title": "Customers Who Never Order",
+      "slug": "customers-who-never-order",
+      "problemName": "0183-customers-who-never-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customers-who-never-order/",
+      "folderPath": "leetcode/0183-customers-who-never-order/",
+      "readmePath": "leetcode/0183-customers-who-never-order/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0183-customers-who-never-order.sql",
+          "path": "leetcode/0183-customers-who-never-order/0183-customers-who-never-order.sql",
+          "sha": "92040805be0b59962108bfd493d3308af6ad0278",
+          "lastSyncedAt": "2026-11-26T05:22:04.277Z"
         }
       ]
     },
