@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-26T05:10:57.969Z",
+  "updatedAt": "2026-11-26T06:07:54.820Z",
   "problems": [
     {
       "frontendId": "496",
@@ -23,7 +23,7 @@
           "filename": "0496-next-greater-element-i.py",
           "path": "leetcode/0496-next-greater-element-i/0496-next-greater-element-i.py",
           "sha": "bb88fd87854aece2603b11a9d1d342bec562d87e",
-          "lastSyncedAt": "2026-11-26T05:10:57.969Z"
+          "lastSyncedAt": "2026-11-26T06:07:54.820Z"
         }
       ]
     }
