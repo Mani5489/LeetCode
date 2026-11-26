@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-26T06:14:57.498Z",
+  "updatedAt": "2026-11-26T16:02:27.303Z",
   "problems": [
     {
       "frontendId": "5",
@@ -123,7 +123,7 @@
           "filename": "2900-longest-unequal-adjacent-groups-subsequence-i.py",
           "path": "leetcode/2900-longest-unequal-adjacent-groups-subsequence-i/2900-longest-unequal-adjacent-groups-subsequence-i.py",
           "sha": "0984bcfbb31a3a973c05de78df5003383574278c",
-          "lastSyncedAt": "2026-11-26T06:00:50.851Z"
+          "lastSyncedAt": "2026-11-26T16:02:27.303Z"
         }
       ]
     }
