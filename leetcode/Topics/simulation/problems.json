@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-26T03:35:58.310Z",
+  "updatedAt": "2026-11-26T03:40:38.302Z",
   "problems": [
     {
       "frontendId": "1275",
@@ -44,6 +44,26 @@
           "path": "leetcode/2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.py",
           "sha": "be42da3a915f77763e9ac5e8142f6f77b3272b0d",
           "lastSyncedAt": "2026-11-26T03:33:32.037Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2357",
+      "title": "Make Array Zero by Subtracting Equal Amounts",
+      "slug": "make-array-zero-by-subtracting-equal-amounts",
+      "problemName": "2357-make-array-zero-by-subtracting-equal-amounts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/",
+      "folderPath": "leetcode/2357-make-array-zero-by-subtracting-equal-amounts/",
+      "readmePath": "leetcode/2357-make-array-zero-by-subtracting-equal-amounts/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2357-make-array-zero-by-subtracting-equal-amounts.py",
+          "path": "leetcode/2357-make-array-zero-by-subtracting-equal-amounts/2357-make-array-zero-by-subtracting-equal-amounts.py",
+          "sha": "47193b2cfb2544ee401970070b7bc9ea0c8adf1b",
+          "lastSyncedAt": "2026-11-26T03:40:38.302Z"
         }
       ]
     },
