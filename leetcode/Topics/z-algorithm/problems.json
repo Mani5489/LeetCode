@@ -5,7 +5,7 @@
     "name": "Z Algorithm",
     "tagId": "86036"
   },
-  "updatedAt": "2026-11-26T16:06:57.056Z",
+  "updatedAt": "2026-11-26T16:15:28.122Z",
   "problems": [
     {
       "frontendId": "28",
@@ -23,7 +23,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "path": "leetcode/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "13808de4d17b97acdd271afd4c1515012d2bd3b7",
-          "lastSyncedAt": "2026-11-26T06:14:31.554Z"
+          "lastSyncedAt": "2026-11-26T16:15:28.122Z"
         }
       ]
     },
