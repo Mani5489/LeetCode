@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T16:07:18.968Z",
+  "updatedAt": "2026-11-26T16:08:04.727Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,7 +443,7 @@
           "filename": "0599-minimum-index-sum-of-two-lists.py",
           "path": "leetcode/0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "12d76afa11c781a12b35a59d2d1afc58e65a7b48",
-          "lastSyncedAt": "2026-11-26T06:06:58.333Z"
+          "lastSyncedAt": "2026-11-26T16:08:04.727Z"
         }
       ]
     },
