@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:37:19.744Z",
+  "updatedAt": "2026-11-26T03:37:34.225Z",
   "problems": [
     {
       "frontendId": "500",
@@ -24,6 +24,26 @@
           "path": "leetcode/0500-keyboard-row/0500-keyboard-row.py",
           "sha": "1624a12757dc5b8fc7801b928ff7347d78b1eee3",
           "lastSyncedAt": "2026-11-26T03:29:16.708Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "506",
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "problemName": "0506-relative-ranks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
+      "folderPath": "leetcode/0506-relative-ranks/",
+      "readmePath": "leetcode/0506-relative-ranks/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0506-relative-ranks.py",
+          "path": "leetcode/0506-relative-ranks/0506-relative-ranks.py",
+          "sha": "7790ab6d0f0160ae48e333a162f0eedf9f2f61cf",
+          "lastSyncedAt": "2026-11-26T03:37:34.225Z"
         }
       ]
     },
