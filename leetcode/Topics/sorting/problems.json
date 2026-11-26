@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:35:30.071Z",
+  "updatedAt": "2026-11-26T03:35:42.902Z",
   "problems": [
+    {
+      "frontendId": "1331",
+      "title": "Rank Transform of an Array",
+      "slug": "rank-transform-of-an-array",
+      "problemName": "1331-rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "folderPath": "leetcode/1331-rank-transform-of-an-array/",
+      "readmePath": "leetcode/1331-rank-transform-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1331-rank-transform-of-an-array.py",
+          "path": "leetcode/1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.py",
+          "sha": "dd04cc55bb2bb57e964dee7975bb7dbdb7194133",
+          "lastSyncedAt": "2026-11-26T03:35:42.902Z"
+        }
+      ]
+    },
     {
       "frontendId": "1337",
       "title": "The K Weakest Rows in a Matrix",
