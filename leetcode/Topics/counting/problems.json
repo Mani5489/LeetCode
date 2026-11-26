@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-26T03:25:56.156Z",
+  "updatedAt": "2026-11-26T03:26:39.484Z",
   "problems": [
+    {
+      "frontendId": "1399",
+      "title": "Count Largest Group",
+      "slug": "count-largest-group",
+      "problemName": "1399-count-largest-group",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-largest-group/",
+      "folderPath": "leetcode/1399-count-largest-group/",
+      "readmePath": "leetcode/1399-count-largest-group/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1399-count-largest-group.py",
+          "path": "leetcode/1399-count-largest-group/1399-count-largest-group.py",
+          "sha": "d09b39164c79ff4540299b61d36b305de4f70495",
+          "lastSyncedAt": "2026-11-26T03:26:39.484Z"
+        }
+      ]
+    },
     {
       "frontendId": "1512",
       "title": "Number of Good Pairs",
