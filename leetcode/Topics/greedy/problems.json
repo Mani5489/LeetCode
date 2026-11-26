@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T03:40:31.544Z",
+  "updatedAt": "2026-11-26T03:40:38.302Z",
   "problems": [
     {
       "frontendId": "1005",
@@ -24,6 +24,26 @@
           "path": "leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
           "sha": "2d9d6a343be066700db93d3b631b08cd2048173b",
           "lastSyncedAt": "2026-11-26T03:36:40.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2357",
+      "title": "Make Array Zero by Subtracting Equal Amounts",
+      "slug": "make-array-zero-by-subtracting-equal-amounts",
+      "problemName": "2357-make-array-zero-by-subtracting-equal-amounts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/",
+      "folderPath": "leetcode/2357-make-array-zero-by-subtracting-equal-amounts/",
+      "readmePath": "leetcode/2357-make-array-zero-by-subtracting-equal-amounts/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2357-make-array-zero-by-subtracting-equal-amounts.py",
+          "path": "leetcode/2357-make-array-zero-by-subtracting-equal-amounts/2357-make-array-zero-by-subtracting-equal-amounts.py",
+          "sha": "47193b2cfb2544ee401970070b7bc9ea0c8adf1b",
+          "lastSyncedAt": "2026-11-26T03:40:38.302Z"
         }
       ]
     },
