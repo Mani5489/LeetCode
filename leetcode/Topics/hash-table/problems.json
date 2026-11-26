@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T05:49:01.364Z",
+  "updatedAt": "2026-11-26T05:49:15.213Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1043,7 +1043,7 @@
           "filename": "1496-path-crossing.py",
           "path": "leetcode/1496-path-crossing/1496-path-crossing.py",
           "sha": "43ad997734b5bd9a3bbd9f233185d10adfcfc7ea",
-          "lastSyncedAt": "2026-11-26T04:53:26.239Z"
+          "lastSyncedAt": "2026-11-26T05:49:15.213Z"
         }
       ]
     },
