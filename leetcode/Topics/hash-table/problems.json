@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:33:32.037Z",
+  "updatedAt": "2026-11-26T03:34:29.288Z",
   "problems": [
     {
       "frontendId": "202",
@@ -524,6 +524,26 @@
           "path": "leetcode/1624-largest-substring-between-two-equal-characters/1624-largest-substring-between-two-equal-characters.py",
           "sha": "9c2d14ba0d49b3c598c86b8c58430b60476bca34",
           "lastSyncedAt": "2026-11-26T03:25:50.273Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1636",
+      "title": "Sort Array by Increasing Frequency",
+      "slug": "sort-array-by-increasing-frequency",
+      "problemName": "1636-sort-array-by-increasing-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+      "folderPath": "leetcode/1636-sort-array-by-increasing-frequency/",
+      "readmePath": "leetcode/1636-sort-array-by-increasing-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1636-sort-array-by-increasing-frequency.py",
+          "path": "leetcode/1636-sort-array-by-increasing-frequency/1636-sort-array-by-increasing-frequency.py",
+          "sha": "762067f525dfb4ae7ba3e18490588f04f2697968",
+          "lastSyncedAt": "2026-11-26T03:34:29.288Z"
         }
       ]
     },
