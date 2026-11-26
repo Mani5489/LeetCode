@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T16:05:12.527Z",
+  "updatedAt": "2026-11-26T16:05:19.909Z",
   "problems": [
     {
       "frontendId": "409",
@@ -283,7 +283,7 @@
           "filename": "1403-minimum-subsequence-in-non-increasing-order.py",
           "path": "leetcode/1403-minimum-subsequence-in-non-increasing-order/1403-minimum-subsequence-in-non-increasing-order.py",
           "sha": "72043c241645b496c98e1237983032dd6e17e6d5",
-          "lastSyncedAt": "2026-11-26T06:03:59.893Z"
+          "lastSyncedAt": "2026-11-26T16:05:19.909Z"
         }
       ]
     },
