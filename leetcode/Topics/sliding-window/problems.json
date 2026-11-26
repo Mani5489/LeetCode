@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-26T05:47:53.864Z",
+  "updatedAt": "2026-11-26T05:56:16.228Z",
   "problems": [
     {
       "frontendId": "219",
@@ -103,7 +103,7 @@
           "filename": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.py",
           "path": "leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores/1984-minimum-difference-between-highest-and-lowest-of-k-scores.py",
           "sha": "62b71159e5af7d7e7e858e2d5175d15fada0d59b",
-          "lastSyncedAt": "2026-11-26T04:59:11.279Z"
+          "lastSyncedAt": "2026-11-26T05:56:16.228Z"
         }
       ]
     }
