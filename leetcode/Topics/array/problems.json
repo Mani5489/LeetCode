@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:05:59.881Z",
+  "updatedAt": "2026-11-26T05:06:15.720Z",
   "problems": [
     {
       "frontendId": "500",
@@ -523,7 +523,7 @@
           "filename": "1217-minimum-cost-to-move-chips-to-the-same-position.py",
           "path": "leetcode/1217-minimum-cost-to-move-chips-to-the-same-position/1217-minimum-cost-to-move-chips-to-the-same-position.py",
           "sha": "4e058c2d2a17a0ad3fecea06684434230ec6c692",
-          "lastSyncedAt": "2026-11-26T03:43:11.546Z"
+          "lastSyncedAt": "2026-11-26T05:06:15.720Z"
         }
       ]
     },
