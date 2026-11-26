@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-11-26T03:29:38.038Z",
+  "problems": [
+    {
+      "frontendId": "3992",
+      "title": "Rearrange String to Avoid Character Pair",
+      "slug": "rearrange-string-to-avoid-character-pair",
+      "problemName": "3992-rearrange-string-to-avoid-character-pair",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/",
+      "folderPath": "leetcode/3992-rearrange-string-to-avoid-character-pair/",
+      "readmePath": "leetcode/3992-rearrange-string-to-avoid-character-pair/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3992-rearrange-string-to-avoid-character-pair.py",
+          "path": "leetcode/3992-rearrange-string-to-avoid-character-pair/3992-rearrange-string-to-avoid-character-pair.py",
+          "sha": "bff89c3e2b2b1ec463cbc184e270740997362d22",
+          "lastSyncedAt": "2026-11-26T03:29:38.038Z"
+        }
+      ]
+    }
+  ]
+}
