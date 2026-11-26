@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:34:44.020Z",
+  "updatedAt": "2026-11-26T03:34:50.318Z",
   "problems": [
+    {
+      "frontendId": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "problemName": "1464-maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "folderPath": "leetcode/1464-maximum-product-of-two-elements-in-an-array/",
+      "readmePath": "leetcode/1464-maximum-product-of-two-elements-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1464-maximum-product-of-two-elements-in-an-array.py",
+          "path": "leetcode/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
+          "sha": "31c30008369557e9651941cb258b16e91947994f",
+          "lastSyncedAt": "2026-11-26T03:34:50.318Z"
+        }
+      ]
+    },
     {
       "frontendId": "1491",
       "title": "Average Salary Excluding the Minimum and Maximum Salary",
