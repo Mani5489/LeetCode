@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T16:12:48.375Z",
+  "updatedAt": "2026-11-26T16:13:27.958Z",
   "problems": [
     {
       "frontendId": "34",
@@ -123,7 +123,7 @@
           "filename": "0287-find-the-duplicate-number.py",
           "path": "leetcode/0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "e25f602e4b7cc779f34e8b56921338588c1faec7",
-          "lastSyncedAt": "2026-11-26T06:12:33.173Z"
+          "lastSyncedAt": "2026-11-26T16:13:27.958Z"
         }
       ]
     },
