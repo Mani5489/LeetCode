@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T19:02:47.938Z",
+  "updatedAt": "2026-11-26T19:02:53.201Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1083,7 +1083,7 @@
           "filename": "1624-largest-substring-between-two-equal-characters.py",
           "path": "leetcode/1624-largest-substring-between-two-equal-characters/1624-largest-substring-between-two-equal-characters.py",
           "sha": "9c2d14ba0d49b3c598c86b8c58430b60476bca34",
-          "lastSyncedAt": "2026-11-26T15:51:10.701Z"
+          "lastSyncedAt": "2026-11-26T19:02:53.201Z"
         }
       ]
     },
