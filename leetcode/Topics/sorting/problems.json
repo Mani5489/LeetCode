@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:59:31.545Z",
+  "updatedAt": "2026-11-26T04:56:03.901Z",
   "problems": [
     {
       "frontendId": "506",
@@ -1343,7 +1343,7 @@
           "filename": "3992-rearrange-string-to-avoid-character-pair.py",
           "path": "leetcode/3992-rearrange-string-to-avoid-character-pair/3992-rearrange-string-to-avoid-character-pair.py",
           "sha": "bff89c3e2b2b1ec463cbc184e270740997362d22",
-          "lastSyncedAt": "2026-11-26T03:54:21.879Z"
+          "lastSyncedAt": "2026-11-26T04:56:03.901Z"
         }
       ]
     }
