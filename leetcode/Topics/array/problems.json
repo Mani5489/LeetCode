@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:06:52.508Z",
+  "updatedAt": "2026-11-26T05:07:03.460Z",
   "problems": [
     {
       "frontendId": "500",
@@ -184,6 +184,26 @@
           "path": "leetcode/0819-most-common-word/0819-most-common-word.py",
           "sha": "5369c8f9e77053225543d09ca80c40b06f434ccf",
           "lastSyncedAt": "2026-11-26T04:55:08.135Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "leetcode/0860-lemonade-change/",
+      "readmePath": "leetcode/0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0860-lemonade-change.py",
+          "path": "leetcode/0860-lemonade-change/0860-lemonade-change.py",
+          "sha": "3b5da7af3dfb3336eaf48f9e26b51c4b53b27a46",
+          "lastSyncedAt": "2026-11-26T05:07:03.460Z"
         }
       ]
     },
