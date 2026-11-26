@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-26T05:19:10.822Z",
+  "updatedAt": "2026-11-26T05:19:25.784Z",
   "problems": [
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "leetcode/0136-single-number/",
+      "readmePath": "leetcode/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0136-single-number.py",
+          "path": "leetcode/0136-single-number/0136-single-number.py",
+          "sha": "89c0b07d6036dce315614120799ee174b599438b",
+          "lastSyncedAt": "2026-11-26T05:19:25.784Z"
+        }
+      ]
+    },
     {
       "frontendId": "190",
       "title": "Reverse Bits",
