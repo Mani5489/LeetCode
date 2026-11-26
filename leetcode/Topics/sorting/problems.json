@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:09:27.838Z",
+  "updatedAt": "2026-11-26T05:10:04.997Z",
   "problems": [
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "leetcode/0056-merge-intervals/",
+      "readmePath": "leetcode/0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0056-merge-intervals.py",
+          "path": "leetcode/0056-merge-intervals/0056-merge-intervals.py",
+          "sha": "1a123935f492e0fbadbadbd3d4557e8094fdbd1e",
+          "lastSyncedAt": "2026-11-26T05:10:04.997Z"
+        }
+      ]
+    },
     {
       "frontendId": "414",
       "title": "Third Maximum Number",
