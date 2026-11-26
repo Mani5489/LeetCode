@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:37:05.465Z",
+  "updatedAt": "2026-11-26T03:37:13.202Z",
   "problems": [
+    {
+      "frontendId": "747",
+      "title": "Largest Number At Least Twice of Others",
+      "slug": "largest-number-at-least-twice-of-others",
+      "problemName": "0747-largest-number-at-least-twice-of-others",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number-at-least-twice-of-others/",
+      "folderPath": "leetcode/0747-largest-number-at-least-twice-of-others/",
+      "readmePath": "leetcode/0747-largest-number-at-least-twice-of-others/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0747-largest-number-at-least-twice-of-others.py",
+          "path": "leetcode/0747-largest-number-at-least-twice-of-others/0747-largest-number-at-least-twice-of-others.py",
+          "sha": "179706390cf9ba5dd82b201c69e50a9077dd1b4a",
+          "lastSyncedAt": "2026-11-26T03:37:13.202Z"
+        }
+      ]
+    },
     {
       "frontendId": "905",
       "title": "Sort Array By Parity",
