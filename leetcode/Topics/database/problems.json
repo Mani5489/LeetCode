@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:16:08.041Z",
+  "updatedAt": "2026-11-26T05:17:42.166Z",
   "problems": [
+    {
+      "frontendId": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "problemName": "0197-rising-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+      "folderPath": "leetcode/0197-rising-temperature/",
+      "readmePath": "leetcode/0197-rising-temperature/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0197-rising-temperature.sql",
+          "path": "leetcode/0197-rising-temperature/0197-rising-temperature.sql",
+          "sha": "8cadb1dc35c48af46e32d5961f8e6da5b11b896e",
+          "lastSyncedAt": "2026-11-26T05:17:42.166Z"
+        }
+      ]
+    },
     {
       "frontendId": "3421",
       "title": "Find Students Who Improved",
