@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:21:00.413Z",
+  "updatedAt": "2026-11-26T05:21:21.925Z",
   "problems": [
     {
       "frontendId": "175",
@@ -104,6 +104,26 @@
           "path": "leetcode/0620-not-boring-movies/0620-not-boring-movies.sql",
           "sha": "ddef1a7e581f6a06c10503604464e96d2b299105",
           "lastSyncedAt": "2026-11-26T05:20:50.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1050",
+      "title": "Actors and Directors Who Cooperated At Least Three Times",
+      "slug": "actors-and-directors-who-cooperated-at-least-three-times",
+      "problemName": "1050-actors-and-directors-who-cooperated-at-least-three-times",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/",
+      "folderPath": "leetcode/1050-actors-and-directors-who-cooperated-at-least-three-times/",
+      "readmePath": "leetcode/1050-actors-and-directors-who-cooperated-at-least-three-times/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1050-actors-and-directors-who-cooperated-at-least-three-times.sql",
+          "path": "leetcode/1050-actors-and-directors-who-cooperated-at-least-three-times/1050-actors-and-directors-who-cooperated-at-least-three-times.sql",
+          "sha": "de5341d9b92ee9f4fb4a15d4a03eabe5dc279379",
+          "lastSyncedAt": "2026-11-26T05:21:21.925Z"
         }
       ]
     },
