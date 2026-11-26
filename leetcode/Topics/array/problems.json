@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:15:45.996Z",
+  "updatedAt": "2026-11-26T05:15:54.862Z",
   "problems": [
     {
       "frontendId": "34",
@@ -1544,6 +1544,26 @@
           "path": "leetcode/2078-two-furthest-houses-with-different-colors/2078-two-furthest-houses-with-different-colors.py",
           "sha": "5262b2652698dec4483a82d8d96df1acc899ef23",
           "lastSyncedAt": "2026-11-26T05:05:14.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "leetcode/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "leetcode/2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2089-find-target-indices-after-sorting-array.py",
+          "path": "leetcode/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
+          "sha": "323e6df58b9446a139edb6c479de5c10ddd7b59a",
+          "lastSyncedAt": "2026-11-26T05:15:54.862Z"
         }
       ]
     },
