@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:31:23.467Z",
+  "updatedAt": "2026-11-26T03:31:34.574Z",
   "problems": [
     {
       "frontendId": "500",
@@ -444,6 +444,26 @@
           "path": "leetcode/2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.py",
           "sha": "7fa3c789683c36d28aa0cab95146212fdb28164f",
           "lastSyncedAt": "2026-11-26T03:31:14.292Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2784",
+      "title": "Check if Array is Good",
+      "slug": "check-if-array-is-good",
+      "problemName": "2784-check-if-array-is-good",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-good/",
+      "folderPath": "leetcode/2784-check-if-array-is-good/",
+      "readmePath": "leetcode/2784-check-if-array-is-good/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2784-check-if-array-is-good.py",
+          "path": "leetcode/2784-check-if-array-is-good/2784-check-if-array-is-good.py",
+          "sha": "3f38e3652f1e6b86421350a1141db434866fedd9",
+          "lastSyncedAt": "2026-11-26T03:31:34.574Z"
         }
       ]
     },
