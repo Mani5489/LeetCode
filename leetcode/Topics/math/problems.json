@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T16:03:09.778Z",
+  "updatedAt": "2026-11-26T16:03:16.816Z",
   "problems": [
     {
       "frontendId": "9",
@@ -643,7 +643,7 @@
           "filename": "2566-maximum-difference-by-remapping-a-digit.py",
           "path": "leetcode/2566-maximum-difference-by-remapping-a-digit/2566-maximum-difference-by-remapping-a-digit.py",
           "sha": "1a7117ec40ecaf38ce252a5aefe88e8fa95a6298",
-          "lastSyncedAt": "2026-11-26T06:01:43.991Z"
+          "lastSyncedAt": "2026-11-26T16:03:16.816Z"
         }
       ]
     },
