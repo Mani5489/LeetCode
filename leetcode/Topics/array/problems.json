@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:35:42.902Z",
+  "updatedAt": "2026-11-26T03:35:52.014Z",
   "problems": [
     {
       "frontendId": "500",
@@ -244,6 +244,26 @@
           "path": "leetcode/1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.py",
           "sha": "25b80e8119664684958d22447410e8ce7c6a00b8",
           "lastSyncedAt": "2026-11-26T03:27:12.166Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1200",
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "problemName": "1200-minimum-absolute-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference/",
+      "folderPath": "leetcode/1200-minimum-absolute-difference/",
+      "readmePath": "leetcode/1200-minimum-absolute-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1200-minimum-absolute-difference.py",
+          "path": "leetcode/1200-minimum-absolute-difference/1200-minimum-absolute-difference.py",
+          "sha": "11e5e10c6aab68b715297e8e8b5125378d9215cd",
+          "lastSyncedAt": "2026-11-26T03:35:52.014Z"
         }
       ]
     },
