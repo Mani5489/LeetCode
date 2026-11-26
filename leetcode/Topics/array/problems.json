@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:36:50.302Z",
+  "updatedAt": "2026-11-26T03:36:58.330Z",
   "problems": [
     {
       "frontendId": "500",
@@ -144,6 +144,26 @@
           "path": "leetcode/0914-x-of-a-kind-in-a-deck-of-cards/0914-x-of-a-kind-in-a-deck-of-cards.py",
           "sha": "eed790f6d5d456ae716782e09255964375ba6ee6",
           "lastSyncedAt": "2026-11-26T03:27:55.944Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "922",
+      "title": "Sort Array By Parity II",
+      "slug": "sort-array-by-parity-ii",
+      "problemName": "0922-sort-array-by-parity-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+      "folderPath": "leetcode/0922-sort-array-by-parity-ii/",
+      "readmePath": "leetcode/0922-sort-array-by-parity-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0922-sort-array-by-parity-ii.py",
+          "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
+          "sha": "b5895f1b7b25e8caad02f761fae04cf3c483d188",
+          "lastSyncedAt": "2026-11-26T03:36:58.330Z"
         }
       ]
     },
