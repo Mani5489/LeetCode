@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:51:07.719Z",
+  "updatedAt": "2026-11-26T03:51:26.059Z",
   "problems": [
     {
       "frontendId": "500",
@@ -303,7 +303,7 @@
           "filename": "1624-largest-substring-between-two-equal-characters.py",
           "path": "leetcode/1624-largest-substring-between-two-equal-characters/1624-largest-substring-between-two-equal-characters.py",
           "sha": "9c2d14ba0d49b3c598c86b8c58430b60476bca34",
-          "lastSyncedAt": "2026-11-26T03:25:50.273Z"
+          "lastSyncedAt": "2026-11-26T03:51:26.059Z"
         }
       ]
     },
