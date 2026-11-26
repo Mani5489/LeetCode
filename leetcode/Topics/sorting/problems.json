@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:36:50.302Z",
+  "updatedAt": "2026-11-26T03:36:58.330Z",
   "problems": [
+    {
+      "frontendId": "922",
+      "title": "Sort Array By Parity II",
+      "slug": "sort-array-by-parity-ii",
+      "problemName": "0922-sort-array-by-parity-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+      "folderPath": "leetcode/0922-sort-array-by-parity-ii/",
+      "readmePath": "leetcode/0922-sort-array-by-parity-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0922-sort-array-by-parity-ii.py",
+          "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
+          "sha": "b5895f1b7b25e8caad02f761fae04cf3c483d188",
+          "lastSyncedAt": "2026-11-26T03:36:58.330Z"
+        }
+      ]
+    },
     {
       "frontendId": "977",
       "title": "Squares of a Sorted Array",
