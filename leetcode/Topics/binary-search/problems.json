@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T06:10:30.609Z",
+  "updatedAt": "2026-11-26T06:10:43.604Z",
   "problems": [
     {
       "frontendId": "34",
@@ -223,7 +223,7 @@
           "filename": "0441-arranging-coins.py",
           "path": "leetcode/0441-arranging-coins/0441-arranging-coins.py",
           "sha": "ab41a9e3a551295773781285a2fbb0976e6b706c",
-          "lastSyncedAt": "2026-11-26T05:15:38.761Z"
+          "lastSyncedAt": "2026-11-26T06:10:43.604Z"
         }
       ]
     },
