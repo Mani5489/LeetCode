@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:32:13.391Z",
+  "updatedAt": "2026-11-26T03:32:23.014Z",
   "problems": [
     {
       "frontendId": "202",
@@ -784,6 +784,26 @@
           "path": "leetcode/2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.py",
           "sha": "c7422ab885d238fc8bc5469d42a0cfcfb5882fbb",
           "lastSyncedAt": "2026-11-26T03:24:01.858Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "leetcode/2418-sort-the-people/",
+      "readmePath": "leetcode/2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2418-sort-the-people.py",
+          "path": "leetcode/2418-sort-the-people/2418-sort-the-people.py",
+          "sha": "0680c263b805a2630c548bec0125e29820593471",
+          "lastSyncedAt": "2026-11-26T03:32:23.014Z"
         }
       ]
     },
