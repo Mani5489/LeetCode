@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T06:10:14.243Z",
+  "updatedAt": "2026-11-26T06:10:23.268Z",
   "problems": [
     {
       "frontendId": "34",
@@ -343,7 +343,7 @@
           "filename": "1351-count-negative-numbers-in-a-sorted-matrix.py",
           "path": "leetcode/1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.py",
           "sha": "5430d0b897492ced5816d16368502640d71ccf72",
-          "lastSyncedAt": "2026-11-26T05:15:09.827Z"
+          "lastSyncedAt": "2026-11-26T06:10:23.268Z"
         }
       ]
     },
