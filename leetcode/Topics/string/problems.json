@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:26:11.782Z",
+  "updatedAt": "2026-11-26T05:26:29.328Z",
   "problems": [
     {
       "frontendId": "5",
@@ -24,6 +24,26 @@
           "path": "leetcode/0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
           "sha": "39894014c4cc59e73de088ed243bd5dc2f80a3f4",
           "lastSyncedAt": "2026-11-26T05:22:14.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "leetcode/0008-string-to-integer-atoi/",
+      "readmePath": "leetcode/0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0008-string-to-integer-atoi.py",
+          "path": "leetcode/0008-string-to-integer-atoi/0008-string-to-integer-atoi.py",
+          "sha": "4d3ab106c7ad0cc9e7a82cc2dcd6edca89327746",
+          "lastSyncedAt": "2026-11-26T05:26:29.328Z"
         }
       ]
     },
