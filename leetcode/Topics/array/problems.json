@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T06:06:49.857Z",
+  "updatedAt": "2026-11-26T06:06:58.333Z",
   "problems": [
     {
       "frontendId": "1",
@@ -643,7 +643,7 @@
           "filename": "0599-minimum-index-sum-of-two-lists.py",
           "path": "leetcode/0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "12d76afa11c781a12b35a59d2d1afc58e65a7b48",
-          "lastSyncedAt": "2026-11-26T05:09:38.300Z"
+          "lastSyncedAt": "2026-11-26T06:06:58.333Z"
         }
       ]
     },
