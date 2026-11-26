@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:24:49.337Z",
+  "updatedAt": "2026-11-26T05:24:54.576Z",
   "problems": [
     {
       "frontendId": "175",
@@ -224,6 +224,26 @@
           "path": "leetcode/0550-game-play-analysis-iv/0550-game-play-analysis-iv.sql",
           "sha": "5a817bb1fe63861feec7841eb97e0f8b637b770a",
           "lastSyncedAt": "2026-11-26T05:23:29.463Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "slug": "managers-with-at-least-5-direct-reports",
+      "problemName": "0570-managers-with-at-least-5-direct-reports",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/",
+      "folderPath": "leetcode/0570-managers-with-at-least-5-direct-reports/",
+      "readmePath": "leetcode/0570-managers-with-at-least-5-direct-reports/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0570-managers-with-at-least-5-direct-reports.sql",
+          "path": "leetcode/0570-managers-with-at-least-5-direct-reports/0570-managers-with-at-least-5-direct-reports.sql",
+          "sha": "39d514c78dd92fc1862566b65661f7edc67b45eb",
+          "lastSyncedAt": "2026-11-26T05:24:54.576Z"
         }
       ]
     },
