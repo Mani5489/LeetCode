@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T03:40:02.954Z",
+  "updatedAt": "2026-11-26T03:40:11.916Z",
   "problems": [
     {
       "frontendId": "202",
@@ -104,6 +104,26 @@
           "path": "leetcode/1742-maximum-number-of-balls-in-a-box/1742-maximum-number-of-balls-in-a-box.py",
           "sha": "c1406eafb5817f00cbd43534a573753d9e88036e",
           "lastSyncedAt": "2026-11-26T03:25:22.126Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2566",
+      "title": "Maximum Difference by Remapping a Digit",
+      "slug": "maximum-difference-by-remapping-a-digit",
+      "problemName": "2566-maximum-difference-by-remapping-a-digit",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/",
+      "folderPath": "leetcode/2566-maximum-difference-by-remapping-a-digit/",
+      "readmePath": "leetcode/2566-maximum-difference-by-remapping-a-digit/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2566-maximum-difference-by-remapping-a-digit.py",
+          "path": "leetcode/2566-maximum-difference-by-remapping-a-digit/2566-maximum-difference-by-remapping-a-digit.py",
+          "sha": "1a7117ec40ecaf38ce252a5aefe88e8fa95a6298",
+          "lastSyncedAt": "2026-11-26T03:40:11.916Z"
         }
       ]
     },
