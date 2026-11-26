@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:37:05.465Z",
+  "updatedAt": "2026-11-26T03:37:13.202Z",
   "problems": [
     {
       "frontendId": "500",
@@ -64,6 +64,26 @@
           "path": "leetcode/0697-degree-of-an-array/0697-degree-of-an-array.py",
           "sha": "70b00e14d9ea822d5373c65570270bd5ffd23b92",
           "lastSyncedAt": "2026-11-26T03:29:03.628Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "747",
+      "title": "Largest Number At Least Twice of Others",
+      "slug": "largest-number-at-least-twice-of-others",
+      "problemName": "0747-largest-number-at-least-twice-of-others",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number-at-least-twice-of-others/",
+      "folderPath": "leetcode/0747-largest-number-at-least-twice-of-others/",
+      "readmePath": "leetcode/0747-largest-number-at-least-twice-of-others/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0747-largest-number-at-least-twice-of-others.py",
+          "path": "leetcode/0747-largest-number-at-least-twice-of-others/0747-largest-number-at-least-twice-of-others.py",
+          "sha": "179706390cf9ba5dd82b201c69e50a9077dd1b4a",
+          "lastSyncedAt": "2026-11-26T03:37:13.202Z"
         }
       ]
     },
