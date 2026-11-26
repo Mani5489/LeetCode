@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T16:03:34.714Z",
+  "updatedAt": "2026-11-26T16:03:39.644Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2183,7 +2183,7 @@
           "filename": "2357-make-array-zero-by-subtracting-equal-amounts.py",
           "path": "leetcode/2357-make-array-zero-by-subtracting-equal-amounts/2357-make-array-zero-by-subtracting-equal-amounts.py",
           "sha": "47193b2cfb2544ee401970070b7bc9ea0c8adf1b",
-          "lastSyncedAt": "2026-11-26T06:02:06.154Z"
+          "lastSyncedAt": "2026-11-26T16:03:39.644Z"
         }
       ]
     },
