@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:35:07.671Z",
+  "updatedAt": "2026-11-26T03:35:19.168Z",
   "problems": [
     {
       "frontendId": "500",
@@ -284,6 +284,26 @@
           "path": "leetcode/1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.py",
           "sha": "e2f14cb79983004cf7250f6cdd6ef3dd837b9011",
           "lastSyncedAt": "2026-11-26T03:26:19.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1356",
+      "title": "Sort Integers by The Number of 1 Bits",
+      "slug": "sort-integers-by-the-number-of-1-bits",
+      "problemName": "1356-sort-integers-by-the-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+      "folderPath": "leetcode/1356-sort-integers-by-the-number-of-1-bits/",
+      "readmePath": "leetcode/1356-sort-integers-by-the-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1356-sort-integers-by-the-number-of-1-bits.py",
+          "path": "leetcode/1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.py",
+          "sha": "3c67c4b642f71d56d1c456376a808369a7cefa50",
+          "lastSyncedAt": "2026-11-26T03:35:19.168Z"
         }
       ]
     },
