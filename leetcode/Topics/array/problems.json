@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:35:58.310Z",
+  "updatedAt": "2026-11-26T03:36:09.103Z",
   "problems": [
     {
       "frontendId": "500",
@@ -484,6 +484,26 @@
           "path": "leetcode/1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.py",
           "sha": "0b0858ffbc6a58af6b5fd4e33decc383597af01b",
           "lastSyncedAt": "2026-11-26T03:34:44.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1502",
+      "title": "Can Make Arithmetic Progression From Sequence",
+      "slug": "can-make-arithmetic-progression-from-sequence",
+      "problemName": "1502-can-make-arithmetic-progression-from-sequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/",
+      "folderPath": "leetcode/1502-can-make-arithmetic-progression-from-sequence/",
+      "readmePath": "leetcode/1502-can-make-arithmetic-progression-from-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1502-can-make-arithmetic-progression-from-sequence.py",
+          "path": "leetcode/1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.py",
+          "sha": "ebe9aa832128a581c47f329daaba1420c6be4f92",
+          "lastSyncedAt": "2026-11-26T03:36:09.103Z"
         }
       ]
     },
