@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search",
+    "tagId": "11"
+  },
+  "updatedAt": "2026-11-26T03:31:23.467Z",
+  "problems": [
+    {
+      "frontendId": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "problemName": "2824-count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+      "folderPath": "leetcode/2824-count-pairs-whose-sum-is-less-than-target/",
+      "readmePath": "leetcode/2824-count-pairs-whose-sum-is-less-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2824-count-pairs-whose-sum-is-less-than-target.py",
+          "path": "leetcode/2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.py",
+          "sha": "48f943a14abf1bb7fad2a668b2cd581e162889c3",
+          "lastSyncedAt": "2026-11-26T03:31:23.467Z"
+        }
+      ]
+    }
+  ]
+}
