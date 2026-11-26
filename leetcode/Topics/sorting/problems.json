@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:33:07.211Z",
+  "updatedAt": "2026-11-26T03:33:15.398Z",
   "problems": [
+    {
+      "frontendId": "2164",
+      "title": "Sort Even and Odd Indices Independently",
+      "slug": "sort-even-and-odd-indices-independently",
+      "problemName": "2164-sort-even-and-odd-indices-independently",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-even-and-odd-indices-independently/",
+      "folderPath": "leetcode/2164-sort-even-and-odd-indices-independently/",
+      "readmePath": "leetcode/2164-sort-even-and-odd-indices-independently/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2164-sort-even-and-odd-indices-independently.py",
+          "path": "leetcode/2164-sort-even-and-odd-indices-independently/2164-sort-even-and-odd-indices-independently.py",
+          "sha": "49eb4cc08ed6543d7e5148dae8774a8cc84b1977",
+          "lastSyncedAt": "2026-11-26T03:33:15.398Z"
+        }
+      ]
+    },
     {
       "frontendId": "2231",
       "title": "Largest Number After Digit Swaps by Parity",
