@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:09:07.481Z",
+  "updatedAt": "2026-11-26T05:11:12.676Z",
   "problems": [
     {
       "frontendId": "3482",
@@ -104,6 +104,26 @@
           "path": "leetcode/3580-find-consistently-improving-employees/3580-find-consistently-improving-employees.sql",
           "sha": "5cc1b9cf8131b3766dbf8292f3e9c46107fa5cb2",
           "lastSyncedAt": "2026-11-26T05:09:01.888Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3601",
+      "title": "Find Drivers with Improved Fuel Efficiency",
+      "slug": "find-drivers-with-improved-fuel-efficiency",
+      "problemName": "3601-find-drivers-with-improved-fuel-efficiency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/",
+      "folderPath": "leetcode/3601-find-drivers-with-improved-fuel-efficiency/",
+      "readmePath": "leetcode/3601-find-drivers-with-improved-fuel-efficiency/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3601-find-drivers-with-improved-fuel-efficiency.sql",
+          "path": "leetcode/3601-find-drivers-with-improved-fuel-efficiency/3601-find-drivers-with-improved-fuel-efficiency.sql",
+          "sha": "f633f43968d12b831e6fa44d8dde94dda7abf279",
+          "lastSyncedAt": "2026-11-26T05:11:12.676Z"
         }
       ]
     }
