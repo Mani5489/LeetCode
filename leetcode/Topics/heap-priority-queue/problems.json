@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-26T05:55:50.287Z",
+  "updatedAt": "2026-11-26T05:57:03.496Z",
   "problems": [
     {
       "frontendId": "506",
@@ -63,7 +63,7 @@
           "filename": "1464-maximum-product-of-two-elements-in-an-array.py",
           "path": "leetcode/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
           "sha": "31c30008369557e9651941cb258b16e91947994f",
-          "lastSyncedAt": "2026-11-26T04:59:51.691Z"
+          "lastSyncedAt": "2026-11-26T05:57:03.496Z"
         }
       ]
     },
