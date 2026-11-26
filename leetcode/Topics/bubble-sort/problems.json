@@ -5,7 +5,7 @@
     "name": "Bubble Sort",
     "tagId": "79848"
   },
-  "updatedAt": "2026-11-26T05:01:14.654Z",
+  "updatedAt": "2026-11-26T05:56:31.472Z",
   "problems": [
     {
       "frontendId": "1051",
@@ -63,7 +63,7 @@
           "filename": "1859-sorting-the-sentence.py",
           "path": "leetcode/1859-sorting-the-sentence/1859-sorting-the-sentence.py",
           "sha": "bc543295a5baadd3787cce0cdda9988e6c6bbcd6",
-          "lastSyncedAt": "2026-11-26T04:59:25.519Z"
+          "lastSyncedAt": "2026-11-26T05:56:31.472Z"
         }
       ]
     }
