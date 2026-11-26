@@ -5,7 +5,7 @@
     "name": "Z Algorithm",
     "tagId": "86036"
   },
-  "updatedAt": "2026-11-26T06:14:31.554Z",
+  "updatedAt": "2026-11-26T16:06:57.056Z",
   "problems": [
     {
       "frontendId": "28",
@@ -43,7 +43,7 @@
           "filename": "0459-repeated-substring-pattern.py",
           "path": "leetcode/0459-repeated-substring-pattern/0459-repeated-substring-pattern.py",
           "sha": "e3b32856457078bd83231dbb8b0c25199075a5b8",
-          "lastSyncedAt": "2026-11-26T06:05:45.129Z"
+          "lastSyncedAt": "2026-11-26T16:06:57.056Z"
         }
       ]
     }
