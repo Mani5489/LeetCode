@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:09:01.888Z",
+  "updatedAt": "2026-11-26T05:09:07.481Z",
   "problems": [
     {
       "frontendId": "3482",
@@ -24,6 +24,26 @@
           "path": "leetcode/3482-analyze-organization-hierarchy/3482-analyze-organization-hierarchy.sql",
           "sha": "e0ca2f8d56b50844222c1e69fd67cf57dd1c2ded",
           "lastSyncedAt": "2026-11-26T05:06:23.226Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3521",
+      "title": "Find Product Recommendation Pairs",
+      "slug": "find-product-recommendation-pairs",
+      "problemName": "3521-find-product-recommendation-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-product-recommendation-pairs/",
+      "folderPath": "leetcode/3521-find-product-recommendation-pairs/",
+      "readmePath": "leetcode/3521-find-product-recommendation-pairs/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3521-find-product-recommendation-pairs.sql",
+          "path": "leetcode/3521-find-product-recommendation-pairs/3521-find-product-recommendation-pairs.sql",
+          "sha": "c382f2dbd42d081a2183e4185f95a0e23624db7e",
+          "lastSyncedAt": "2026-11-26T05:09:07.481Z"
         }
       ]
     },
