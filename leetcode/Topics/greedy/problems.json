@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T06:05:34.395Z",
+  "updatedAt": "2026-11-26T06:07:27.256Z",
   "problems": [
     {
       "frontendId": "409",
@@ -83,7 +83,7 @@
           "filename": "0605-can-place-flowers.py",
           "path": "leetcode/0605-can-place-flowers/0605-can-place-flowers.py",
           "sha": "83110fc69df687a1aaba05458909e4aea6ac2ef9",
-          "lastSyncedAt": "2026-11-26T05:10:15.568Z"
+          "lastSyncedAt": "2026-11-26T06:07:27.256Z"
         }
       ]
     },
