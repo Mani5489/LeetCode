@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:27:04.814Z",
+  "updatedAt": "2026-11-26T03:27:39.674Z",
   "problems": [
+    {
+      "frontendId": "953",
+      "title": "Verifying an Alien Dictionary",
+      "slug": "verifying-an-alien-dictionary",
+      "problemName": "0953-verifying-an-alien-dictionary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+      "folderPath": "leetcode/0953-verifying-an-alien-dictionary/",
+      "readmePath": "leetcode/0953-verifying-an-alien-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0953-verifying-an-alien-dictionary.py",
+          "path": "leetcode/0953-verifying-an-alien-dictionary/0953-verifying-an-alien-dictionary.py",
+          "sha": "34818130491c31a45d9eb65ae251c6f8d551a126",
+          "lastSyncedAt": "2026-11-26T03:27:39.674Z"
+        }
+      ]
+    },
     {
       "frontendId": "1189",
       "title": "Maximum Number of Balloons",
