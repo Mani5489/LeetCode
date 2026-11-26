@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:07:10.425Z",
+  "updatedAt": "2026-11-26T05:09:01.888Z",
   "problems": [
     {
       "frontendId": "3482",
@@ -64,6 +64,26 @@
           "path": "leetcode/3564-seasonal-sales-analysis/3564-seasonal-sales-analysis.sql",
           "sha": "12ee6a3cf0f2c1ee0fdbefcc30fd5d71dfbd3413",
           "lastSyncedAt": "2026-11-26T05:05:45.740Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3580",
+      "title": "Find Consistently Improving Employees",
+      "slug": "find-consistently-improving-employees",
+      "problemName": "3580-find-consistently-improving-employees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-consistently-improving-employees/",
+      "folderPath": "leetcode/3580-find-consistently-improving-employees/",
+      "readmePath": "leetcode/3580-find-consistently-improving-employees/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3580-find-consistently-improving-employees.sql",
+          "path": "leetcode/3580-find-consistently-improving-employees/3580-find-consistently-improving-employees.sql",
+          "sha": "5cc1b9cf8131b3766dbf8292f3e9c46107fa5cb2",
+          "lastSyncedAt": "2026-11-26T05:09:01.888Z"
         }
       ]
     }
