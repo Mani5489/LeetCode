@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T03:32:01.565Z",
+  "updatedAt": "2026-11-26T03:32:13.391Z",
   "problems": [
     {
       "frontendId": "202",
@@ -24,6 +24,26 @@
           "path": "leetcode/0202-happy-number/0202-happy-number.py",
           "sha": "d10a758e893c9008886bff01f31fb6002748c982",
           "lastSyncedAt": "2026-11-26T03:29:25.091Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2441",
+      "title": "Largest Positive Integer That Exists With Its Negative",
+      "slug": "largest-positive-integer-that-exists-with-its-negative",
+      "problemName": "2441-largest-positive-integer-that-exists-with-its-negative",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/",
+      "folderPath": "leetcode/2441-largest-positive-integer-that-exists-with-its-negative/",
+      "readmePath": "leetcode/2441-largest-positive-integer-that-exists-with-its-negative/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2441-largest-positive-integer-that-exists-with-its-negative.py",
+          "path": "leetcode/2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.py",
+          "sha": "7da37f04ce35b10f2f010fdfe37e88fed1790b73",
+          "lastSyncedAt": "2026-11-26T03:32:13.391Z"
         }
       ]
     },
