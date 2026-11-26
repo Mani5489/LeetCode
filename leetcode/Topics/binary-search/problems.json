@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:16:21.869Z",
+  "updatedAt": "2026-11-26T05:16:30.024Z",
   "problems": [
     {
       "frontendId": "34",
@@ -24,6 +24,26 @@
           "path": "leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.py",
           "sha": "28f0212342cb89b1b0794c3bc85ed2c1772ada07",
           "lastSyncedAt": "2026-11-26T05:15:45.996Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "leetcode/0069-sqrtx/",
+      "readmePath": "leetcode/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0069-sqrtx.py",
+          "path": "leetcode/0069-sqrtx/0069-sqrtx.py",
+          "sha": "0d4346dbd9aa7c372b674eb66244b6e9326550e2",
+          "lastSyncedAt": "2026-11-26T05:16:30.024Z"
         }
       ]
     },
