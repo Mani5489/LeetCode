@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:16:13.996Z",
+  "updatedAt": "2026-11-26T05:16:55.040Z",
   "problems": [
     {
       "frontendId": "34",
@@ -384,6 +384,26 @@
           "path": "leetcode/0697-degree-of-an-array/0697-degree-of-an-array.py",
           "sha": "70b00e14d9ea822d5373c65570270bd5ffd23b92",
           "lastSyncedAt": "2026-11-26T04:55:39.313Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "leetcode/0704-binary-search/",
+      "readmePath": "leetcode/0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0704-binary-search.py",
+          "path": "leetcode/0704-binary-search/0704-binary-search.py",
+          "sha": "99b6f67891e822590034981cdd2f5fb48c1af74c",
+          "lastSyncedAt": "2026-11-26T05:16:55.040Z"
         }
       ]
     },
