@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:21:05.403Z",
+  "updatedAt": "2026-11-26T05:21:14.725Z",
   "problems": [
     {
       "frontendId": "43",
@@ -24,6 +24,26 @@
           "path": "leetcode/0043-multiply-strings/0043-multiply-strings.py",
           "sha": "87571e92e6eb22486dc2297db9e014556ebc2fc1",
           "lastSyncedAt": "2026-11-26T05:11:45.129Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "leetcode/0125-valid-palindrome/",
+      "readmePath": "leetcode/0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0125-valid-palindrome.py",
+          "path": "leetcode/0125-valid-palindrome/0125-valid-palindrome.py",
+          "sha": "686721da77614078c58947fb366c09c47911d524",
+          "lastSyncedAt": "2026-11-26T05:21:14.725Z"
         }
       ]
     },
