@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-26T05:06:44.105Z",
+  "updatedAt": "2026-11-26T05:06:52.508Z",
   "problems": [
     {
       "frontendId": "202",
@@ -84,6 +84,26 @@
           "path": "leetcode/0922-sort-array-by-parity-ii/0922-sort-array-by-parity-ii.py",
           "sha": "b5895f1b7b25e8caad02f761fae04cf3c483d188",
           "lastSyncedAt": "2026-11-26T05:01:36.771Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "942",
+      "title": "DI String Match",
+      "slug": "di-string-match",
+      "problemName": "0942-di-string-match",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/di-string-match/",
+      "folderPath": "leetcode/0942-di-string-match/",
+      "readmePath": "leetcode/0942-di-string-match/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0942-di-string-match.py",
+          "path": "leetcode/0942-di-string-match/0942-di-string-match.py",
+          "sha": "899886f782307651cd9a4f34ddb78b9261ffe1df",
+          "lastSyncedAt": "2026-11-26T05:06:52.508Z"
         }
       ]
     },
