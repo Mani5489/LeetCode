@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T16:16:34.723Z",
+  "updatedAt": "2026-11-26T16:16:57.520Z",
   "problems": [
     {
       "frontendId": "175",
@@ -343,7 +343,7 @@
           "filename": "0610-triangle-judgement.sql",
           "path": "leetcode/0610-triangle-judgement/0610-triangle-judgement.sql",
           "sha": "4890071a825351190231ecd8602d2d753f462f6a",
-          "lastSyncedAt": "2026-11-26T05:24:07.782Z"
+          "lastSyncedAt": "2026-11-26T16:16:57.520Z"
         }
       ]
     },
