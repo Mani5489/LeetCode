@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:21:14.725Z",
+  "updatedAt": "2026-11-26T05:21:27.404Z",
   "problems": [
     {
       "frontendId": "43",
@@ -244,6 +244,26 @@
           "path": "leetcode/0389-find-the-difference/0389-find-the-difference.py",
           "sha": "ed0bf12bb7c9799dd1034e1268773e0cb52f44dc",
           "lastSyncedAt": "2026-11-26T05:18:58.404Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "leetcode/0392-is-subsequence/",
+      "readmePath": "leetcode/0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0392-is-subsequence.py",
+          "path": "leetcode/0392-is-subsequence/0392-is-subsequence.py",
+          "sha": "f2fddfa9000b600808fbd527aba838eb3c79ecaa",
+          "lastSyncedAt": "2026-11-26T05:21:27.404Z"
         }
       ]
     },
