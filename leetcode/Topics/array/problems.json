@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:33:53.121Z",
+  "updatedAt": "2026-11-26T03:34:02.149Z",
   "problems": [
     {
       "frontendId": "500",
@@ -404,6 +404,26 @@
           "path": "leetcode/1748-sum-of-unique-elements/1748-sum-of-unique-elements.py",
           "sha": "1ec07af4d43ad2cfa129ce83c3a93ba01f1b69bd",
           "lastSyncedAt": "2026-11-26T03:25:13.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1913",
+      "title": "Maximum Product Difference Between Two Pairs",
+      "slug": "maximum-product-difference-between-two-pairs",
+      "problemName": "1913-maximum-product-difference-between-two-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-difference-between-two-pairs/",
+      "folderPath": "leetcode/1913-maximum-product-difference-between-two-pairs/",
+      "readmePath": "leetcode/1913-maximum-product-difference-between-two-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1913-maximum-product-difference-between-two-pairs.py",
+          "path": "leetcode/1913-maximum-product-difference-between-two-pairs/1913-maximum-product-difference-between-two-pairs.py",
+          "sha": "60df9c745eab3c521046abce7dcdd2b0914bc131",
+          "lastSyncedAt": "2026-11-26T03:34:02.149Z"
         }
       ]
     },
