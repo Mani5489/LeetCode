@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T06:12:58.725Z",
+  "updatedAt": "2026-11-26T15:55:47.529Z",
   "problems": [
     {
       "frontendId": "34",
@@ -463,7 +463,7 @@
           "filename": "2824-count-pairs-whose-sum-is-less-than-target.py",
           "path": "leetcode/2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.py",
           "sha": "48f943a14abf1bb7fad2a668b2cd581e162889c3",
-          "lastSyncedAt": "2026-11-26T05:54:08.055Z"
+          "lastSyncedAt": "2026-11-26T15:55:47.529Z"
         }
       ]
     },
