@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T06:09:14.504Z",
+  "updatedAt": "2026-11-26T06:09:33.971Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1683,7 +1683,7 @@
           "filename": "1608-special-array-with-x-elements-greater-than-or-equal-x.py",
           "path": "leetcode/1608-special-array-with-x-elements-greater-than-or-equal-x/1608-special-array-with-x-elements-greater-than-or-equal-x.py",
           "sha": "720dd7469baca9a87e2fcefa04b2ddb76b7f0965",
-          "lastSyncedAt": "2026-11-26T05:13:53.806Z"
+          "lastSyncedAt": "2026-11-26T06:09:33.971Z"
         }
       ]
     },
