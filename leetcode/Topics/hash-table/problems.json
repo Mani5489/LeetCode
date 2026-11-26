@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T05:21:05.403Z",
+  "updatedAt": "2026-11-26T05:22:46.704Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "leetcode/0001-two-sum/0001-two-sum.py",
           "sha": "dbea5de9ae971d4f048a9816e2ff5ea6043dea95",
           "lastSyncedAt": "2026-11-26T05:19:55.408Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "leetcode/0013-roman-to-integer/",
+      "readmePath": "leetcode/0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0013-roman-to-integer.py",
+          "path": "leetcode/0013-roman-to-integer/0013-roman-to-integer.py",
+          "sha": "223a1c0aeb7b0038b3078c50f883322445a3da4c",
+          "lastSyncedAt": "2026-11-26T05:22:46.704Z"
         }
       ]
     },
