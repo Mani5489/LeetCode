@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:30:08.321Z",
+  "updatedAt": "2026-11-26T03:30:17.677Z",
   "problems": [
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "leetcode/3536-maximum-product-of-two-digits/",
+      "readmePath": "leetcode/3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3536-maximum-product-of-two-digits.py",
+          "path": "leetcode/3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.py",
+          "sha": "6a4970d4abf1e70bcd5a52047133cfd53b431ca7",
+          "lastSyncedAt": "2026-11-26T03:30:17.677Z"
+        }
+      ]
+    },
     {
       "frontendId": "3606",
       "title": "Coupon Code Validator",
