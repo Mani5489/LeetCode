@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:34:37.840Z",
+  "updatedAt": "2026-11-26T03:34:44.020Z",
   "problems": [
     {
       "frontendId": "500",
@@ -324,6 +324,26 @@
           "path": "leetcode/1436-destination-city/1436-destination-city.py",
           "sha": "791a37472935dc5a90bb4fb05d5b4463adf6a6e6",
           "lastSyncedAt": "2026-11-26T03:26:11.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1491",
+      "title": "Average Salary Excluding the Minimum and Maximum Salary",
+      "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+      "problemName": "1491-average-salary-excluding-the-minimum-and-maximum-salary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+      "folderPath": "leetcode/1491-average-salary-excluding-the-minimum-and-maximum-salary/",
+      "readmePath": "leetcode/1491-average-salary-excluding-the-minimum-and-maximum-salary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1491-average-salary-excluding-the-minimum-and-maximum-salary.py",
+          "path": "leetcode/1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.py",
+          "sha": "0b0858ffbc6a58af6b5fd4e33decc383597af01b",
+          "lastSyncedAt": "2026-11-26T03:34:44.020Z"
         }
       ]
     },
