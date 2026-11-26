@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:35:58.310Z",
+  "updatedAt": "2026-11-26T03:36:15.932Z",
   "problems": [
     {
       "frontendId": "202",
@@ -304,6 +304,26 @@
           "path": "leetcode/0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "749c824e1dcef084e23b498b2cfe4246a174483f",
           "lastSyncedAt": "2026-11-26T03:27:21.285Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1122",
+      "title": "Relative Sort Array",
+      "slug": "relative-sort-array",
+      "problemName": "1122-relative-sort-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-sort-array/",
+      "folderPath": "leetcode/1122-relative-sort-array/",
+      "readmePath": "leetcode/1122-relative-sort-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1122-relative-sort-array.py",
+          "path": "leetcode/1122-relative-sort-array/1122-relative-sort-array.py",
+          "sha": "8a08f02e6bcf8ccc660b04bd6ddda585a7a2a3c6",
+          "lastSyncedAt": "2026-11-26T03:36:15.932Z"
         }
       ]
     },
