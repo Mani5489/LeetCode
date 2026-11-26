@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:24:15.020Z",
+  "updatedAt": "2026-11-26T03:24:24.942Z",
   "problems": [
+    {
+      "frontendId": "1935",
+      "title": "Maximum Number of Words You Can Type",
+      "slug": "maximum-number-of-words-you-can-type",
+      "problemName": "1935-maximum-number-of-words-you-can-type",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-words-you-can-type/",
+      "folderPath": "leetcode/1935-maximum-number-of-words-you-can-type/",
+      "readmePath": "leetcode/1935-maximum-number-of-words-you-can-type/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1935-maximum-number-of-words-you-can-type.py",
+          "path": "leetcode/1935-maximum-number-of-words-you-can-type/1935-maximum-number-of-words-you-can-type.py",
+          "sha": "ffac98fb5341259199618ab1aac9939ce8f2cc25",
+          "lastSyncedAt": "2026-11-26T03:24:24.942Z"
+        }
+      ]
+    },
     {
       "frontendId": "1941",
       "title": "Check if All Characters Have Equal Number of Occurrences",
