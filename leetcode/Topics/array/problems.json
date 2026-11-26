@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T06:10:23.268Z",
+  "updatedAt": "2026-11-26T06:10:30.609Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1403,7 +1403,7 @@
           "filename": "1346-check-if-n-and-its-double-exist.py",
           "path": "leetcode/1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.py",
           "sha": "38a4934245e9ef536a8c05f26b41783d7624886f",
-          "lastSyncedAt": "2026-11-26T05:15:19.798Z"
+          "lastSyncedAt": "2026-11-26T06:10:30.609Z"
         }
       ]
     },
