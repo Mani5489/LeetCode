@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T05:53:05.063Z",
+  "updatedAt": "2026-11-26T05:54:58.815Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1323,7 +1323,7 @@
           "filename": "2418-sort-the-people.py",
           "path": "leetcode/2418-sort-the-people/2418-sort-the-people.py",
           "sha": "0680c263b805a2630c548bec0125e29820593471",
-          "lastSyncedAt": "2026-11-26T04:58:05.598Z"
+          "lastSyncedAt": "2026-11-26T05:54:58.815Z"
         }
       ]
     },
