@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T03:39:27.593Z",
+  "updatedAt": "2026-11-26T03:39:36.637Z",
   "problems": [
     {
       "frontendId": "1005",
@@ -24,6 +24,26 @@
           "path": "leetcode/1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
           "sha": "2d9d6a343be066700db93d3b631b08cd2048173b",
           "lastSyncedAt": "2026-11-26T03:36:40.472Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2697",
+      "title": "Lexicographically Smallest Palindrome",
+      "slug": "lexicographically-smallest-palindrome",
+      "problemName": "2697-lexicographically-smallest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindrome/",
+      "folderPath": "leetcode/2697-lexicographically-smallest-palindrome/",
+      "readmePath": "leetcode/2697-lexicographically-smallest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2697-lexicographically-smallest-palindrome.py",
+          "path": "leetcode/2697-lexicographically-smallest-palindrome/2697-lexicographically-smallest-palindrome.py",
+          "sha": "8e57ac41c45638a5b0999229cb7090b22b03f25f",
+          "lastSyncedAt": "2026-11-26T03:39:36.637Z"
         }
       ]
     },
