@@ -5,7 +5,7 @@
     "name": "Bubble Sort",
     "tagId": "79848"
   },
-  "updatedAt": "2026-11-26T05:56:31.472Z",
+  "updatedAt": "2026-11-26T05:58:16.988Z",
   "problems": [
     {
       "frontendId": "1051",
@@ -43,7 +43,7 @@
           "filename": "1122-relative-sort-array.py",
           "path": "leetcode/1122-relative-sort-array/1122-relative-sort-array.py",
           "sha": "8a08f02e6bcf8ccc660b04bd6ddda585a7a2a3c6",
-          "lastSyncedAt": "2026-11-26T05:01:04.066Z"
+          "lastSyncedAt": "2026-11-26T05:58:16.988Z"
         }
       ]
     },
