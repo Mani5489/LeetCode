@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "ordered-set",
+    "name": "Ordered Set",
+    "tagId": "61070"
+  },
+  "updatedAt": "2026-11-26T03:32:34.229Z",
+  "problems": [
+    {
+      "frontendId": "2363",
+      "title": "Merge Similar Items",
+      "slug": "merge-similar-items",
+      "problemName": "2363-merge-similar-items",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-similar-items/",
+      "folderPath": "leetcode/2363-merge-similar-items/",
+      "readmePath": "leetcode/2363-merge-similar-items/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2363-merge-similar-items.py",
+          "path": "leetcode/2363-merge-similar-items/2363-merge-similar-items.py",
+          "sha": "63f9890d9f78139f1f26ba95f38b656c8077e7ae",
+          "lastSyncedAt": "2026-11-26T03:32:34.229Z"
+        }
+      ]
+    }
+  ]
+}
