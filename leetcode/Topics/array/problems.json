@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:50:21.952Z",
+  "updatedAt": "2026-11-26T05:50:28.751Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1043,7 +1043,7 @@
           "filename": "0961-n-repeated-element-in-size-2n-array.py",
           "path": "leetcode/0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.py",
           "sha": "50b585d02dd42b5043276a5796dd43b13c6a80b6",
-          "lastSyncedAt": "2026-11-26T04:54:27.339Z"
+          "lastSyncedAt": "2026-11-26T05:50:28.751Z"
         }
       ]
     },
