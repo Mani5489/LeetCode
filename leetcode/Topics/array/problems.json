@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:52:48.312Z",
+  "updatedAt": "2026-11-26T03:52:55.273Z",
   "problems": [
     {
       "frontendId": "500",
@@ -283,7 +283,7 @@
           "filename": "0953-verifying-an-alien-dictionary.py",
           "path": "leetcode/0953-verifying-an-alien-dictionary/0953-verifying-an-alien-dictionary.py",
           "sha": "34818130491c31a45d9eb65ae251c6f8d551a126",
-          "lastSyncedAt": "2026-11-26T03:27:39.674Z"
+          "lastSyncedAt": "2026-11-26T03:52:55.273Z"
         }
       ]
     },
