@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T03:30:00.814Z",
+  "updatedAt": "2026-11-26T03:30:08.321Z",
   "problems": [
+    {
+      "frontendId": "3606",
+      "title": "Coupon Code Validator",
+      "slug": "coupon-code-validator",
+      "problemName": "3606-coupon-code-validator",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/coupon-code-validator/",
+      "folderPath": "leetcode/3606-coupon-code-validator/",
+      "readmePath": "leetcode/3606-coupon-code-validator/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3606-coupon-code-validator.py",
+          "path": "leetcode/3606-coupon-code-validator/3606-coupon-code-validator.py",
+          "sha": "c36b9e234980a8cb0784f13112dc04c021eba3f8",
+          "lastSyncedAt": "2026-11-26T03:30:08.321Z"
+        }
+      ]
+    },
     {
       "frontendId": "3731",
       "title": "Find Missing Elements",
