@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:15:19.798Z",
+  "updatedAt": "2026-11-26T05:15:38.761Z",
   "problems": [
+    {
+      "frontendId": "441",
+      "title": "Arranging Coins",
+      "slug": "arranging-coins",
+      "problemName": "0441-arranging-coins",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/arranging-coins/",
+      "folderPath": "leetcode/0441-arranging-coins/",
+      "readmePath": "leetcode/0441-arranging-coins/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0441-arranging-coins.py",
+          "path": "leetcode/0441-arranging-coins/0441-arranging-coins.py",
+          "sha": "ab41a9e3a551295773781285a2fbb0976e6b706c",
+          "lastSyncedAt": "2026-11-26T05:15:38.761Z"
+        }
+      ]
+    },
     {
       "frontendId": "888",
       "title": "Fair Candy Swap",
