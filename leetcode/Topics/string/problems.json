@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T06:03:18.854Z",
+  "updatedAt": "2026-11-26T06:03:23.584Z",
   "problems": [
     {
       "frontendId": "5",
@@ -1183,7 +1183,7 @@
           "filename": "1974-minimum-time-to-type-word-using-special-typewriter.py",
           "path": "leetcode/1974-minimum-time-to-type-word-using-special-typewriter/1974-minimum-time-to-type-word-using-special-typewriter.py",
           "sha": "92f37848451b680d59671b774859f85430759b2b",
-          "lastSyncedAt": "2026-11-26T05:05:31.304Z"
+          "lastSyncedAt": "2026-11-26T06:03:23.584Z"
         }
       ]
     },
