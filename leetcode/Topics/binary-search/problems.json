@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-26T05:15:38.761Z",
+  "updatedAt": "2026-11-26T05:15:45.996Z",
   "problems": [
+    {
+      "frontendId": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "problemName": "0034-find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "folderPath": "leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/",
+      "readmePath": "leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0034-find-first-and-last-position-of-element-in-sorted-array.py",
+          "path": "leetcode/0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.py",
+          "sha": "28f0212342cb89b1b0794c3bc85ed2c1772ada07",
+          "lastSyncedAt": "2026-11-26T05:15:45.996Z"
+        }
+      ]
+    },
     {
       "frontendId": "441",
       "title": "Arranging Coins",
