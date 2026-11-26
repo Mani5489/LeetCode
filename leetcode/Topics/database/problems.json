@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:14:42.897Z",
+  "updatedAt": "2026-11-26T05:14:48.258Z",
   "problems": [
     {
       "frontendId": "3465",
@@ -184,6 +184,26 @@
           "path": "leetcode/3601-find-drivers-with-improved-fuel-efficiency/3601-find-drivers-with-improved-fuel-efficiency.sql",
           "sha": "f633f43968d12b831e6fa44d8dde94dda7abf279",
           "lastSyncedAt": "2026-11-26T05:11:12.676Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3611",
+      "title": "Find Overbooked Employees",
+      "slug": "find-overbooked-employees",
+      "problemName": "3611-find-overbooked-employees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-overbooked-employees/",
+      "folderPath": "leetcode/3611-find-overbooked-employees/",
+      "readmePath": "leetcode/3611-find-overbooked-employees/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3611-find-overbooked-employees.sql",
+          "path": "leetcode/3611-find-overbooked-employees/3611-find-overbooked-employees.sql",
+          "sha": "265f134518ba12425b4f82061b87070983b128d0",
+          "lastSyncedAt": "2026-11-26T05:14:48.258Z"
         }
       ]
     }
