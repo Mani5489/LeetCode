@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T03:24:54.469Z",
+  "updatedAt": "2026-11-26T03:25:00.453Z",
   "problems": [
+    {
+      "frontendId": "1796",
+      "title": "Second Largest Digit in a String",
+      "slug": "second-largest-digit-in-a-string",
+      "problemName": "1796-second-largest-digit-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/second-largest-digit-in-a-string/",
+      "folderPath": "leetcode/1796-second-largest-digit-in-a-string/",
+      "readmePath": "leetcode/1796-second-largest-digit-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1796-second-largest-digit-in-a-string.py",
+          "path": "leetcode/1796-second-largest-digit-in-a-string/1796-second-largest-digit-in-a-string.py",
+          "sha": "32720ff3c957ac7b2067411a48e85fc1f91c4c78",
+          "lastSyncedAt": "2026-11-26T03:25:00.453Z"
+        }
+      ]
+    },
     {
       "frontendId": "1805",
       "title": "Number of Different Integers in a String",
