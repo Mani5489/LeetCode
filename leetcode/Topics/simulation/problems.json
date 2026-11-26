@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-11-26T03:26:19.512Z",
+  "problems": [
+    {
+      "frontendId": "1275",
+      "title": "Find Winner on a Tic Tac Toe Game",
+      "slug": "find-winner-on-a-tic-tac-toe-game",
+      "problemName": "1275-find-winner-on-a-tic-tac-toe-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+      "folderPath": "leetcode/1275-find-winner-on-a-tic-tac-toe-game/",
+      "readmePath": "leetcode/1275-find-winner-on-a-tic-tac-toe-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1275-find-winner-on-a-tic-tac-toe-game.py",
+          "path": "leetcode/1275-find-winner-on-a-tic-tac-toe-game/1275-find-winner-on-a-tic-tac-toe-game.py",
+          "sha": "e2f14cb79983004cf7250f6cdd6ef3dd837b9011",
+          "lastSyncedAt": "2026-11-26T03:26:19.512Z"
+        }
+      ]
+    }
+  ]
+}
