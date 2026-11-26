@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:03:40.320Z",
+  "updatedAt": "2026-11-26T05:04:06.323Z",
   "problems": [
     {
       "frontendId": "506",
@@ -923,7 +923,7 @@
           "filename": "2578-split-with-minimum-sum.py",
           "path": "leetcode/2578-split-with-minimum-sum/2578-split-with-minimum-sum.py",
           "sha": "b9a890fc6530d238f03ad86a00fe4c0e40cbd5fc",
-          "lastSyncedAt": "2026-11-26T03:40:02.954Z"
+          "lastSyncedAt": "2026-11-26T05:04:06.323Z"
         }
       ]
     },
