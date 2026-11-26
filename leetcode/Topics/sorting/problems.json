@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T06:02:39.134Z",
+  "updatedAt": "2026-11-26T06:02:48.280Z",
   "problems": [
     {
       "frontendId": "56",
@@ -983,7 +983,7 @@
           "filename": "2144-minimum-cost-of-buying-candies-with-discount.py",
           "path": "leetcode/2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.py",
           "sha": "39c393e86907c3afad327ecd249729f74105c1bf",
-          "lastSyncedAt": "2026-11-26T05:05:01.775Z"
+          "lastSyncedAt": "2026-11-26T06:02:48.280Z"
         }
       ]
     },
