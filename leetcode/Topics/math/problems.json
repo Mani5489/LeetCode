@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T04:56:49.426Z",
+  "updatedAt": "2026-11-26T05:03:18.185Z",
   "problems": [
     {
       "frontendId": "202",
@@ -323,7 +323,7 @@
           "filename": "3014-minimum-number-of-pushes-to-type-word-i.py",
           "path": "leetcode/3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.py",
           "sha": "b315b025c4e389b2c3a32b5d080b571601385b20",
-          "lastSyncedAt": "2026-11-26T03:39:00.922Z"
+          "lastSyncedAt": "2026-11-26T05:03:18.185Z"
         }
       ]
     },
