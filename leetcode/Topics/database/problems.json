@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:23:34.982Z",
+  "updatedAt": "2026-11-26T05:24:07.782Z",
   "problems": [
     {
       "frontendId": "175",
@@ -284,6 +284,26 @@
           "path": "leetcode/0595-big-countries/0595-big-countries.sql",
           "sha": "6806589805cf4e6dd3ceae5764427725a5acfc42",
           "lastSyncedAt": "2026-11-26T05:23:34.982Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "610",
+      "title": "Triangle Judgement",
+      "slug": "triangle-judgement",
+      "problemName": "0610-triangle-judgement",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/triangle-judgement/",
+      "folderPath": "leetcode/0610-triangle-judgement/",
+      "readmePath": "leetcode/0610-triangle-judgement/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0610-triangle-judgement.sql",
+          "path": "leetcode/0610-triangle-judgement/0610-triangle-judgement.sql",
+          "sha": "4890071a825351190231ecd8602d2d753f462f6a",
+          "lastSyncedAt": "2026-11-26T05:24:07.782Z"
         }
       ]
     },
