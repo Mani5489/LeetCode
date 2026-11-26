@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:14:53.140Z",
+  "updatedAt": "2026-11-26T05:15:33.634Z",
   "problems": [
+    {
+      "frontendId": "3436",
+      "title": "Find Valid Emails",
+      "slug": "find-valid-emails",
+      "problemName": "3436-find-valid-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-valid-emails/",
+      "folderPath": "leetcode/3436-find-valid-emails/",
+      "readmePath": "leetcode/3436-find-valid-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3436-find-valid-emails.sql",
+          "path": "leetcode/3436-find-valid-emails/3436-find-valid-emails.sql",
+          "sha": "c8eb2129ce3e78e5e52a9d496803828e66045429",
+          "lastSyncedAt": "2026-11-26T05:15:33.634Z"
+        }
+      ]
+    },
     {
       "frontendId": "3451",
       "title": "Find Invalid IP Addresses",
