@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:15:33.634Z",
+  "updatedAt": "2026-11-26T05:16:08.041Z",
   "problems": [
+    {
+      "frontendId": "3421",
+      "title": "Find Students Who Improved",
+      "slug": "find-students-who-improved",
+      "problemName": "3421-find-students-who-improved",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-students-who-improved/",
+      "folderPath": "leetcode/3421-find-students-who-improved/",
+      "readmePath": "leetcode/3421-find-students-who-improved/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3421-find-students-who-improved.sql",
+          "path": "leetcode/3421-find-students-who-improved/3421-find-students-who-improved.sql",
+          "sha": "b0bd1511928d55ec5ede0b833fa1a15e770530ad",
+          "lastSyncedAt": "2026-11-26T05:16:08.041Z"
+        }
+      ]
+    },
     {
       "frontendId": "3436",
       "title": "Find Valid Emails",
