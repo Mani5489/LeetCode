@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:14:05.767Z",
+  "updatedAt": "2026-11-26T05:14:12.890Z",
   "problems": [
     {
       "frontendId": "56",
@@ -464,6 +464,26 @@
           "path": "leetcode/0860-lemonade-change/0860-lemonade-change.py",
           "sha": "3b5da7af3dfb3336eaf48f9e26b51c4b53b27a46",
           "lastSyncedAt": "2026-11-26T05:07:03.460Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "888",
+      "title": "Fair Candy Swap",
+      "slug": "fair-candy-swap",
+      "problemName": "0888-fair-candy-swap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fair-candy-swap/",
+      "folderPath": "leetcode/0888-fair-candy-swap/",
+      "readmePath": "leetcode/0888-fair-candy-swap/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0888-fair-candy-swap.py",
+          "path": "leetcode/0888-fair-candy-swap/0888-fair-candy-swap.py",
+          "sha": "5a93747628135d17471cb8a942e3ce9958690d28",
+          "lastSyncedAt": "2026-11-26T05:14:12.890Z"
         }
       ]
     },
