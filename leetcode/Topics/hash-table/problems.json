@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:28:48.170Z",
+  "updatedAt": "2026-11-26T03:28:54.924Z",
   "problems": [
+    {
+      "frontendId": "748",
+      "title": "Shortest Completing Word",
+      "slug": "shortest-completing-word",
+      "problemName": "0748-shortest-completing-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-completing-word/",
+      "folderPath": "leetcode/0748-shortest-completing-word/",
+      "readmePath": "leetcode/0748-shortest-completing-word/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0748-shortest-completing-word.py",
+          "path": "leetcode/0748-shortest-completing-word/0748-shortest-completing-word.py",
+          "sha": "abbbf3428f39b22825228dbedd6f5179c0b0bb55",
+          "lastSyncedAt": "2026-11-26T03:28:54.924Z"
+        }
+      ]
+    },
     {
       "frontendId": "771",
       "title": "Jewels and Stones",
