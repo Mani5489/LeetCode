@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T15:50:27.468Z",
+  "updatedAt": "2026-11-26T15:50:32.620Z",
   "problems": [
     {
       "frontendId": "5",
@@ -983,7 +983,7 @@
           "filename": "1790-check-if-one-string-swap-can-make-strings-equal.py",
           "path": "leetcode/1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.py",
           "sha": "de8460690ee0dcd7115fdeecaf660956469facb7",
-          "lastSyncedAt": "2026-11-26T05:48:18.319Z"
+          "lastSyncedAt": "2026-11-26T15:50:32.620Z"
         }
       ]
     },
