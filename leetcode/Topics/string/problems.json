@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T15:53:43.069Z",
+  "updatedAt": "2026-11-26T15:53:48.514Z",
   "problems": [
     {
       "frontendId": "5",
@@ -603,7 +603,7 @@
           "filename": "0748-shortest-completing-word.py",
           "path": "leetcode/0748-shortest-completing-word/0748-shortest-completing-word.py",
           "sha": "abbbf3428f39b22825228dbedd6f5179c0b0bb55",
-          "lastSyncedAt": "2026-11-26T05:51:57.603Z"
+          "lastSyncedAt": "2026-11-26T15:53:48.514Z"
         }
       ]
     },
