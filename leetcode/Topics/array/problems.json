@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:53:49.964Z",
+  "updatedAt": "2026-11-26T05:54:00.782Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2323,7 +2323,7 @@
           "filename": "2475-number-of-unequal-triplets-in-array.py",
           "path": "leetcode/2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.py",
           "sha": "7fa3c789683c36d28aa0cab95146212fdb28164f",
-          "lastSyncedAt": "2026-11-26T04:57:13.076Z"
+          "lastSyncedAt": "2026-11-26T05:54:00.782Z"
         }
       ]
     },
