@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-26T16:00:51.012Z",
+  "updatedAt": "2026-11-26T16:07:52.838Z",
   "problems": [
     {
       "frontendId": "219",
@@ -63,7 +63,7 @@
           "filename": "0643-maximum-average-subarray-i.py",
           "path": "leetcode/0643-maximum-average-subarray-i/0643-maximum-average-subarray-i.py",
           "sha": "9e2e0fc094bd54d9140e06239c5b3dfe42a48d7c",
-          "lastSyncedAt": "2026-11-26T06:06:44.786Z"
+          "lastSyncedAt": "2026-11-26T16:07:52.838Z"
         }
       ]
     },
