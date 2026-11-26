@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:26:56.879Z",
+  "updatedAt": "2026-11-26T03:27:04.814Z",
   "problems": [
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "leetcode/1189-maximum-number-of-balloons/",
+      "readmePath": "leetcode/1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1189-maximum-number-of-balloons.py",
+          "path": "leetcode/1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.py",
+          "sha": "8aa15c16c2abc3c582fe0046d10647dedd967a18",
+          "lastSyncedAt": "2026-11-26T03:27:04.814Z"
+        }
+      ]
+    },
     {
       "frontendId": "1207",
       "title": "Unique Number of Occurrences",
