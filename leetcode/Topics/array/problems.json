@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:31:34.574Z",
+  "updatedAt": "2026-11-26T03:31:42.813Z",
   "problems": [
     {
       "frontendId": "500",
@@ -444,6 +444,26 @@
           "path": "leetcode/2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.py",
           "sha": "7fa3c789683c36d28aa0cab95146212fdb28164f",
           "lastSyncedAt": "2026-11-26T03:31:14.292Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2733",
+      "title": "Neither Minimum nor Maximum",
+      "slug": "neither-minimum-nor-maximum",
+      "problemName": "2733-neither-minimum-nor-maximum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/neither-minimum-nor-maximum/",
+      "folderPath": "leetcode/2733-neither-minimum-nor-maximum/",
+      "readmePath": "leetcode/2733-neither-minimum-nor-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2733-neither-minimum-nor-maximum.py",
+          "path": "leetcode/2733-neither-minimum-nor-maximum/2733-neither-minimum-nor-maximum.py",
+          "sha": "b79a2709b986ef81f8e18cb394d3da5622c0b0b3",
+          "lastSyncedAt": "2026-11-26T03:31:42.813Z"
         }
       ]
     },
