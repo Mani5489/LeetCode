@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-26T05:23:40.287Z",
+  "updatedAt": "2026-11-26T05:24:29.387Z",
   "problems": [
     {
       "frontendId": "56",
@@ -24,6 +24,26 @@
           "path": "leetcode/0056-merge-intervals/0056-merge-intervals.py",
           "sha": "1a123935f492e0fbadbadbd3d4557e8094fdbd1e",
           "lastSyncedAt": "2026-11-26T05:10:04.997Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "leetcode/0088-merge-sorted-array/",
+      "readmePath": "leetcode/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0088-merge-sorted-array.py",
+          "path": "leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "sha": "ce4cedc9caa35a9074e3520ec8b8b63e15e68fb0",
+          "lastSyncedAt": "2026-11-26T05:24:29.387Z"
         }
       ]
     },
