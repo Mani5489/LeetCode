@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T16:05:04.397Z",
+  "updatedAt": "2026-11-26T16:05:44.449Z",
   "problems": [
     {
       "frontendId": "175",
@@ -783,7 +783,7 @@
           "filename": "3482-analyze-organization-hierarchy.sql",
           "path": "leetcode/3482-analyze-organization-hierarchy/3482-analyze-organization-hierarchy.sql",
           "sha": "e0ca2f8d56b50844222c1e69fd67cf57dd1c2ded",
-          "lastSyncedAt": "2026-11-26T06:04:26.247Z"
+          "lastSyncedAt": "2026-11-26T16:05:44.449Z"
         }
       ]
     },
