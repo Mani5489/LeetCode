@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:35:42.902Z",
+  "updatedAt": "2026-11-26T03:35:58.310Z",
   "problems": [
     {
       "frontendId": "202",
@@ -1104,6 +1104,26 @@
           "path": "leetcode/3731-find-missing-elements/3731-find-missing-elements.py",
           "sha": "75dd20b14740c69de5cf0baa568213279af312f8",
           "lastSyncedAt": "2026-11-26T03:30:00.814Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3842",
+      "title": "Toggle Light Bulbs",
+      "slug": "toggle-light-bulbs",
+      "problemName": "3842-toggle-light-bulbs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/toggle-light-bulbs/",
+      "folderPath": "leetcode/3842-toggle-light-bulbs/",
+      "readmePath": "leetcode/3842-toggle-light-bulbs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3842-toggle-light-bulbs.py",
+          "path": "leetcode/3842-toggle-light-bulbs/3842-toggle-light-bulbs.py",
+          "sha": "c54c30afc58e0255ed395877c4c1a707a378a303",
+          "lastSyncedAt": "2026-11-26T03:35:58.310Z"
         }
       ]
     }
