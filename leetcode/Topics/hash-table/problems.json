@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T03:27:21.285Z",
+  "updatedAt": "2026-11-26T03:27:30.486Z",
   "problems": [
+    {
+      "frontendId": "961",
+      "title": "N-Repeated Element in Size 2N Array",
+      "slug": "n-repeated-element-in-size-2n-array",
+      "problemName": "0961-n-repeated-element-in-size-2n-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+      "folderPath": "leetcode/0961-n-repeated-element-in-size-2n-array/",
+      "readmePath": "leetcode/0961-n-repeated-element-in-size-2n-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0961-n-repeated-element-in-size-2n-array.py",
+          "path": "leetcode/0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.py",
+          "sha": "50b585d02dd42b5043276a5796dd43b13c6a80b6",
+          "lastSyncedAt": "2026-11-26T03:27:30.486Z"
+        }
+      ]
+    },
     {
       "frontendId": "997",
       "title": "Find the Town Judge",
