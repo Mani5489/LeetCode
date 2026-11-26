@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T05:10:04.997Z",
+  "updatedAt": "2026-11-26T05:10:15.568Z",
   "problems": [
     {
       "frontendId": "56",
@@ -224,6 +224,26 @@
           "path": "leetcode/0599-minimum-index-sum-of-two-lists/0599-minimum-index-sum-of-two-lists.py",
           "sha": "12d76afa11c781a12b35a59d2d1afc58e65a7b48",
           "lastSyncedAt": "2026-11-26T05:09:38.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "leetcode/0605-can-place-flowers/",
+      "readmePath": "leetcode/0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0605-can-place-flowers.py",
+          "path": "leetcode/0605-can-place-flowers/0605-can-place-flowers.py",
+          "sha": "83110fc69df687a1aaba05458909e4aea6ac2ef9",
+          "lastSyncedAt": "2026-11-26T05:10:15.568Z"
         }
       ]
     },
