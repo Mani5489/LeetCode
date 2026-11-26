@@ -5,7 +5,7 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-26T03:27:21.285Z",
+  "updatedAt": "2026-11-26T03:52:41.944Z",
   "problems": [
     {
       "frontendId": "997",
@@ -23,7 +23,7 @@
           "filename": "0997-find-the-town-judge.py",
           "path": "leetcode/0997-find-the-town-judge/0997-find-the-town-judge.py",
           "sha": "749c824e1dcef084e23b498b2cfe4246a174483f",
-          "lastSyncedAt": "2026-11-26T03:27:21.285Z"
+          "lastSyncedAt": "2026-11-26T03:52:41.944Z"
         }
       ]
     }
