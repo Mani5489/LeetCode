@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-26T03:26:19.512Z",
+  "updatedAt": "2026-11-26T03:26:32.629Z",
   "problems": [
+    {
+      "frontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "problemName": "1207-unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+      "folderPath": "leetcode/1207-unique-number-of-occurrences/",
+      "readmePath": "leetcode/1207-unique-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1207-unique-number-of-occurrences.py",
+          "path": "leetcode/1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.py",
+          "sha": "4bab17060623d74155e8efb1f36f67aef3ca0e34",
+          "lastSyncedAt": "2026-11-26T03:26:32.629Z"
+        }
+      ]
+    },
     {
       "frontendId": "1275",
       "title": "Find Winner on a Tic Tac Toe Game",
