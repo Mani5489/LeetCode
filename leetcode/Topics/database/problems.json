@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T05:11:12.676Z",
+  "updatedAt": "2026-11-26T05:11:59.211Z",
   "problems": [
     {
       "frontendId": "3482",
@@ -24,6 +24,26 @@
           "path": "leetcode/3482-analyze-organization-hierarchy/3482-analyze-organization-hierarchy.sql",
           "sha": "e0ca2f8d56b50844222c1e69fd67cf57dd1c2ded",
           "lastSyncedAt": "2026-11-26T05:06:23.226Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3497",
+      "title": "Analyze Subscription Conversion ",
+      "slug": "analyze-subscription-conversion",
+      "problemName": "3497-analyze-subscription-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/analyze-subscription-conversion/",
+      "folderPath": "leetcode/3497-analyze-subscription-conversion/",
+      "readmePath": "leetcode/3497-analyze-subscription-conversion/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "3497-analyze-subscription-conversion.sql",
+          "path": "leetcode/3497-analyze-subscription-conversion/3497-analyze-subscription-conversion.sql",
+          "sha": "6f9430cf3f285048a63946b7bcab6eb63443b81d",
+          "lastSyncedAt": "2026-11-26T05:11:59.211Z"
         }
       ]
     },
